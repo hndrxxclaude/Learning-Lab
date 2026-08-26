@@ -29,23 +29,3 @@ algorithms, and building toward AI/ML use.
 
 ### [`Projects/`](./Projects)
 Small standalone projects, university or personal, that don't fit into a single course bucket.
-
----
-
-## 📜 Certifications
-
-- [Cisco Introduction to Cybersecurity](link)
-- [IBM Getting Started with Generative AI](link)
-- [Apple Foundation Program](link)
-
----
-
-## 🛠 Tech & Foundations
-
-![Python](badge) ![C](badge) ![Java](badge) ![SQL](badge) ![ARM32](badge)
-
----
-
-## 📫 Contact
-
-[LinkedIn](link) · [claudiomariogentile0@gmail.com](mailto:...)
