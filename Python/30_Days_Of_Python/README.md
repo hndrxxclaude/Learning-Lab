@@ -21,6 +21,7 @@ Locking in Python fundamentals before pushing further into machine learning and 
 | 6 | Tuples | ✅ |
 | 7 | Sets | ✅ |
 | 8 | Dictionaries | ✅ |
+| 9 | Conditionals | 🟡 |
 | ... | ... | ⬜ |
 | 30 | Putting It All Together | ⬜ |
 
