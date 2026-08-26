@@ -18,7 +18,9 @@ toward becoming an expert AI Engineer.
 ARM32 assembly routines from my Computer Architecture course — low-level programming,
 memory access, stack usage and condition flags using VisUAL2
 
-<img src="./images/Screenshot%202026-08-26%20at%2016.06.31.png" width="400">
+<p align="center">
+<img src="./images/Screenshot%202026-08-26%20at%2016.06.31.png" width="600">
+</p>
 
 ### Java
 Exercises from this semester's Java course — OOP, collections, streams, debugging exercises
