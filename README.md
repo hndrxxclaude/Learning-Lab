@@ -15,7 +15,7 @@ toward becoming an expert AI Engineer.
 ## 📂 What's inside
 
 ### Assembly
-ARM32 assembly routines from my Computer Architecture course — low-level programming,
+ARM32 assembly routines from my Computer Architecture course: low-level programming,
 memory access, stack usage and condition flags using VisUAL2
 
 <p align="center">
@@ -23,11 +23,15 @@ memory access, stack usage and condition flags using VisUAL2
 </p>
 
 ### Java
-Exercises from this semester's Java course — OOP, collections, streams, debugging exercises
+Exercises from this semester's Java course: OOP, collections, streams, debugging exercises
 
 ### Python
-Self-taught Python, working through the 30 Days of Python challenge — fundamentals,
+Self-taught Python, working through the 30 Days of Python challenge: fundamentals,
 algorithms, and building toward AI/ML use
+
+<p align="center">
+<img src="./images/30DaysOfPython_banner3@2x.png" width="600">
+</p>
 
 ### Projects
 Small standalone projects, university or personal, that don't fit into a single course bucket
