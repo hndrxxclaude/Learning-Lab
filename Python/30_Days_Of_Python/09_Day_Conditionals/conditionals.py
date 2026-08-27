@@ -70,7 +70,7 @@ else:
 month = int(input("Enter the month (1-12): "))
 
 if 9 <= month <= 11:
-    print("It's Winter.")
+    print("It's Autumn.")
 elif 3 <= month <= 5: 
     print("It's Spring.")
 elif 6 <= month <= 8:
@@ -129,7 +129,19 @@ if 'skills' in person.keys():
         print("Middle skill: ")
         print(skills[len(skills) // 2])
 
-    if 'Python' in skills:
-        print("This person has python in his skillset!")
+    if 'Python' in skills: # Here we check if the person has Python in their skills
+        print("This person has Python in his skillset!")
     else:
         print("Unfortunately this person does not have Pyhton in his skillset.")
+
+    if 'JavaScript' in skills and 'React' in skills and len(skills) == 2:
+        print("He is a front end developer")
+    elif 'Node' in skills and 'Python' in skills and 'MongoDB' in skills and len(skills) == 3:
+        print("He's a back end developer")
+    elif 'React' in skills and 'Node' in skills and 'MongoDB' in skills:
+        print("He's a full stack developer")
+    else:
+        print("Unknown title")
+
+if person['country'] == "Finland" and person['is_married']:
+    print(f"{person['first_name']} {person['last_name']} lives in Finland. He is married")
