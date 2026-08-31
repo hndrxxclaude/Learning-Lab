@@ -188,7 +188,12 @@ print(factorial(4))
 # They should calculate_mean, calculate_median, calculate_mode, calculate_range, calculate_variance, calculate_std (standard deviation).
 
 def calculate_mean(lst:list):
-    pass
+    total = 0
+    for element in lst:
+        total += element
+    return (total / len(lst))
+
+print(calculate_mean([5, 7.5, 10, 6.5]))
 
 def calculate_median(lst:list):
     pass
