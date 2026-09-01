@@ -196,7 +196,15 @@ def calculate_mean(lst:list):
 print(calculate_mean([5, 7.5, 10, 6.5]))
 
 def calculate_median(lst:list):
-    pass
+    lst.sort()
+    length = len(lst)
+    if length % 2 == 0:
+        return [lst[(length // 2) - 1], lst[length // 2]]
+    else:
+        return lst[length // 2]
+
+print(calculate_median([1, 87, 3, 56, 7, 33]))
+
 
 def calculate_range(lst:list):
     pass
