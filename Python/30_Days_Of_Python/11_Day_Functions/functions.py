@@ -1,3 +1,5 @@
+import math
+
 # FUNCTIONS EXCERCISES
 
 # LEVEL 1
@@ -207,17 +209,128 @@ print(calculate_median([1, 87, 3, 56, 7, 33]))
 
 
 def calculate_range(lst:list):
-    pass
+    lst.sort()
+    return lst[len(lst) - 1] - lst[0]
+
+print(calculate_range([1, 87, 3, 56, 7, 33]))
 
 def calculate_mode(lst:list):
-    pass
+    count = dict()
+    for num in lst:
+        if num not in count.keys():
+            count[num] = 1
+        else:
+            count[num] += 1
+
+    most_occurrences = max(count.values())
+
+    mode = 0
+    for key, value in count.items():
+        if value == most_occurrences:
+            mode = key
+    return mode
+
+print(calculate_mode([1, 7, 3, 56, 7, 33]))
 
 def calculate_variance(lst:list):
-    pass
+    mean = calculate_mean(lst)
+
+    scarti = list()
+    
+    for num in lst:
+        scarti.append((num - mean) ** 2)
+
+    total = 0
+    for scarto_quadratico in scarti:
+        total += scarto_quadratico
+
+    return total / len(lst)
+
+print(calculate_variance([1, 7, 3, 56, 7, 33]))
+print(math.sqrt(calculate_variance([1, 7, 3, 56, 7, 33])))
 
 def calculate_std(lst:list):
-    pass
+    return math.sqrt(calculate_variance(lst))
 
+print(calculate_std([1, 7, 3, 56, 7, 33]))
+
+# 4. Write a function called greet which takes a default argument, name. 
+# If no argument is supplied it should print "Hello, Guest!", otherwise it should greet the person by name.
+
+def greet(name = "Guest"):
+    print(f"Hello {name}!")
+
+greet()
+greet("Claudio")
+
+# 5. Create a function called show_args to take an arbitrary number of named arguments and print their names and values.
+
+def show_args(name, value):
+    print(f"Name: {name}, Value: {value}")
+
+# ==========================================================
 
 # LEVEL 3
 
+# 1. Write a function called is_prime, which checks if a number is prime.
+
+def is_prime(num: int):
+    if num < 2:
+        print(f"{num} is not a prime number.")
+        return
+    divisions = 0
+    i = 1
+    while i <= num:
+        if num % i == 0:
+            divisions += 1
+        i += 1
+    if divisions == 2:
+        print(f"{num} is a prime number!")
+    else:
+        print(f"{num} is not a prime number.")
+
+is_prime(2)
+is_prime(3)
+is_prime(4)
+is_prime(7)
+is_prime(9)
+is_prime(13)
+
+# 2. Write a functions which checks if all items are unique in the list.
+
+def all_uniques(lst: list):
+    if len(set(lst)) == len(lst):
+        print("The elements of the list are all uniques!")
+    else:
+        print("The elements of the list are not uniques.")
+
+all_uniques([1, 3, 7, 56, 13, 87])
+all_uniques([1, 3, 7, 56, 13, 7])
+
+# 3. Write a function which checks if all the items of the list are of the same data type.
+
+def same_data_type(lst: list):
+    data_types = {type(element) for element in lst}
+
+    if len(data_types) <= 1:
+        print("The elements of the list are all of the same data type!")
+    else:
+        print("The elements of the list are of multiple data types.")
+
+same_data_type([1, 3, 7, 56, 13, 87])
+same_data_type([1, 3, 7, 'Different type', 13, 87])
+
+# 4. Write a function which check if provided variable is a valid python variable
+
+def valid_variable(variable):
+    pass
+
+# 5. Go to the data folder and access the countries-data.py file.
+# - Create a function called the most_spoken_languages in the world. It should return 10 or 20 most spoken languages in the world in descending order
+# - Create a function called the most_populated_countries. It should return 10 or 20 most populated countries in descending order.
+
+def most_spoken_languages():
+    pass
+
+def most_populated_countries():
+    pass
