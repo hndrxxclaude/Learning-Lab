@@ -24,6 +24,7 @@ Locking in Python fundamentals before pushing further into machine learning and 
 | 9 | Conditionals | ✅ |
 | 10 | Loops | ✅ |
 | 11 | Functions | ✅ |
+| 12 | Modules | 🟡 |
 | ... | ... | ⬜ |
 | 30 | Putting It All Together | ⬜ |
 
