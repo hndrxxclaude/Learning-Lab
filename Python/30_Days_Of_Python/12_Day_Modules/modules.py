@@ -126,4 +126,31 @@ generate_colors('rgb', 1)
 
 # 1. Call your function shuffle_list, it takes a list as a parameter and it returns a shuffled list
 
+def shuffle_list(lst: list):
+    length = len(lst)
+
+    for i in range(length):
+        tmp = lst[i]
+        index = random.randint(0,length - 1)
+        lst[i] = lst[index]
+        lst[index] = tmp
+
+    return lst
+
+print(shuffle_list([1, 2, 3, 4, 5]))
+
 # 2. Write a function which returns an array of seven random numbers in a range of 0-9. All the numbers must be unique.
+
+def seven_random_numbers():
+    array = []
+
+    for i in range(7):
+        found = True
+        while found != False:
+            number = random.randint(0,9)
+            if number not in array:
+                array.append(number)
+                found = False
+    return array
+
+print(seven_random_numbers())
