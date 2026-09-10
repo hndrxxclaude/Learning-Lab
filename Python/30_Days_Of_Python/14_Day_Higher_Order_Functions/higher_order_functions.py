@@ -168,10 +168,11 @@ def ten_languages(countries: list[dict]):
     lang_counts = dict()
 
     for country in countries:
-        for language in country.get("languages", []):
-            lang_counts[language] = lang_counts.get(language, 0) + 1
+        for language in country.get("languages", []): # languages is a list, so we put [] as default
+            lang_counts[language] = lang_counts.get(language, 0) + 1 # adding a new language or incrementing the counter
 
     return [lang for lang, n in sorted(lang_counts.items() , key = lambda item: item[1], reverse = True)] [:10]
+    # items() returns a tuple (lang, n) and we order these by count (item[1]) descending 
 
 print(ten_languages(c_data))
 
