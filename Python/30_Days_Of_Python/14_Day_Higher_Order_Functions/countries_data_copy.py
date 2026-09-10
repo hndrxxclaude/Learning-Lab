@@ -2688,3 +2688,4 @@ while counter < 10:
 print("\nTop Ten biggest countries by population in the data: ")
 for country, pop in top_ten_population.items():
     print(f"{country}: {pop}")
+

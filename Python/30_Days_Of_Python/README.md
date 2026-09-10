@@ -26,7 +26,7 @@ Locking in Python fundamentals before pushing further into machine learning and 
 | 11 | Functions | ✅ |
 | 12 | Modules | ✅ |
 | 13 | List Comprehension | ✅ |
-| 14 | Higher Order Functions | 🟡 |
+| 14 | Higher Order Functions | ✅ |
 | ... | ... | ⬜ |
 | 30 | Putting It All Together | ⬜ |
 

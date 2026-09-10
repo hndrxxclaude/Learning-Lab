@@ -144,6 +144,40 @@ def get_last_ten_countries(country_list: list):
 
 # 1. Use the countries_data.py (https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries-data.py) file and follow the tasks below
 
+from countries_data_copy import countries_data as c_data
+
 # - Sort countries by name, by capital, by population
+
+def sorted_name(countries: list[dict]):
+    return sorted(countries, key = lambda x: x["name"])
+
+def sorted_capital(countries: list[dict]):
+    return sorted(countries, key = lambda x: x["capital"])
+
+def sorted_population(countries: list[dict]):
+    return sorted(countries, key = lambda x: x["population"])
+
+print(sorted_name(c_data))
+print(sorted_capital(c_data))
+print(sorted_population(c_data))
+
+
 # - Sort out the ten most spoken languages by location.
-# - ort out the ten most populated countries.
+
+def ten_languages(countries: list[dict]):
+    lang_counts = dict()
+
+    for country in countries:
+        for language in country.get("languages", []):
+            lang_counts[language] = lang_counts.get(language, 0) + 1
+
+    return [lang for lang, n in sorted(lang_counts.items() , key = lambda item: item[1], reverse = True)] [:10]
+
+print(ten_languages(c_data))
+
+# - Sort out the ten most populated countries.
+
+def ten_population(countries: list[dict]):
+    return sorted(countries, key = lambda x: x["population"], reverse = True)[:10]
+
+print(ten_population(c_data))
