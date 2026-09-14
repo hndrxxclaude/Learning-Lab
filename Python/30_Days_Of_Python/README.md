@@ -27,6 +27,10 @@ Locking in Python fundamentals before pushing further into machine learning and 
 | 12 | Modules | ✅ |
 | 13 | List Comprehension | ✅ |
 | 14 | Higher Order Functions | ✅ |
+| 15 | Python Type Errors | ✅ |
+| 16 | Python DateTime | ✅ |
+| 17 | Exception Handling | ✅ |
+| 18 | Regular Expressions | ✅ |
 | ... | ... | ⬜ |
 | 30 | Putting It All Together | ⬜ |
 
