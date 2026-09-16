@@ -86,33 +86,23 @@ def extract_emails(filename: str):
 # 2. Find the most common words in the English language. Call the name of your function find_most_common_words, 
 # it will take two parameters - a string or a file and a positive integer, indicating the number of words. 
 # Your function will return an array of tuples in descending order. Check the output
+import os
+    
 
 def find_most_common_words(text: str, number: int):
     if number <= 0:
-        return "The number of most common words must be a positive integer."
+        raise ValueError("The number of words must be a positive integer.")
+    
     regex = r'\w+'
 
-    try:
+    if os.path.isfile(text):
         with open(text, "r", encoding = "utf-8") as f:
-            txt = f.read().lower()
-
-            matches = re.findall(regex, txt)
-
-            words = dict()
-            for word in matches:
-                if word not in words.keys():
-                    words[word] = 1
-                else:
-                    words[word] += 1
-
-            return sorted(words.items(), key = lambda item: item[1], reverse = True)[:number]
-    except:
-        print("Il testo passato come argomento non è un file.")
-
-    txt = text.lower()
-
-    matches = re.findall(regex, txt)
+            content = f.read().lower()
+    else:
+        content = text
     
+    matches = re.findall(regex, content.lower())
+
     words = dict()
     for word in matches:
         if word not in words.keys():
@@ -120,7 +110,59 @@ def find_most_common_words(text: str, number: int):
         else:
             words[word] += 1
     
+    print(f"The {number} most frequent words in {text} are: ")
     return sorted(words.items(), key = lambda item: item[1], reverse = True)[:number]
 
 print(find_most_common_words("./data/obama_speech.txt", 3))
-print(find_most_common_words("Patata bollente patata bollente patata bollente patata", 1))
+print(find_most_common_words("I love love because love is all we need", 1))
+
+
+# 3. Use the function, find_most_frequent_words to find:
+# - The ten most frequent words used in Obama's speech
+# - The ten most frequent words used in Michelle's speech
+# - The ten most frequent words used in Trump's speech
+# - The ten most frequent words used in Melina's speech
+
+print(find_most_common_words("./data/obama_speech.txt", 10))
+print(find_most_common_words("./data/michelle_obama_speech.txt", 10))
+print(find_most_common_words("./data/donald_speech.txt", 10))
+print(find_most_common_words("./data/melina_trump_speech.txt", 10))
+
+
+# 4. Write a python application that checks similarity between two texts. It takes a file or a string as a parameter and 
+# it will evaluate the similarity of the two texts. For instance check the similarity between the transcripts 
+# of Michelle's and Melina's speech. You may need a couple of functions, function to clean the text(clean_text), 
+# function to remove support words(remove_support_words) and finally to check the similarity(check_text_similarity). 
+# List of stop words are in the data directory
+
+from stop_words_copy import stop_words as sw
+
+def clean_text(text: str) -> list[str]:
+    if os.path.isfile(text):
+        with open(text, "r", encoding = "utf-8") as f:
+            content = f.read().lower()
+    else:
+        content = text.lower()
+
+    return re.findall(r"\b\w+\b", content)
+
+
+def remove_support_words(text: list[str]) -> list[str]:
+    return [word for word in text if word not in sw]
+
+
+def check_text_similarity(text_1: str, text_2: str) -> float:
+    words_1 = set(remove_support_words(clean_text(text_1)))
+    words_2 = set(remove_support_words(clean_text(text_2)))
+
+    intersection = words_1.intersection(words_2)
+    union = words_1.union(words_2)
+
+    return round(len(intersection) / len(union), 2) if union else 0.0
+
+print(f"Text similarity between Michelle's and Melina's speeches: {check_text_similarity("./data/michelle_obama_speech.txt", "./data/melina_trump_speech.txt")}")
+
+
+# 5. Find the 10 most repeated words in the romeo_and_juliet.txt
+
+print(find_most_common_words("./data/romeo_and_juliet.txt", 10))
