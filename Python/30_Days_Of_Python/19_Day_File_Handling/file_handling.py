@@ -69,3 +69,58 @@ print(most_populated_countries("./data/countries_data.json", 3))
 
 # LEVEL 2 
 
+# 1. Extract all incoming email addresses as a list from the email_exchange_big.txt file.
+
+def extract_emails(filename: str):
+    with open(filename, "r", encoding = "utf-8") as f:
+        txt = f.read()
+
+        regex = r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
+
+        matches = re.findall(regex, txt)
+
+        return matches
+    
+# print(extract_emails("./data/email_exchanges_big.txt")) leaving it as a comment because it's too many mails
+
+# 2. Find the most common words in the English language. Call the name of your function find_most_common_words, 
+# it will take two parameters - a string or a file and a positive integer, indicating the number of words. 
+# Your function will return an array of tuples in descending order. Check the output
+
+def find_most_common_words(text: str, number: int):
+    if number <= 0:
+        return "The number of most common words must be a positive integer."
+    regex = r'\w+'
+
+    try:
+        with open(text, "r", encoding = "utf-8") as f:
+            txt = f.read().lower()
+
+            matches = re.findall(regex, txt)
+
+            words = dict()
+            for word in matches:
+                if word not in words.keys():
+                    words[word] = 1
+                else:
+                    words[word] += 1
+
+            return sorted(words.items(), key = lambda item: item[1], reverse = True)[:number]
+    except:
+        print("Il testo passato come argomento non è un file.")
+
+    txt = text.lower()
+
+    matches = re.findall(regex, txt)
+    
+    words = dict()
+    for word in matches:
+        if word not in words.keys():
+            words[word] = 1
+        else:
+            words[word] += 1
+    
+    return sorted(words.items(), key = lambda item: item[1], reverse = True)[:number]
+
+print(find_most_common_words("./data/obama_speech.txt", 3))
+print(find_most_common_words("Patata bollente patata bollente patata bollente patata", 1))
