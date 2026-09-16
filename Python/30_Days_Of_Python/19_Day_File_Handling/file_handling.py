@@ -99,9 +99,9 @@ def find_most_common_words(text: str, number: int):
         with open(text, "r", encoding = "utf-8") as f:
             content = f.read().lower()
     else:
-        content = text
+        content = text.lower()
     
-    matches = re.findall(regex, content.lower())
+    matches = re.findall(regex, content)
 
     words = dict()
     for word in matches:
