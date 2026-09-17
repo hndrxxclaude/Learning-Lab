@@ -166,3 +166,35 @@ print(f"Text similarity between Michelle's and Melina's speeches: {check_text_si
 # 5. Find the 10 most repeated words in the romeo_and_juliet.txt
 
 print(find_most_common_words("./data/romeo_and_juliet.txt", 10))
+
+
+# 6. Read the hacker news csv file and find out:
+# - Count the number of lines containing python or Python
+# - Count the number lines containing JavaScript, javascript or Javascript
+# - Count the number lines containing Java and not JavaScript
+
+with open("./data/hacker_news.csv") as f:
+   txt = f.readlines() # we have a list of all the lines in the file
+
+    # counters
+   py_number = 0
+   js_number = 0
+   java_number = 0
+
+   py_regex = r'\b[Pp]ython\b'
+   js_regex = r'\b[Jj]ava[Ss]cript\b'
+   java_regex = r'\bJava\b'
+   not_js_regex = r'^(?!.*\bJavaScript\b).*$' # ^ start of string or line, ?! negation, .* any single character 0 or more times,
+
+   for line in txt:
+        if len(re.findall(py_regex, line)) > 0:
+            py_number += 1
+        if len(re.findall(js_regex, line)) > 0:
+           js_number += 1
+        if len(re.findall(java_regex, line)) > 0 and len(re.findall(not_js_regex, line)) > 0:
+            java_number += 1
+
+print(f"Number of lines containing python or Python: {py_number}")
+print(f"Number of lines containing JavaScript, javascript or Javascript: {js_number}")
+print(f"Number of lines containing Java and not JavaScript: {java_number}")
+   
