@@ -1,0 +1,80 @@
+{
+    "tables": [
+        {
+            "headers": [
+                "Variable Name",
+                "Role",
+                "Type",
+                "Description",
+                "Units",
+                "Missing Values"
+            ],
+            "rows": [
+                {
+                    "Variable Name": "sepal length",
+                    "Role": "Feature",
+                    "Type": "Continuous",
+                    "Description": "",
+                    "Units": "cm",
+                    "Missing Values": "no"
+                },
+                {
+                    "Variable Name": "sepal width",
+                    "Role": "Feature",
+                    "Type": "Continuous",
+                    "Description": "",
+                    "Units": "cm",
+                    "Missing Values": "no"
+                },
+                {
+                    "Variable Name": "petal length",
+                    "Role": "Feature",
+                    "Type": "Continuous",
+                    "Description": "",
+                    "Units": "cm",
+                    "Missing Values": "no"
+                },
+                {
+                    "Variable Name": "petal width",
+                    "Role": "Feature",
+                    "Type": "Continuous",
+                    "Description": "",
+                    "Units": "cm",
+                    "Missing Values": "no"
+                },
+                {
+                    "Variable Name": "class",
+                    "Role": "Target",
+                    "Type": "Categorical",
+                    "Description": "class of iris plant: Iris Setosa, Iris Versicolour, or Iris Virginica",
+                    "Units": "",
+                    "Missing Values": "no"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "File",
+                "Size"
+            ],
+            "rows": [
+                {
+                    "File": "bezdekIris.data",
+                    "Size": "4.4 KB"
+                },
+                {
+                    "File": "iris.data",
+                    "Size": "4.4 KB"
+                },
+                {
+                    "File": "iris.names",
+                    "Size": "2.9 KB"
+                },
+                {
+                    "File": "Index",
+                    "Size": "105 Bytes"
+                }
+            ]
+        }
+    ]
+}
