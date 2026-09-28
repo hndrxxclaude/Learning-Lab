@@ -33,6 +33,7 @@ Locking in Python fundamentals before pushing further into machine learning and 
 | 18 | Regular Expressions | ✅ |
 | 19 | File Handling | ✅ |
 | 20 | Python Package Manager | ✅ |
+| 21 | Classes and Objects | ✅ |
 | ... | ... | ⬜ |
 | 30 | Putting It All Together | ⬜ |
 
