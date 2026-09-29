@@ -1,0 +1,2209 @@
+Name;Survived;Boarded;Class;MWC;Age;Adut_or_Chld;Sex;Paid;Boat_or_Body;Class_Dept;Class_Full
+DEAN, Miss Elizabeth Gladys 'Millvina';Alive;Southampton;3;Child;0,08;Child;Female;20,58;10;3rd Class Passenger;3
+DANBOM, Master Gilbert Sigvard Emanuel;Dead;Southampton;3;Child;0,33;Child;Male;14,40;;3rd Class Passenger;3
+TANNuS, Master As'ad;Alive;Cherbourg;3;Child;0,41;Child;Male;8,51;16;;3
+HaMaLaINEN, Master Viljo Unto Johannes;Alive;Southampton;2;Child;0,58;Child;Male;14,50;4;2nd Class Passenger;2
+PEACOCK, Master Alfred Edward;Dead;Southampton;3;Child;0,58;Child;Male;13,78;;3rd Class Passenger;3
+BACLINI, Miss Helene Barbara;Alive;Cherbourg;3;Child;0,75;Child;Female;19,26;C;3rd Class Passenger;3
+RICHARDS, Master Sibley George;Alive;Southampton;2;Child;0,75;Child;Male;18,75;4;2nd Class Passenger;2
+AKS, Master Frank Philip;Alive;Southampton;3;Child;0,83;Child;Male;9,35;11;3rd Class Passenger;3
+CALDWELL, Master Alden Gates;Alive;Southampton;2;Child;0,83;Child;Male;29,00;13;2nd Class Passenger;2
+WEST, Miss Barbara Joyce;Alive;Southampton;2;Child;0,83;Child;Female;27,75;10;2nd Class Passenger;2
+ALLISON, Master Hudson Trevor;Alive;Southampton;1;Child;0,92;Child;Male;151,80;11;1st Class Passenger;1
+BECKER, Master Richard F.;Alive;Southampton;2;Child;1;Child;Male;39,00;11;2nd Class Passenger;2
+DEAN, Master Bertram Vere;Alive;Southampton;3;Child;1;Child;Male;20,58;10;3rd Class Passenger;3
+GOODWIN, Master Sidney Leslie;Dead;Southampton;3;Child;1;Child;Male;46,90;;3rd Class Passenger;3
+JOHNSON, Miss Eleanor Ileen;Alive;Southampton;3;Child;1;Child;Female;11,13;15;3rd Class Passenger;3
+KLASeN, Miss Gertrud Emilia;Dead;Southampton;3;Child;1;Child;Female;12,18;;3rd Class Passenger;3
+LAROCHE, Miss Louise;Alive;Cherbourg;2;Child;1;Child;Female;41,58;14;2nd Class Passenger;2
+MALLET, Master Andr Clement;Alive;Cherbourg;2;Child;1;Child;Male;37,00;10;2nd Class Passenger;2
+NAKID, Miss Maria;Alive;Cherbourg;3;Child;1;Child;Female;15,74;C;3rd Class Passenger;3
+PANULA, Master Eino Viljam;Dead;Southampton;3;Child;1;Child;Male;39,69;;3rd Class Passenger;3
+SANDSTRM, Miss Beatrice Irene;Alive;Southampton;3;Child;1;Child;Female;16,70;13;3rd Class Passenger;3
+ALLISON, Miss Helen Loraine;Dead;Southampton;1;Child;2;Child;Female;151,80;;1st Class Passenger;1
+ANDERSSON, Miss Ellis Anna Maria;Dead;Southampton;3;Child;2;Child;Female;31,28;;3rd Class Passenger;3
+HIRVONEN, Miss Hildur Elisabeth;Alive;Southampton;3;Child;2;Child;Female;12,29;15;3rd Class Passenger;3
+NAVRATIL, Master Edmond Roger;Alive;Southampton;2;Child;2;Child;Male;26,00;D;2nd Class Passenger;2
+PaLSSON, Master Gsta Leonard;Dead;Southampton;3;Child;2;Child;Male;21,08;;3rd Class Passenger;3
+PANULA, Master Urho Abraham;Dead;Southampton;3;Child;2;Child;Male;39,69;;3rd Class Passenger;3
+PETER / JOSEPH, Miss Anna (Mary Joseph);Alive;Cherbourg;3;Child;2;Child;Female;22,59;C;;3
+QUICK, Miss Phyllis May;Alive;Southampton;2;Child;2;Child;Female;26,00;11;2nd Class Passenger;2
+RICE, Master Eugene Francis;Dead;Queenstown;3;Child;2;Child;Male;29,13;;3rd Class Passenger;3
+ROSBLOM, Miss Salli Helena;Dead;Southampton;3;Child;2;Child;Female;20,21;;3rd Class Passenger;3
+SKOOG, Miss Margit Elizabeth;Dead;Southampton;3;Child;2;Child;Female;27,90;;3rd Class Passenger;3
+STRM, Miss Telma Matilda;Dead;Southampton;3;Child;2;Child;Female;10,46;;3rd Class Passenger;3
+WELLS, Master Ralph Lester;Alive;Southampton;2;Child;2;Child;Male;23,00;14;2nd Class Passenger;2
+ASPLUND, Master Edvin Rojj Felix;Alive;Southampton;3;Child;3;Child;Male;31,39;15;3rd Class Passenger;3
+BACLINI, Miss Eugenie;Alive;Cherbourg;3;Child;3;Child;Female;19,26;C;3rd Class Passenger;3
+COUTTS, Master Neville Leslie;Alive;Southampton;3;Child;3;Child;Male;15,90;2;3rd Class Passenger;3
+LAROCHE, Miss Simonne Marie Anne Andre;Alive;Cherbourg;2;Child;3;Child;Female;41,58;14;2nd Class Passenger;2
+LEFEBVRE, Miss Ida;Dead;Southampton;3;Child;3;Child;Female;25,47;;3rd Class Passenger;3
+NAVRATIL, Master Michel Marcel;Alive;Southampton;2;Child;3;Child;Male;26,00;D;2nd Class Passenger;2
+PaLSSON, Miss Stina Viola;Dead;Southampton;3;Child;3;Child;Female;21,08;;3rd Class Passenger;3
+PEACOCK, Miss Treasteall;Dead;Southampton;3;Child;3;Child;Female;13,78;;3rd Class Passenger;3
+RICHARDS, Master William Rowe;Alive;Southampton;2;Child;3;Child;Male;18,75;4;2nd Class Passenger;2
+ANDERSSON, Master Sigvard Harald Elias;Dead;Southampton;3;Child;4;Child;Male;31,28;;3rd Class Passenger;3
+BECKER, Miss Marion Louise;Alive;Southampton;2;Child;4;Child;Female;39,00;11;2nd Class Passenger;2
+DODGE, Master Washington;Alive;Southampton;1;Child;4;Child;Male;81,86;5;1st Class Passenger;1
+JOHNSON, Master Harold Theodor;Alive;Southampton;3;Child;4;Child;Male;11,13;15;3rd Class Passenger;3
+KARUN, Miss Manca;Alive;Cherbourg;3;Child;4;Child;Female;13,42;15;3rd Class Passenger;3
+KINK-HEILMANN, Miss Luise Gretchen;Alive;Southampton;3;Child;4;Child;Female;22,00;2;3rd Class Passenger;3
+MUBaRIK, Master Halm;Alive;Cherbourg;3;Child;4;Child;Male;15,38;C;;3
+PETER / JOSEPH, Master Michael J. (Michael Joseph);Alive;Cherbourg;3;Child;4;Child;Male;22,59;D;;3
+RICE, Master Arthur;Dead;Queenstown;3;Child;4;Child;Male;29,13;;3rd Class Passenger;3
+SAGE, Master Thomas Henry;Dead;Southampton;3;Child;4;Child;Male;69,55;;3rd Class Passenger;3
+SANDSTRM, Miss Marguerite Rut;Alive;Southampton;3;Child;4;Child;Female;16,70;13;3rd Class Passenger;3
+WELLS, Miss Joan;Alive;Southampton;2;Child;4;Child;Female;23,00;14;2nd Class Passenger;2
+WEST, Miss Constance Mirium;Alive;Southampton;2;Child;4;Child;Female;27,75;10;2nd Class Passenger;2
+ASPLUND, Master Carl Edgar;Dead;Southampton;3;Child;5;Child;Male;31,39;;3rd Class Passenger;3
+ASPLUND, Miss Lillian Gertrud;Alive;Southampton;3;Child;5;Child;Female;31,39;15;3rd Class Passenger;3
+BACLINI, Miss Marie Catherine;Alive;Cherbourg;3;Child;5;Child;Female;19,26;C;3rd Class Passenger;3
+EMANUEL, Miss Virginia Ethel;Alive;Southampton;3;Child;5;Child;Female;12,48;13;3rd Class Passenger;3
+LEFEBVRE, Master Henry;Dead;Southampton;3;Child;5;Child;Male;25,47;;3rd Class Passenger;3
+SKOOG, Master Harald;Dead;Southampton;3;Child;5;Child;Male;27,90;;3rd Class Passenger;3
+ANDERSSON, Miss Ebba Iris Alfrida;Dead;Southampton;3;Child;6;Child;Female;31,28;;3rd Class Passenger;3
+HARPER, Miss Annie Jessie;Alive;Southampton;2;Child;6;Child;Female;33,00;11;2nd Class Passenger;2
+PaLSSON, Master Paul Folke;Dead;Southampton;3;Child;6;Child;Male;21,08;;3rd Class Passenger;3
+SPEDDEN, Master Robert Douglas;Alive;Cherbourg;1;Child;6;Child;Male;134,50;3;1st Class Passenger;1
+BOULOS, Miss Nourelain;Dead;Cherbourg;3;Child;7;Child;Female;15,25;;3rd Class Passenger;3
+FORD, Miss Robina Maggie;Dead;Southampton;3;Child;7;Child;Female;34,38;;3rd Class Passenger;3
+HART, Miss Eva Miriam;Alive;Southampton;2;Child;7;Child;Female;26,25;14;2nd Class Passenger;2
+JOHNSTON, Miss Catherine Nellie;Dead;Southampton;3;Child;7;Child;Female;23,45;;3rd Class Passenger;3
+MOOR, Master Meier;Alive;Southampton;3;Child;7;Child;Male;12,48;14;3rd Class Passenger;3
+MUBaRIK, Master Jirjis;Alive;Cherbourg;3;Child;7;Child;Male;15,38;C;;3
+PANULA, Master Juha Niilo;Dead;Southampton;3;Child;7;Child;Male;39,69;;3rd Class Passenger;3
+RICE, Master Eric;Dead;Queenstown;3;Child;7;Child;Male;29,13;;3rd Class Passenger;3
+SAGE, Miss Constance Gladys;Dead;Southampton;3;Child;7;Child;Female;69,55;;3rd Class Passenger;3
+COLLYER, Miss Marjorie Charlotte;Alive;Southampton;2;Child;8;Child;Female;26,25;14;2nd Class Passenger;2
+DAVIES, Master John Morgan jr;Alive;Southampton;2;Child;8;Child;Male;36,75;14;2nd Class Passenger;2
+DREW, Master Marshall Brines;Alive;Southampton;2;Child;8;Child;Male;32,50;10;2nd Class Passenger;2
+JOHNSTON, Master William Andrew;Dead;Southampton;3;Child;8;Child;Male;23,45;;3rd Class Passenger;3
+LEFEBVRE, Miss Jeannie;Dead;Southampton;3;Child;8;Child;Female;25,47;;3rd Class Passenger;3
+PaLSSON, Miss Torborg Danira;Dead;Southampton;3;Child;8;Child;Female;21,08;;3rd Class Passenger;3
+QUICK, Miss Winifred Vera;Alive;Southampton;2;Child;8;Child;Female;26,00;11;2nd Class Passenger;2
+RICE, Master George Hugh;Dead;Queenstown;3;Child;8;Child;Male;29,13;;3rd Class Passenger;3
+TU'MAH, Master Georges Youssef (George Thomas);Alive;Cherbourg;3;Child;8;Child;Male;15,25;C;;3
+ANDERSSON, Miss Ingeborg Constanzia;Dead;Southampton;3;Child;9;Child;Female;31,28;;3rd Class Passenger;3
+ASPLUND, Master Clarence Gustaf Hugo;Dead;Southampton;3;Child;9;Child;Male;31,39;;3rd Class Passenger;3
+BOULOS, Master Akar;Dead;Cherbourg;3;Child;9;Child;Male;15,25;;3rd Class Passenger;3
+COUTTS, Master William Loch Willie;Alive;Southampton;3;Child;9;Child;Male;15,90;2;;3
+GOLDSMITH, Master Frank John William;Alive;Southampton;3;Child;9;Child;Male;20,53;C;3rd Class Passenger;3
+GOODWIN, Master Harold Victor;Dead;Southampton;3;Child;9;Child;Male;46,90;;3rd Class Passenger;3
+OLSEN, Master Artur Karl;Alive;Southampton;3;Child;9;Child;Male;3,17;13;3rd Class Passenger;3
+SKOOG, Miss Mabel;Dead;Southampton;3;Child;9;Child;Female;27,90;;3rd Class Passenger;3
+TU'MAH, Miss Maria Youssef (Mary Thomas);Alive;Cherbourg;3;Child;9;Child;Female;15,25;C;;3
+VAN BILLIARD, Master Walter John;Dead;Southampton;3;Child;9;Child;Male;14,50;;3rd Class Passenger;3
+GOODWIN, Miss Jessie Allis;Dead;Southampton;3;Child;10;Child;Female;46,90;;3rd Class Passenger;3
+RICE, Master Albert;Dead;Queenstown;3;Child;10;Child;Male;29,13;;3rd Class Passenger;3
+SAGE, Miss Elizabeth Ada;Dead;Southampton;3;Child;10;Child;Female;69,55;;3rd Class Passenger;3
+SEMAN, Master Betros;Dead;Cherbourg;3;Child;10;Child;Male;4,00;;3rd Class Passenger;3
+VAN BILLIARD, Master James William;Dead;Southampton;3;Child;10;Child;Male;14,50;;3rd Class Passenger;3
+VAN IMPE, Miss Catharina;Dead;Southampton;3;Child;10;Child;Female;24,15;;3rd Class Passenger;3
+ANDERSSON, Miss Sigrid Elisabeth;Dead;Southampton;3;Child;11;Child;Female;31,28;;3rd Class Passenger;3
+CARTER, Master William Thornton II;Alive;Southampton;1;Child;11;Child;Male;120,00;4;1st Class Passenger;1
+GOODWIN, Master William Frederick;Dead;Southampton;3;Child;11;Child;Male;46,90;;3rd Class Passenger;3
+HASSAN ABILMONA, Mr Houssein Mohamed;Dead;Cherbourg;3;Child;11;Child;Male;18,79;;3rd Class Passenger;3
+NICOLA-YARRED, Master Elias (Louis Garrett);Alive;Cherbourg;3;Child;11;Child;Male;11,37;C;;3
+SKOOG, Master Karl Thorsten;Dead;Southampton;3;Child;11;Child;Male;27,90;;3rd Class Passenger;3
+BECKER, Miss Ruth Elizabeth;Alive;Southampton;2;Child;12;Child;Female;39,00;13;2nd Class Passenger;2
+LEFEBVRE, Miss Mathilde;Dead;Southampton;3;Child;12;Child;Female;25,47;;3rd Class Passenger;3
+SAGE, Master Anthony William;Dead;Southampton;3;Child;12;Child;Male;69,55;;3rd Class Passenger;3
+WATT, Miss Robertha Josephine;Alive;Southampton;2;Child;12;Child;Female;15,75;9;2nd Class Passenger;2
+ASPLUND, Master Filip Oscar;Dead;Southampton;3;Child;13;Child;Male;31,39;;3rd Class Passenger;3
+CARTER, Miss Lucile Polk;Alive;Southampton;1;Child;13;Child;Female;120,00;4;1st Class Passenger;1
+MELLINGER, Miss Madeleine Violet;Alive;Southampton;2;Child;13;Child;Female;19,50;14;2nd Class Passenger;2
+RYERSON, Master John Borie;Alive;Cherbourg;1;Child;13;Child;Male;262,38;4;1st Class Passenger;1
+ABBOTT, Mr Eugene Joseph;Dead;Southampton;3;Child;14;Child;Male;20,25;;3rd Class Passenger;3
+GOODWIN, Mr Charles Edward;Dead;Southampton;3;Child;14;Child;Male;46,90;;3rd Class Passenger;3
+NASSER, Mrs Adele;Alive;Cherbourg;2;Child;14;Child;Female;30,07;;2nd Class Passenger;2
+NICOLA-YARRED, Miss Jamila (Amelia Garrett);Alive;Cherbourg;3;Child;14;Child;Female;11,37;C;;3
+PANULA, Master Jaako Arnold;Dead;Southampton;3;Child;14;Child;Male;39,69;;3rd Class Passenger;3
+SAGE, Miss Dorothy;Dead;Southampton;3;Child;14;Child;Female;69,55;;3rd Class Passenger;3
+SVENSSON, Mr Johan Cervin;Alive;Southampton;3;Child;14;Child;Male;9,23;13;3rd Class Passenger;3
+SWEET, Mr George Frederick;Dead;Southampton;2;Child;14;Child;Male;65,00;;2nd Class Passenger;2
+VESTRM, Miss Hulda Amanda Adolfina;Dead;Southampton;3;Child;14;Child;Female;7,85;;3rd Class Passenger;3
+WATSON, Mr William Albert;Dead;Southampton;Crew;Child;14;Child;Male;;;Victualling Crew;V
+ALLUM, Mr Owen George;Dead;Southampton;3;Man;15;Adult;Male;8,30;;3rd Class Passenger;3
+AYOUB DAHER, Miss Banoura;Alive;Cherbourg;3;Woman;15;Adult;Female;7,23;C;3rd Class Passenger;3
+BAILEY, Mr Percy;Dead;Southampton;2;Man;15;Adult;Male;11,50;;2nd Class Passenger;2
+BARRATT, Mr Arthur;Dead;Southampton;Crew;Man;15;Adult;Male;;;Victualling Crew;V
+BROWN, Miss Edith Eileen;Alive;Southampton;2;Woman;15;Adult;Female;39,00;14;2nd Class Passenger;2
+ELIAS, Mr Joseph jr.;Dead;Cherbourg;3;Man;15;Adult;Male;7,23;;3rd Class Passenger;3
+NAJIB KIAMIE, Miss Adele Jane;Alive;Cherbourg;3;Woman;15;Adult;Female;7,36;C;;3
+VANDERPLANCKE, Mr Leo Edmondus;Dead;Southampton;3;Man;15;Adult;Male;18,00;;3rd Class Passenger;3
+YAZBECK, Mrs Selini;Alive;Cherbourg;3;Woman;15;Adult;Female;14,45;;3rd Class Passenger;3
+ABBOTT, Mr Rossmore Edward;Dead;Southampton;3;Man;16;Adult;Male;20,25;;3rd Class Passenger;3
+ABELSETH, Miss Karen Marie;Alive;Southampton;3;Woman;16;Adult;Female;7,65;16;3rd Class Passenger;3
+CORR, Miss Helen;Alive;Queenstown;3;Woman;16;Adult;Female;7,75;16;3rd Class Passenger;3
+CRIBB, Miss Laura Mae;Alive;Southampton;3;Woman;16;Adult;Female;16,10;12;3rd Class Passenger;3
+DE PELSMAEKER, Mr Alfons;Dead;Southampton;3;Man;16;Adult;Male;9,50;;3rd Class Passenger;3
+EKLUND, Mr Hans Linus;Dead;Southampton;3;Man;16;Adult;Male;7,78;;3rd Class Passenger;3
+FORD, Mr William Neal Thomas;Dead;Southampton;3;Man;16;Adult;Male;34,38;;3rd Class Passenger;3
+GASKELL, Mr Alfred;Dead;Southampton;2;Man;16;Adult;Male;26,00;;2nd Class Passenger;2
+GOODWIN, Miss Lillian Amy;Dead;Southampton;3;Woman;16;Adult;Female;46,90;;3rd Class Passenger;3
+HARRIS, Mr Clifford Henry;Dead;Southampton;Crew;Man;16;Adult;Male;;;Victualling Crew;V
+HOARE, Mr Leonard James;Dead;Belfast;Crew;Man;16;Adult;Male;;;Victualling Crew;V
+HOPKINS, Mr Frederick William;Dead;Southampton;Crew;Man;16;Adult;Male;;;Victualling Crew;V
+JABBUR (ZABOUR), Miss Hileni;Dead;Cherbourg;3;Woman;16;Adult;Female;14,45;;3rd Class Passenger;3
+LANE, Mr Patrick;Dead;Queenstown;3;Man;16;Adult;Male;7,75;;3rd Class Passenger;3
+LINES, Miss Mary Conover;Alive;Cherbourg;1;Woman;16;Adult;Female;39,40;9;1st Class Passenger;1
+MADILL, Miss Georgette Alexandra;Alive;Southampton;1;Woman;16;Adult;Female;211,34;2;1st Class Passenger;1
+MUDD, Mr Thomas Cupper;Dead;Southampton;2;Man;16;Adult;Male;10,50;;2nd Class Passenger;2
+O'CONNOR, Mr Maurice;Dead;Queenstown;3;Man;16;Adult;Male;7,75;;3rd Class Passenger;3
+O'LEARY, Miss Hanora Nora;Alive;Queenstown;3;Woman;16;Adult;Female;8,36;13;;3
+OSaN, Mr Olaf Elon;Dead;Southampton;3;Man;16;Adult;Male;9,22;;3rd Class Passenger;3
+PANULA, Mr Ernesti Arvid;Dead;Southampton;3;Man;16;Adult;Male;39,69;;3rd Class Passenger;3
+PULNER, Mr Uscher;Dead;Cherbourg;3;Man;16;Adult;Male;8,71;;3rd Class Passenger;3
+SAGE, Mr Frederick;Dead;Southampton;3;Man;16;Adult;Male;69,55;;3rd Class Passenger;3
+SAMAAN, Mr Youssef;Dead;Cherbourg;3;Man;16;Adult;Male;21,68;;3rd Class Passenger;3
+TANNuS, Mrs Thamin;Alive;Cherbourg;3;Woman;16;Adult;Female;8,51;14;;3
+THOMAS/TANNOUS, Mr Tannous;Dead;Cherbourg;3;Man;16;Adult;Male;7,23;;3rd Class Passenger;3
+ALLEN, Mr Frederick;Dead;Southampton;Crew;Man;17;Adult;Male;;;Victualling Crew;V
+ANDERSSON, Miss Erna Alexandra;Alive;Southampton;3;Woman;17;Adult;Female;7,93;D;3rd Class Passenger;3
+ANDREW, Mr Edgar Samuel;Dead;Southampton;2;Man;17;Adult;Male;11,50;;2nd Class Passenger;2
+ATTALAH, Miss Malake;Dead;Cherbourg;3;Woman;17;Adult;Female;14,46;;3rd Class Passenger;3
+BURNS, Miss Mary Delia;Dead;Queenstown;3;Woman;17;Adult;Female;7,88;;3rd Class Passenger;3
+CALIC, Mr Jovo;Dead;Southampton;3;Man;17;Adult;Male;8,66;;3rd Class Passenger;3
+CALIC, Mr Petar;Dead;Southampton;3;Man;17;Adult;Male;8,66;;3rd Class Passenger;3
+CARRA-ESTEVES, Mr Jos Pedro;Dead;Southampton;1;Man;17;Adult;Male;47,10;;1st Class Passenger;1
+COLLINS, Mr John;Alive;Southampton;Crew;Man;17;Adult;Male;;1;Victualling Crew;V
+CROVELLA, Sig. Luigi;Dead;Southampton;Crew;Man;17;Adult;Male;;;Restaurant Staff;R
+CULUMOVIC, Mr Jeso;Dead;Southampton;3;Man;17;Adult;Male;8,66;;3rd Class Passenger;3
+DAVIES, Mr Joseph;Dead;Southampton;3;Man;17;Adult;Male;8,05;;3rd Class Passenger;3
+DICK, Mrs Vera;Alive;Southampton;1;Woman;17;Adult;Female;57,00;3;1st Class Passenger;1
+DIKA, Mr Mirko;Dead;Southampton;3;Man;17;Adult;Male;7,90;;3rd Class Passenger;3
+DONATI, Sig. Italo Francesco;Dead;Southampton;Crew;Man;17;Adult;Male;;;Restaurant Staff;R
+GILNAGH, Miss Mary Katherine;Alive;Queenstown;3;Woman;17;Adult;Female;7,73;16;3rd Class Passenger;3
+HARGADON, Miss Catherine;Dead;Queenstown;3;Woman;17;Adult;Female;7,73;;;3
+HIPPACH, Miss Jean Gertrude;Alive;Cherbourg;1;Woman;17;Adult;Female;57,98;4;1st Class Passenger;1
+HUMBY, Mr Frederick Charles;Dead;Southampton;Crew;Man;17;Adult;Male;;;Victualling Crew;V
+ILETT, Miss Bertha;Alive;Southampton;2;Woman;17;Adult;Female;10,50;;2nd Class Passenger;2
+JENSEN, Mr Svend Lauritz;Dead;Southampton;3;Man;17;Adult;Male;7,85;;3rd Class Passenger;3
+JONES, Mr Albert;Dead;Southampton;Crew;Man;17;Adult;Male;;;Victualling Crew;V
+KALLIO, Mr Nikolai Erland;Dead;Southampton;3;Man;17;Adult;Male;7,13;;3rd Class Passenger;3
+LEHMANN, Miss Bertha;Alive;Cherbourg;2;Woman;17;Adult;Female;12,00;12;2nd Class Passenger;2
+MCGOWAN, Miss Anna Annie;Alive;Queenstown;3;Woman;17;Adult;Female;8,28;;;3
+NAKHLI, Mr Toufik;Dead;Cherbourg;3;Man;17;Adult;Male;7,23;;3rd Class Passenger;3
+O'CONNELL, Mr Patrick Denis;Dead;Queenstown;3;Man;17;Adult;Male;7,73;;3rd Class Passenger;3
+PACEY, Mr Reginald lvan;Dead;Southampton;Crew;Man;17;Adult;Male;;;Victualling Crew;V
+PARKER, Mr Clifford Richard;Dead;Southampton;2;Man;17;Adult;Male;10,50;;2nd Class Passenger;2
+PERACCHIO, Sig. Sebastiano;Dead;Southampton;Crew;Man;17;Adult;Male;;;Restaurant Staff;R
+PIATTI, Sig. Louis;Dead;Southampton;Crew;Man;17;Adult;Male;;;Restaurant Staff;R
+POKRNIC, Mr Mate;Dead;Southampton;3;Man;17;Adult;Male;8,66;;3rd Class Passenger;3
+PRICE, Mr Ernest Cyril;Dead;Southampton;Crew;Man;17;Adult;Male;;;Restaurant Staff;R
+RUSH, Mr Alfred George John;Dead;Southampton;3;Man;17;Adult;Male;8,05;;3rd Class Passenger;3
+RUSSELL, Mr Boysie Richard;Dead;Southampton;Crew;Man;17;Adult;Male;;;Victualling Crew;V
+SADOWITZ, Mr Henry;Dead;Southampton;3;Man;17;Adult;Male;7,59;;;3
+SAMAAN, Mr Elias;Dead;Cherbourg;3;Man;17;Adult;Male;21,68;;3rd Class Passenger;3
+SILVN, Miss Lyyli Karoliina;Alive;Southampton;2;Woman;17;Adult;Female;13,00;16;2nd Class Passenger;2
+SMYTH, Miss Julia;Alive;Queenstown;3;Woman;17;Adult;Female;7,73;13;3rd Class Passenger;3
+THALER, Mr Montague Donald;Dead;Southampton;Crew;Man;17;Adult;Male;;;Victualling Crew;V
+THAYER, Mr John Borland jr;Alive;Cherbourg;1;Man;17;Adult;Male;110,88;B;1st Class Passenger;1
+TURVEY, Mr Charles Thomas;Dead;Southampton;Crew;Man;17;Adult;Male;;;Restaurant Staff;R
+ABRAHIM, Mrs Mary Sophie Halaut;Alive;Cherbourg;3;Woman;18;Adult;Female;7,23;C;3rd Class Passenger;3
+AKS, Mrs Leah;Alive;Southampton;3;Woman;18;Adult;Female;9,35;13;3rd Class Passenger;3
+ARNOLD-FRANCHI, Mrs Josefine;Dead;Southampton;3;Woman;18;Adult;Female;17,80;;3rd Class Passenger;3
+ASTOR, Mrs Madeleine Talmage;Alive;Cherbourg;1;Woman;18;Adult;Female;247,53;4;1st Class Passenger;1
+BADMAN, Miss Emily Louisa;Alive;Southampton;3;Woman;18;Adult;Female;8,05;C;3rd Class Passenger;3
+BARBARA, Miss Saiide;Dead;Cherbourg;3;Woman;18;Adult;Female;14,45;;3rd Class Passenger;3
+BJRKLUND, Mr Ernst Herbert;Dead;Southampton;3;Man;18;Adult;Male;7,75;;3rd Class Passenger;3
+BROWN, Miss Amelia Mary;Alive;Southampton;2;Woman;18;Adult;Female;13,00;11;2nd Class PassengerServant;2
+BURGESS, Mr Charles;Alive;Southampton;Crew;Man;18;Adult;Male;;;Victualling Crew;V
+CACIC, Mr Jego Grga;Dead;Southampton;3;Man;18;Adult;Male;8,66;;3rd Class Passenger;3
+CARAM, Mrs Maria Elias;Dead;Cherbourg;3;Woman;18;Adult;Female;14,46;;3rd Class Passenger;3
+COHEN, Mr Gurshon Gus;Alive;Southampton;3;Man;18;Adult;Male;8,05;12;;3
+DANIELS, Mr Sidney Edward;Alive;Southampton;Crew;Man;18;Adult;Male;;;Victualling Crew;V
+DASHWOOD, Mr William George;Dead;Southampton;Crew;Man;18;Adult;Male;;;Victualling Crew;V
+DEACON, Mr Percy William;Dead;Southampton;2;Man;18;Adult;Male;73,50;;2nd Class Passenger;2
+DEBREUCQ, Mr Maurice Emile Victor;Dead;Southampton;Crew;Man;18;Adult;Male;;;Restaurant Staff;R
+DIBDEN, Mr William;Dead;Southampton;2;Man;18;Adult;Male;73,50;;2nd Class Passenger;2
+DOLING, Miss Elsie;Alive;Southampton;2;Woman;18;Adult;Female;23,00;;2nd Class Passenger;2
+DORKING, Mr Edward Arthur;Alive;Southampton;3;Man;18;Adult;Male;8,05;B;3rd Class Passenger;3
+EDVARDSSON, Mr Gustaf Hjalmar;Dead;Southampton;3;Man;18;Adult;Male;7,78;;3rd Class Passenger;3
+ERVINE, Mr Albert George;Dead;Belfast;Crew;Man;18;Adult;Male;;;Engineering Crew;E
+FAHLSTRM, Mr Arne Joma;Dead;Southampton;2;Man;18;Adult;Male;13,00;;2nd Class Passenger;2
+FILLBROOK, Mr Joseph Charles;Dead;Southampton;2;Man;18;Adult;Male;10,50;;2nd Class Passenger;2
+FINCH, Mr Harry;Dead;Southampton;Crew;Man;18;Adult;Male;;;Victualling Crew;V
+FISCHER, Mr Eberhard Thelander;Dead;Southampton;3;Man;18;Adult;Male;7,80;;3rd Class Passenger;3
+FORD, Mr Edward Watson;Dead;Southampton;3;Man;18;Adult;Male;34,38;;3rd Class Passenger;3
+HANNA, Mr Boulos;Dead;Cherbourg;3;Man;18;Adult;Male;7,23;;3rd Class Passenger;3
+HARRIS, Mr Edward Matthew;Dead;Southampton;Crew;Man;18;Adult;Male;;;Victualling Crew;V
+HEGARTY, Miss Hanora Nora;Dead;Queenstown;3;Woman;18;Adult;Female;6,75;;;3
+HILTUNEN, Miss Marta;Dead;Southampton;2;Woman;18;Adult;Female;13,00;;2nd Class Passenger;2
+KASSEM HOUSSEIN, Mr Fared;Dead;Cherbourg;3;Man;18;Adult;Male;7,23;;3rd Class Passenger;3
+KELLAND, Mr Thomas;Dead;Southampton;Crew;Man;18;Adult;Male;;;Victualling Crew;V
+KING, Mr Alfred John Moffett;Dead;Southampton;Crew;Man;18;Adult;Male;;;Victualling Crew;V
+KLASeN, Mr Klas Albin;Dead;Southampton;3;Man;18;Adult;Male;7,85;;3rd Class Passenger;3
+LEE, Mr H.;Dead;Southampton;Crew;Man;18;Adult;Male;;;Engineering Crew;E
+MARVIN, Mr Daniel Warner;Dead;Southampton;1;Man;18;Adult;Male;53,10;;1st Class Passenger;1
+MARVIN, Mrs Mary Graham Carmichael;Alive;Southampton;1;Woman;18;Adult;Female;53,10;10;1st Class Passenger;1
+MITCHELL, Mr Lorenzo (Lawrence) Horace;Dead;Southampton;Crew;Man;18;Adult;Male;;;Engineering Crew;E
+MULLIN, Miss Mary (_Lennon);Dead;Queenstown;3;Woman;18;Adult;Female;15,50;;3rd Class Passenger;3
+MURPHY, Miss Catherine Kate;Alive;Queenstown;3;Woman;18;Adult;Female;15,50;16;;3
+MYHRMAN, Mr Pehr Fabian Oliver Malkolm;Dead;Southampton;3;Man;18;Adult;Male;7,75;;3rd Class Passenger;3
+NILSSON, Miss Berta Olivia;Alive;Southampton;3;Woman;18;Adult;Female;7,78;D;3rd Class Passenger;3
+PARSONS, Mr Richard Henry;Dead;Southampton;Crew;Man;18;Adult;Male;;;Victualling Crew;V
+PETTERSSON, Miss Ellen Natalia;Dead;Southampton;3;Woman;18;Adult;Female;7,78;;3rd Class Passenger;3
+PLATT, Mr Wilfred George;Dead;Southampton;Crew;Man;18;Adult;Male;;;Victualling Crew;V
+RIORDAN, Miss Hannah;Alive;Queenstown;3;Woman;18;Adult;Female;7,72;13;3rd Class Passenger;3
+ROGERS, Mr Reginald Harry;Dead;Southampton;2;Man;18;Adult;Male;10,50;;2nd Class Passenger;2
+ROSBLOM, Mr Viktor Richard;Dead;Southampton;3;Man;18;Adult;Male;20,21;;3rd Class Passenger;3
+RYERSON, Miss Emily Borie;Alive;Cherbourg;1;Woman;18;Adult;Female;262,38;4;1st Class Passenger;1
+SADLIER, Mr Matthew;Dead;Queenstown;3;Man;18;Adult;Male;7,73;;3rd Class Passenger;3
+SAGE, Mr Douglas Bullen;Dead;Southampton;3;Man;18;Adult;Male;69,55;;3rd Class Passenger;3
+SJoBLOM, Miss Anna Sofia;Alive;Southampton;3;Woman;18;Adult;Female;6,50;16;3rd Class Passenger;3
+SMITH, Mrs Mary Eloise;Alive;Cherbourg;1;Woman;18;Adult;Female;60,00;6;1st Class Passenger;1
+TAUSSIG, Miss Ruth;Alive;Southampton;1;Woman;18;Adult;Female;79,65;8;1st Class Passenger;1
+TERRELL, Mr Bertram;Dead;Southampton;Crew;Man;18;Adult;Male;;;Deck Crew;D
+TURJA, Miss Anna Sofia;Alive;Southampton;3;Woman;18;Adult;Female;9,84;15;3rd Class Passenger;3
+VANDERPLANCKE, Miss Augusta Maria;Dead;Southampton;3;Woman;18;Adult;Female;18,00;;3rd Class Passenger;3
+VINE, Mr Herbert Thomas Gordon;Dead;Southampton;Crew;Man;18;Adult;Male;;;Restaurant Staff;R
+WHITELEY, Mr Thomas Arthur;Alive;Southampton;Crew;Man;18;Adult;Male;;;Victualling Crew;V
+WIKLUND, Mr Jakob Alfred;Dead;Southampton;3;Man;18;Adult;Male;6,50;;3rd Class Passenger;3
+WILLEY, Mr Edward;Dead;Southampton;3;Man;18;Adult;Male;7,55;;3rd Class Passenger;3
+WRAPSON, Mr Frederick Bernard;Dead;Belfast;Crew;Man;18;Adult;Male;;;Victualling Crew;V
+ALHOM_KI, Mr Ilmari Rudolf;Dead;Southampton;3;Man;19;Adult;Male;7,93;;3rd Class Passenger;3
+ANDERSEN-JENSEN, Miss Carla Christine Nielsine;Alive;Southampton;3;Woman;19;Adult;Female;7,85;16;3rd Class Passenger;3
+ANDREWS, Mr Charles Edward;Alive;Southampton;Crew;Man;19;Adult;Male;;16;Victualling Crew;V
+BALL, Mr Percy;Alive;Southampton;Crew;Man;19;Adult;Male;;;Victualling Crew;V
+BARKER, Mr Albert Vale;Dead;Southampton;Crew;Man;19;Adult;Male;;;Victualling Crew;V
+BEANE, Mrs Ethel;Alive;Southampton;2;Woman;19;Adult;Female;26,00;13;2nd Class Passenger;2
+BEERE, Mr William;Dead;Southampton;Crew;Man;19;Adult;Male;;;Victualling Crew;V
+BENTHAM, Miss Lillian W.;Alive;Southampton;2;Woman;19;Adult;Female;13,00;12;2nd Class Passenger;2
+BISHOP, Mrs Helen;Alive;Cherbourg;1;Woman;19;Adult;Female;91,08;7;1st Class Passenger;1
+BURKE, Mr Jeremiah;Dead;Queenstown;3;Man;19;Adult;Male;6,75;;3rd Class Passenger;3
+CARBINES, Mr William;Dead;Southampton;2;Man;19;Adult;Male;13,00;;2nd Class Passenger;2
+COR, Mr Liudevit;Dead;Southampton;3;Man;19;Adult;Male;7,90;;3rd Class Passenger;3
+CORNAIRE, Mr Marcel Raymond Andr;Dead;Southampton;Crew;Man;19;Adult;Male;;;Restaurant Staff;R
+CREASE, Mr Ernest James;Dead;Southampton;3;Man;19;Adult;Male;8,16;;3rd Class Passenger;3
+DAKIC, Mr Branko;Dead;Southampton;3;Man;19;Adult;Male;10,17;;3rd Class Passenger;3
+DAVIES, Mr Charles Henry;Dead;Southampton;2;Man;19;Adult;Male;73,50;;2nd Class Passenger;2
+DEAN, Mr George H.;Dead;Southampton;Crew;Man;19;Adult;Male;;;Victualling Crew;V
+DEVANEY, Miss Margaret Delia;Alive;Queenstown;3;Woman;19;Adult;Female;7,88;C;3rd Class Passenger;3
+FOLEY, Mr Joseph;Dead;Queenstown;3;Man;19;Adult;Male;7,88;;3rd Class Passenger;3
+FORTUNE, Mr Charles Alexander;Dead;Southampton;1;Man;19;Adult;Male;263,00;;1st Class Passenger;1
+GLYNN, Miss Mary Agatha;Alive;Queenstown;3;Woman;19;Adult;Female;7,75;13;3rd Class Passenger;3
+GRAHAM, Miss Margaret Edith;Alive;Southampton;1;Woman;19;Adult;Female;153,46;3;1st Class Passenger;1
+GUSTAFSSON, Mr Alfred Ossian;Dead;Southampton;3;Man;19;Adult;Male;9,85;;3rd Class Passenger;3
+GUSTAFSSON, Mr Karl Gideon;Dead;Southampton;3;Man;19;Adult;Male;7,78;;3rd Class Passenger;3
+HAGLAND, Mr Konrad Mathias Reiersen;Dead;Southampton;3;Man;19;Adult;Male;6,97;;3rd Class Passenger;3
+HAMPE, Mr Lon Jrome;Dead;Southampton;3;Man;19;Adult;Male;9,50;;3rd Class Passenger;3
+HARRIS, Mr Charles William;Dead;Southampton;Crew;Man;19;Adult;Male;;;Victualling Crew;V
+HYLAND, Mr James Leo;Alive;Southampton;Crew;Man;19;Adult;Male;;11;Victualling Crew;V
+JABBUR (ZABOUR), Miss Thamine;Dead;Cherbourg;3;Woman;19;Adult;Female;14,45;;3rd Class Passenger;3
+JOHNSON, Mr William Cahoone Jr.;Dead;Southampton;3;Man;19;Adult;Male;0,00;;3rd Class Passenger;3
+KATAVELOS, Mr Vasilios G.;Dead;Cherbourg;3;Man;19;Adult;Male;7,23;;3rd Class Passenger;3
+KELLY, Mr James;Dead;Southampton;3;Man;19;Adult;Male;8,05;;3rd Class Passenger;3
+LACEY, Mr Bertie William;Dead;Southampton;Crew;Man;19;Adult;Male;;;Victualling Crew;V
+LOCKYER, Mr Edward Thomas;Dead;Southampton;3;Man;19;Adult;Male;7,88;;3rd Class Passenger;3
+LONGMUIR, Mr John Dickson;Dead;Southampton;Crew;Man;19;Adult;Male;;;Victualling Crew;V
+MAIONI, Miss Roberta Elizabeth Mary;Alive;Southampton;1;Woman;19;Adult;Female;86,50;8;1st Class PassengerServant;1
+MaMa, Mr Hanna Mika'il;Alive;Cherbourg;3;Man;19;Adult;Male;;15;;3
+MCCORMACK, Mr Thomas Joseph;Alive;Queenstown;3;Man;19;Adult;Male;7,75;;3rd Class Passenger;3
+MCEVOY, Mr Michael;Dead;Queenstown;3;Man;19;Adult;Male;15,50;;3rd Class Passenger;3
+MCMAHON, Mr Martin;Dead;Queenstown;3;Man;19;Adult;Male;7,75;;3rd Class Passenger;3
+MCNAMEE, Mrs Eileen;Dead;Southampton;3;Woman;19;Adult;Female;16,10;;3rd Class Passenger;3
+MELLORS, Mr William John;Alive;Southampton;2;Man;19;Adult;Male;10,50;A;2nd Class Passenger;2
+MOORE, Mr Leonard Charles;Dead;Southampton;3;Man;19;Adult;Male;8,05;;3rd Class Passenger;3
+NAKID, Mrs Waika Mary;Alive;Cherbourg;3;Woman;19;Adult;Female;16,21;C;;3
+NEWSOM, Miss Helen Monypeny;Alive;Southampton;1;Woman;19;Adult;Female;26,28;5;1st Class Passenger;1
+NICHOLLS, Mr Joseph Charles;Dead;Southampton;2;Man;19;Adult;Male;36,75;;2nd Class Passenger;2
+PACHERA, Sig. Jean Baptiste Stanislas;Dead;Southampton;Crew;Man;19;Adult;Male;;;Restaurant Staff;R
+PATCHETT, Mr George;Dead;Southampton;3;Man;19;Adult;Male;14,50;;3rd Class Passenger;3
+PENGELLY, Mr Frederick William;Dead;Southampton;2;Man;19;Adult;Male;10,50;;2nd Class Passenger;2
+PERRY, Mr Edgar Lionel;Alive;Southampton;Crew;Man;19;Adult;Male;;;Engineering Crew;E
+PETROFF, Mr Nedialco;Dead;Southampton;3;Man;19;Adult;Male;7,90;;3rd Class Passenger;3
+PHILLIPS, Miss Kate Florence;Alive;Southampton;2;Woman;19;Adult;Female;26,00;11;2nd Class Passenger;2
+REED, Mr James George;Dead;Southampton;3;Man;19;Adult;Male;7,25;;3rd Class Passenger;3
+RICE, Mr Percy;Dead;Southampton;Crew;Man;19;Adult;Male;;;Victualling Crew;V
+ROBERTON, Mr George Edward;Dead;Southampton;Crew;Man;19;Adult;Male;;;Victualling Crew;V
+SAGE, Mr George John;Dead;Southampton;3;Man;19;Adult;Male;69,55;;3rd Class Passenger;3
+SAUNDERCOCK, Mr William Henry;Dead;Southampton;3;Man;19;Adult;Male;8,05;;3rd Class Passenger;3
+SCOTT, Mr John;Dead;Southampton;Crew;Man;19;Adult;Male;;;Victualling Crew;V
+SHEDID, Mr Daher;Dead;Cherbourg;3;Man;19;Adult;Male;7,23;;3rd Class Passenger;3
+SHILLABEER, Mr Charles Frederick;Dead;Southampton;Crew;Man;19;Adult;Male;;;Engineering Crew;E
+SHOLT, Mr Peter Andreas Lauritz Andersen;Dead;Southampton;3;Man;19;Adult;Male;7,65;;3rd Class Passenger;3
+STOYTCHEFF, Mr Ilia;Dead;Southampton;3;Man;19;Adult;Male;7,90;;3rd Class Passenger;3
+STROUD, Mr Edward Alfred Orlando;Dead;Southampton;Crew;Man;19;Adult;Male;;;Victualling Crew;V
+SWANE, Mr George;Dead;Southampton;2;Man;19;Adult;Male;13,00;;2nd Class PassengerServant;2
+VILLVARLANGE, Mr Pierre Lon Gabriel;Dead;Southampton;Crew;Man;19;Adult;Male;;;Restaurant Staff;R
+WATSON, Mr Ennis Hastings;Dead;Belfast;2;Man;19;Adult;Male;0,00;;2nd Class PassengerH&W Guarantee Group;2
+ABRAHAMSSON, Mr Abraham August Johannes;Alive;Southampton;3;Man;20;Adult;Male;7,93;15;3rd Class Passenger;3
+AHIER, Mr Percy Snowden;Dead;Southampton;Crew;Man;20;Adult;Male;;;Victualling Crew;V
+ANDREASSON, Mr Paul Edvin;Dead;Southampton;3;Man;20;Adult;Male;7,85;;3rd Class Passenger;3
+BACCOS, Mr Raffull;Dead;Cherbourg;3;Man;20;Adult;Male;7,23;;3rd Class Passenger;3
+BEAVAN, Mr William Thomas;Dead;Southampton;3;Man;20;Adult;Male;8,05;;3rd Class Passenger;3
+BIGGS, Mr Edward Charles;Dead;Southampton;Crew;Man;20;Adult;Male;;;Engineering Crew;E
+BILLOWS, Mr James;Dead;Southampton;Crew;Man;20;Adult;Male;;;Engineering Crew;E
+BINSTEAD, Mr Walter William;Alive;Southampton;Crew;Man;20;Adult;Male;;3;Engineering Crew;E
+BRAF, Miss Elin Ester Maria;Dead;Southampton;3;Woman;20;Adult;Female;7,85;;3rd Class Passenger;3
+BRICOUX, Mr Roger Marie;Dead;Southampton;2;Man;20;Adult;Male;0,00;;2nd Class PassengerMusician;2
+BRYHL, Miss Dagmar Jenny Ingeborg;Alive;Southampton;2;Woman;20;Adult;Female;26,00;12;2nd Class Passenger;2
+BUNNELL, Mr Wilfred James;Dead;Belfast;Crew;Man;20;Adult;Male;;;Victualling Crew;V
+BURRAGE, Mr Arthur Victor Edwards;Alive;Southampton;Crew;Man;20;Adult;Male;;13;Victualling Crew;V
+CHARTERS, Mr David;Dead;Queenstown;3;Man;20;Adult;Male;7,73;;3rd Class Passenger;3
+COELHO, Mr Domingos Fernandeo;Dead;Southampton;3;Man;20;Adult;Male;7,05;;3rd Class Passenger;3
+COTTERILL, Mr Henry Harry;Dead;Southampton;2;Man;20;Adult;Male;11,50;;;2
+CRAFTER, Mr Frederick Horace;Alive;Southampton;Crew;Man;20;Adult;Male;;15;Victualling Crew;V
+DE MARSICO, Sig. Govanni;Dead;Southampton;Crew;Man;20;Adult;Male;;;Restaurant Staff;R
+DESVERNINE, Mr Louis Gabriel;Dead;Southampton;Crew;Man;20;Adult;Male;;;Restaurant Staff;R
+DORNIER, Mr Louis Auguste;Dead;Southampton;Crew;Man;20;Adult;Male;;;Restaurant Staff;R
+FOLEY, Mr William;Dead;Queenstown;3;Man;20;Adult;Male;7,75;;3rd Class Passenger;3
+FORD, Miss Dollina Margaret;Dead;Southampton;3;Woman;20;Adult;Female;34,38;;3rd Class Passenger;3
+GILES, Mr Frederick Edward;Dead;Southampton;2;Man;20;Adult;Male;11,50;;2nd Class Passenger;2
+GREEN, Mr George;Dead;Southampton;3;Man;20;Adult;Male;8,05;;3rd Class Passenger;3
+HARDING, Mr Alfred John;Dead;Southampton;Crew;Man;20;Adult;Male;;;Victualling Crew;V
+HICKMAN, Mr Stanley George;Dead;Southampton;2;Man;20;Adult;Male;73,50;;2nd Class Passenger;2
+HOCKING, Miss Ellen Nellie;Alive;Southampton;2;Woman;20;Adult;Female;23,00;4;;2
+HOLLOWAY, Mr Sidney;Dead;Southampton;Crew;Man;20;Adult;Male;;;Victualling Crew;V
+INGRAM, Mr George;Dead;Southampton;Crew;Man;20;Adult;Male;;;Engineering Crew;E
+INGS, Mr William Ernest;Dead;Southampton;Crew;Man;20;Adult;Male;;;Victualling Crew;V
+IVANOFF, Mr Kanio;Dead;Southampton;3;Man;20;Adult;Male;7,90;;3rd Class Passenger;3
+JENSEN, Mr Hans Peder;Dead;Southampton;3;Man;20;Adult;Male;7,85;;3rd Class Passenger;3
+JONES, Mr Victor Reginald;Dead;Southampton;Crew;Man;20;Adult;Male;;;Victualling Crew;V
+JUSSILA, Miss Katriina;Dead;Southampton;3;Woman;20;Adult;Female;9,84;;3rd Class Passenger;3
+KELLY, Miss Anna Katherine;Alive;Queenstown;3;Woman;20;Adult;Female;7,75;16;3rd Class Passenger;3
+KHALIL, Mrs Zahie Maria;Dead;Cherbourg;3;Woman;20;Adult;Female;14,45;;;3
+KING, Mr G.;Dead;Southampton;Crew;Man;20;Adult;Male;;;Victualling Crew;V
+LENNON, Mr Denis;Dead;Queenstown;3;Man;20;Adult;Male;15,50;;3rd Class Passenger;3
+LIGHT, Mr Christopher William;Dead;Southampton;Crew;Man;20;Adult;Male;;;Engineering Crew;E
+LINDQVIST, Mr Eino William;Alive;Southampton;3;Man;20;Adult;Male;7,93;15;3rd Class Passenger;3
+LOVELL, Mr John Hall (Henry);Dead;Southampton;3;Man;20;Adult;Male;7,25;;;3
+MACKAY, Mr George William;Dead;Southampton;3;Man;20;Adult;Male;7,55;;3rd Class Passenger;3
+MAHON, Miss Bridget Delia;Dead;Queenstown;3;Woman;20;Adult;Female;7,88;;3rd Class Passenger;3
+MARRIOTT, Mr John William;Dead;Southampton;Crew;Man;20;Adult;Male;;;Victualling Crew;V
+MARTIN, Miss Mabel Elvina;Alive;Southampton;Crew;Woman;20;Adult;Female;;;Restaurant Staff;R
+MATTMANN, Sig. Adolf;Dead;Southampton;Crew;Man;20;Adult;Male;;;Restaurant Staff;R
+MONR_S, Sr. Joan Javier;Dead;Southampton;Crew;Man;20;Adult;Male;;;Restaurant Staff;R
+MULLIN, Mr Thomas;Dead;Southampton;Crew;Man;20;Adult;Male;;;Victualling Crew;V
+NAKID, Mr Sahid;Alive;Cherbourg;3;Man;20;Adult;Male;15,74;C;3rd Class Passenger;3
+NASR 'ALMa, Mr Mustafa;Dead;Cherbourg;3;Man;20;Adult;Male;7,23;;;3
+NASSR RIZQ, Mr Saade;Dead;Cherbourg;3;Man;20;Adult;Male;7,23;;3rd Class Passenger;3
+NOFAL, Mr Mansouer;Dead;Cherbourg;3;Man;20;Adult;Male;7,23;;3rd Class Passenger;3
+NOURNEY, Mr Alfred;Alive;Cherbourg;1;Man;20;Adult;Male;13,86;7;1st Class Passenger;1
+OLSVIGEN, Mr Thor Anderson;Dead;Southampton;3;Man;20;Adult;Male;9,23;;3rd Class Passenger;3
+ORESKOVIC, Miss Marija;Dead;Southampton;3;Woman;20;Adult;Female;8,66;;3rd Class Passenger;3
+ORESKOVIC, Mr Luka;Dead;Southampton;3;Man;20;Adult;Male;8,66;;3rd Class Passenger;3
+PERACCHIO, Sig. Alberto;Dead;Southampton;Crew;Man;20;Adult;Male;;;Restaurant Staff;R
+PEROTTI, Sig. Alfonso;Dead;Southampton;Crew;Man;20;Adult;Male;;;Restaurant Staff;R
+PRESTON, Mr Thomas Charles Alfred;Dead;Southampton;Crew;Man;20;Adult;Male;;;Engineering Crew;E
+PUGH, Mr Alfred;Alive;Southampton;Crew;Man;20;Adult;Male;;14;Victualling Crew;V
+SAGE, Miss Stella Anne;Dead;Southampton;3;Woman;20;Adult;Female;69,55;;3rd Class Passenger;3
+SHEATH, Mr Frederick;Alive;Southampton;Crew;Man;20;Adult;Male;;1;Engineering Crew;E
+SHINE, Miss Ellen;Alive;Queenstown;3;Woman;20;Adult;Female;7,83;;;3
+SINCOCK, Miss Maude;Alive;Southampton;2;Woman;20;Adult;Female;36,75;11;2nd Class Passenger;2
+SIROTA, Mr Morris;Dead;Southampton;3;Man;20;Adult;Male;8,05;;;3
+SLOCOVSKI, Mr Selman Francis;Dead;Southampton;3;Man;20;Adult;Male;8,05;;3rd Class Passenger;3
+SMITH, Mr F.;Dead;Belfast;Crew;Man;20;Adult;Male;;;Victualling Crew;V
+STOCKER, Mr Henry Dorey;Dead;Southampton;Crew;Man;20;Adult;Male;;;Engineering Crew;E
+SUNDERLAND, Mr Victor Francis;Alive;Southampton;3;Man;20;Adult;Male;8,05;B;3rd Class Passenger;3
+TALBOT, Mr George Frederick Charles;Dead;Southampton;Crew;Man;20;Adult;Male;;;Victualling Crew;V
+TOBIN, Mr Roger;Dead;Queenstown;3;Man;20;Adult;Male;7,75;;3rd Class Passenger;3
+TORFA, Mr Assad;Dead;Cherbourg;3;Man;20;Adult;Male;7,23;;3rd Class Passenger;3
+URBINI, Sig. Roberto;Dead;Southampton;Crew;Man;20;Adult;Male;;;Restaurant Staff;R
+VENDEL, Mr Olof Edvin;Dead;Southampton;3;Man;20;Adult;Male;7,85;;3rd Class Passenger;3
+ZANETTI, Sig. Minio;Dead;Southampton;Crew;Man;20;Adult;Male;;;Restaurant Staff;R
+ABBOTT, Mr Ernest Owen;Dead;Southampton;Crew;Man;21;Adult;Male;;;Victualling Crew;V
+BIRKELAND, Mr Hans Martin Monsen;Dead;Southampton;3;Man;21;Adult;Male;7,78;;3rd Class Passenger;3
+BLANN, Mr Eustace Horatius;Dead;Southampton;Crew;Man;21;Adult;Male;;;Engineering Crew;E
+BUCKLEY, Mr Daniel;Alive;Queenstown;3;Man;21;Adult;Male;7,82;13;3rd Class Passenger;3
+BULLEY, Mr Henry Ashburnham;Dead;Southampton;Crew;Man;21;Adult;Male;;;Victualling Crew;V
+BUTRUS-KA'Wi, Mr Tannus;Dead;Cherbourg;3;Man;21;Adult;Male;7,23;;;3
+BUTT, Mr Robert Henry;Dead;Southampton;Crew;Man;21;Adult;Male;;;Victualling Crew;V
+CACIC, Miss Manda;Dead;Southampton;3;Woman;21;Adult;Female;8,66;;3rd Class Passenger;3
+CAMPBELL, Mr William Henry;Dead;Belfast;2;Man;21;Adult;Male;0,00;;2nd Class PassengerH&W Guarantee Group;2
+CANAVAN, Mr Patrick;Dead;Queenstown;3;Man;21;Adult;Male;7,75;;3rd Class Passenger;3
+CANN, Mr Ernest;Dead;Southampton;3;Man;21;Adult;Male;8,05;;;3
+CECIL, Mr Charles Thomas;Dead;Southampton;Crew;Man;21;Adult;Male;;;Victualling Crew;V
+CHRONOPOULOS, Mr Dimitrios M.;Dead;Cherbourg;3;Man;21;Adult;Male;14,45;;3rd Class Passenger;3
+COE, Mr Harry;Dead;Southampton;Crew;Man;21;Adult;Male;;;Engineering Crew;E
+CRIMMINS, Mr James;Alive;Southampton;Crew;Man;21;Adult;Male;;13;Engineering Crew;E
+CUNNINGHAM, Mr Alfred Fleming;Dead;Belfast;2;Man;21;Adult;Male;0,00;;2nd Class PassengerH&W Guarantee Group;2
+DAVIES, Mr John Samuel;Dead;Southampton;3;Man;21;Adult;Male;24,15;;3rd Class Passenger;3
+DONOHOE, Miss Bridget;Dead;Queenstown;3;Woman;21;Adult;Female;7,75;;3rd Class Passenger;3
+ENANDER, Mr Ingvar;Dead;Southampton;2;Man;21;Adult;Male;13,00;;2nd Class Passenger;2
+FITZPATRICK, Mr Cecil William;Alive;Southampton;Crew;Man;21;Adult;Male;;B;Engineering Crew;E
+FREDERICKS, Mr Walter Francis;Alive;Southampton;Crew;Man;21;Adult;Male;;15;Engineering Crew;E
+GARFIRTH, Mr John;Dead;Southampton;3;Man;21;Adult;Male;14,50;;3rd Class Passenger;3
+GERIOS THAMAH, Mr Assaf;Dead;Cherbourg;3;Man;21;Adult;Male;7,23;;3rd Class Passenger;3
+GILES, Mr Edgar;Dead;Southampton;2;Man;21;Adult;Male;11,50;;2nd Class Passenger;2
+HANSEN, Mr Henry Damsgaard;Dead;Southampton;3;Man;21;Adult;Male;7,85;;3rd Class Passenger;3
+HARDER, Mrs Dorothy;Alive;Cherbourg;1;Woman;21;Adult;Female;55,44;5;1st Class Passenger;1
+HARDWICK, Mr Reginald;Alive;Southampton;Crew;Man;21;Adult;Male;;11;Victualling Crew;V
+HARKNETT, Miss Alice Phoebe;Dead;Southampton;3;Woman;21;Adult;Female;7,55;;3rd Class Passenger;3
+HARTNELL, Mr Fred;Alive;Southampton;Crew;Man;21;Adult;Male;;;Victualling Crew;V
+HENRY, Miss Bridget Delia;Dead;Queenstown;3;Woman;21;Adult;Female;7,75;;3rd Class Passenger;3
+HOOD, Mr Ambrose Jr;Dead;Southampton;2;Man;21;Adult;Male;73,50;;2nd Class Passenger;2
+HUME, Mr John Law;Dead;Southampton;2;Man;21;Adult;Male;0,00;;2nd Class PassengerMusician;2
+INGROUILLE, Mr Henry;Dead;Southampton;Crew;Man;21;Adult;Male;;;Victualling Crew;V
+JANSSON, Mr Carl Olof;Alive;Southampton;3;Man;21;Adult;Male;7,80;A;3rd Class Passenger;3
+JARDIM, Mr Jos Neto;Dead;Southampton;3;Man;21;Adult;Male;7,05;;3rd Class Passenger;3
+JUSSILA, Miss Mari Aina;Dead;Southampton;3;Woman;21;Adult;Female;9,84;;3rd Class Passenger;3
+KALVIK, Mr Johannes Halvorsen;Dead;Southampton;3;Man;21;Adult;Male;8,43;;3rd Class Passenger;3
+KARLSSON, Mr Einar Gervasius;Alive;Southampton;3;Man;21;Adult;Male;7,80;13;3rd Class Passenger;3
+KNIGHT, Mr Leonard George;Dead;Southampton;Crew;Man;21;Adult;Male;;;Victualling Crew;V
+LEVETT, Mr George Alfred;Dead;Belfast;Crew;Man;21;Adult;Male;;;Victualling Crew;V
+LINEHAN, Mr Michael;Dead;Queenstown;3;Man;21;Adult;Male;7,88;;3rd Class Passenger;3
+LONGLEY, Miss Gretchen Fiske;Alive;Cherbourg;1;Woman;21;Adult;Female;77,96;10;1st Class Passenger;1
+MADIGAN, Miss Margaret;Alive;Queenstown;3;Woman;21;Adult;Female;7,75;15;3rd Class Passenger;3
+MCINTYRE, Mr William;Alive;Southampton;Crew;Man;21;Adult;Male;;;Engineering Crew;E
+MCMICKEN, Mr Benjamin Tucker;Dead;Belfast;Crew;Man;21;Adult;Male;;;Victualling Crew;V
+MIDTSJ, Mr Karl Albert;Alive;Southampton;3;Man;21;Adult;Male;7,78;15;3rd Class Passenger;3
+MINKOFF, Mr Lazar;Dead;Southampton;3;Man;21;Adult;Male;7,90;;3rd Class Passenger;3
+MOORE, Mr Ralph;Dead;Southampton;Crew;Man;21;Adult;Male;;;Engineering Crew;E
+MULLEN, Miss Katherine Katie;Alive;Queenstown;3;Woman;21;Adult;Female;8,20;16;;3
+NAUGHTON, Miss Hannah;Dead;Queenstown;3;Woman;21;Adult;Female;7,75;;3rd Class Passenger;3
+NILSSON, Mr August Ferdinand;Dead;Southampton;3;Man;21;Adult;Male;7,85;;3rd Class Passenger;3
+NOSS, Mr Bertram Arthur;Dead;Southampton;Crew;Man;21;Adult;Male;;;Engineering Crew;E
+NOSWORTHY, Mr Richard Cater;Dead;Southampton;3;Man;21;Adult;Male;7,80;;3rd Class Passenger;3
+O'BRIEN, Mr Denis;Dead;Queenstown;3;Man;21;Adult;Male;7,83;;;3
+O'KEEFE, Mr Patrick;Alive;Queenstown;3;Man;21;Adult;Male;7,75;B;3rd Class Passenger;3
+O'SULLIVAN, Miss Bridget Mary;Dead;Queenstown;3;Woman;21;Adult;Female;7,63;;3rd Class Passenger;3
+PARKES, Mr Francis;Dead;Belfast;2;Man;21;Adult;Male;0,00;;2nd Class PassengerH&W Guarantee Group;2
+PASIC, Mr Jakob;Dead;Southampton;3;Man;21;Adult;Male;8,66;;3rd Class Passenger;3
+PEDRINI, Sig. Alessandro;Dead;Southampton;Crew;Man;21;Adult;Male;;;Restaurant Staff;R
+PEKONIEMI, Mr Edvard;Dead;Southampton;3;Man;21;Adult;Male;7,93;;3rd Class Passenger;3
+PHILLIPS, Miss Alice Frances Louisa;Alive;Southampton;2;Woman;21;Adult;Female;21,00;12;2nd Class Passenger;2
+PRIOR, Mr Harold John Arnold;Alive;Southampton;Crew;Man;21;Adult;Male;;;Victualling Crew;V
+RATTI, Sig. Enrico;Dead;Southampton;Crew;Man;21;Adult;Male;;;Restaurant Staff;R
+READ, Mr Joseph;Dead;Southampton;Crew;Man;21;Adult;Male;;;Engineering Crew;E
+REYNOLDS, Mr Harold;Dead;Southampton;3;Man;21;Adult;Male;8,05;;;3
+RUGG, Miss Emily;Alive;Southampton;2;Woman;21;Adult;Female;10,50;12;2nd Class Passenger;2
+RYERSON, Miss Susan Parker Suzette;Alive;Cherbourg;1;Woman;21;Adult;Female;262,38;4;;1
+SALKJELSVIK, Miss Anna Kristine;Alive;Southampton;3;Woman;21;Adult;Female;7,65;C;3rd Class Passenger;3
+SAP, Mr Julius (Jules);Alive;Southampton;3;Man;21;Adult;Male;9,50;11;;3
+SIVOLA, Mr Antti Wilhelm;Dead;Southampton;3;Man;21;Adult;Male;7,93;;3rd Class Passenger;3
+SNOW, Mr Eustace Philip;Alive;Southampton;Crew;Man;21;Adult;Male;;;Engineering Crew;E
+STANLEY, Mr Edward Roland;Dead;Southampton;3;Man;21;Adult;Male;8,05;;3rd Class Passenger;3
+VICAT, Sig. Alphonse Jean Eugene;Dead;Southampton;Crew;Man;21;Adult;Male;;;Restaurant Staff;R
+VOVK, Mr Janko;Dead;Southampton;3;Man;21;Adult;Male;7,90;;3rd Class Passenger;3
+WHITE, Mr Albert;Dead;Southampton;Crew;Man;21;Adult;Male;;;Engineering Crew;E
+WHITE, Mr Richard Frasar;Dead;Southampton;1;Man;21;Adult;Male;77,29;;1st Class Passenger;1
+WIKLUND, Mr Karl Johan;Dead;Southampton;3;Man;21;Adult;Male;6,50;;3rd Class Passenger;3
+WILLARD, Miss Constance;Alive;Southampton;1;Woman;21;Adult;Female;26,55;8;1st Class Passenger;1
+WILLIAMS, Mr Richard Norris II;Alive;Cherbourg;1;Man;21;Adult;Male;61,38;A;1st Class Passenger;1
+WINDELV, Mr Einar;Dead;Southampton;3;Man;21;Adult;Male;7,25;;3rd Class Passenger;3
+ALLARIA, Sig. Battista Antonio;Dead;Southampton;Crew;Man;22;Adult;Male;;;Restaurant Staff;R
+AVERY, Mr James Albert;Alive;Southampton;Crew;Man;22;Adult;Male;;15;Engineering Crew;E
+AYLING, Mr Edwin George;Dead;Southampton;Crew;Man;22;Adult;Male;;;Victualling Crew;V
+BARTON, Mr David John;Dead;Southampton;3;Man;22;Adult;Male;8,05;;3rd Class Passenger;3
+BERGLUND, Mr Karl Ivar Sven;Dead;Southampton;3;Man;22;Adult;Male;9,35;;3rd Class Passenger;3
+BERNARDI, Sig. Battista;Dead;Southampton;Crew;Man;22;Adult;Male;;;Restaurant Staff;R
+BEVIS, Mr Joseph Henry;Dead;Southampton;Crew;Man;22;Adult;Male;;;Engineering Crew;E
+BLAKE, Mr Percival Albert;Alive;Southampton;Crew;Man;22;Adult;Male;;15;Engineering Crew;E
+BOWERMAN, Miss Elsie Edith;Alive;Southampton;1;Woman;22;Adult;Female;55,00;6;1st Class Passenger;1
+BRADLEY, Miss Bridget Delia;Alive;Queenstown;3;Woman;22;Adult;Female;7,73;13;3rd Class Passenger;3
+BRAUND, Mr Owen Harris;Dead;Southampton;3;Man;22;Adult;Male;7,25;;3rd Class Passenger;3
+BRIDE, Mr Harold Sydney;Alive;Belfast;Crew;Man;22;Adult;Male;;B;Victualling Crew;V
+BROBECK, Mr Karl Rudolf;Dead;Southampton;3;Man;22;Adult;Male;7,80;;3rd Class Passenger;3
+BUCKLEY, Miss Katherine;Dead;Queenstown;3;Woman;22;Adult;Female;7,28;;3rd Class Passenger;3
+CANAVAN, Miss Mary;Dead;Queenstown;3;Woman;22;Adult;Female;7,75;;3rd Class Passenger;3
+CAVELL, Mr George Henry;Alive;Southampton;Crew;Man;22;Adult;Male;;15;Engineering Crew;E
+CLEAVER, Miss Alice Catherine;Alive;Southampton;1;Woman;22;Adult;Female;151,80;11;1st Class PassengerServant;1
+COOK, Mrs Selena;Alive;Southampton;2;Woman;22;Adult;Female;10,50;14;2nd Class Passenger;2
+COPPERTHWAITE, Mr Albert Harry;Dead;Southampton;Crew;Man;22;Adult;Male;;;Engineering Crew;E
+DAHLBERG, Miss Gerda Ulrika;Dead;Southampton;3;Woman;22;Adult;Female;10,52;;3rd Class Passenger;3
+DAVIES, Mr Evan;Dead;Southampton;3;Man;22;Adult;Male;8,05;;3rd Class Passenger;3
+DENNIS, Mr Samuel;Dead;Southampton;3;Man;22;Adult;Male;7,25;;3rd Class Passenger;3
+DOEL, Mr Frederick;Alive;Southampton;Crew;Man;22;Adult;Male;;;Engineering Crew;E
+DORE, Mr Albert James;Alive;Southampton;Crew;Man;22;Adult;Male;;;Engineering Crew;E
+DOUGHERTY, Mr William John;Dead;Queenstown;3;Man;22;Adult;Male;8,46;;3rd Class Passenger;3
+DOUGHTY, Mr Walter Thomas;Dead;Southampton;Crew;Man;22;Adult;Male;;;Victualling Crew;V
+DYKER, Mrs Anna Elisabeth Judith;Alive;Southampton;3;Woman;22;Adult;Female;13,90;16;3rd Class Passenger;3
+EAGLE, Mr Alfred James;Dead;Southampton;Crew;Man;22;Adult;Male;;;Engineering Crew;E
+EDE, Mr George Bulkeley;Dead;Southampton;Crew;Man;22;Adult;Male;;;Victualling Crew;V
+ELIAS NASRALLAH, Mr Tannous;Dead;Cherbourg;3;Man;22;Adult;Male;7,23;;3rd Class Passenger;3
+FARENDEN, Mr Ernest John;Dead;Belfast;Crew;Man;22;Adult;Male;;;Victualling Crew;V
+FLEMING, Miss Honora;Dead;Queenstown;3;Woman;22;Adult;Female;7,75;;3rd Class Passenger;3
+FOLEY, Mr Wilfred Cyril;Alive;Southampton;Crew;Man;22;Adult;Male;;13;Victualling Crew;V
+FORD, Mr Arthur;Dead;Southampton;3;Man;22;Adult;Male;8,05;;3rd Class Passenger;3
+FORD, Mr H.;Dead;Southampton;Crew;Man;22;Adult;Male;;;Engineering Crew;E
+FRLICHER, Miss Hedwig Margaritha;Alive;Cherbourg;1;Woman;22;Adult;Female;49,50;5;1st Class Passenger;1
+GIBSON, Miss Dorothy Winifred;Alive;Cherbourg;1;Woman;22;Adult;Female;59,40;7;1st Class Passenger;1
+GILINSKI, Mr Eliezer;Dead;Southampton;3;Man;22;Adult;Male;8,05;;3rd Class Passenger;3
+GOSLING, Mr Bertram James;Dead;Southampton;Crew;Man;22;Adult;Male;;;Engineering Crew;E
+GRADIDGE, Mr Ernest Edward;Dead;Southampton;Crew;Man;22;Adult;Male;;;Engineering Crew;E
+HALFORD, Mr Walter Stamford;Alive;Southampton;Crew;Man;22;Adult;Male;;15;;V
+HALLETT, Mr George Alexander;Dead;Southampton;Crew;Man;22;Adult;Male;;;Engineering Crew;E
+HEBB, Mr William Albert;Alive;Southampton;Crew;Man;22;Adult;Male;;B;Engineering Crew;E
+HELLSTRM, Miss Hilda Maria;Alive;Southampton;3;Woman;22;Adult;Female;8,96;C;3rd Class Passenger;3
+HIRVONEN, Mrs Helga Elisabeth Lindqvist;Alive;Southampton;3;Woman;22;Adult;Female;12,29;15;3rd Class Passenger;3
+HISCOCK, Mr Sydney George;Dead;Southampton;Crew;Man;22;Adult;Male;;;Victualling Crew;V
+HOGUE, Mr E.;Dead;Southampton;Crew;Man;22;Adult;Male;;;Victualling Crew;V
+HORGAN, Mr John;Dead;Queenstown;3;Man;22;Adult;Male;7,75;;3rd Class Passenger;3
+HOSGOOD, Mr Richard William;Dead;Southampton;Crew;Man;22;Adult;Male;;;Engineering Crew;E
+JACKSON, Mr Cecil;Dead;Belfast;Crew;Man;22;Adult;Male;;;Victualling Crew;V
+JEFFERYS, Mr Ernest Wilfred;Dead;Southampton;2;Man;22;Adult;Male;31,50;;2nd Class Passenger;2
+JOHANSSON, Mr Erik;Dead;Southampton;3;Man;22;Adult;Male;7,80;;3rd Class Passenger;3
+KARLSSON, Mr Nils August;Dead;Southampton;3;Man;22;Adult;Male;7,52;;3rd Class Passenger;3
+KELLY, Miss Mary;Alive;Queenstown;3;Woman;22;Adult;Female;7,75;D;3rd Class Passenger;3
+KEMISH, Mr George;Alive;Southampton;Crew;Man;22;Adult;Male;;;Engineering Crew;E
+KIERNAN, Mr Philip;Dead;Queenstown;3;Man;22;Adult;Male;7,75;;3rd Class Passenger;3
+KILGANNON, Mr Thomas;Dead;Queenstown;3;Man;22;Adult;Male;7,74;;3rd Class Passenger;3
+KINK, Miss Maria;Dead;Southampton;3;Woman;22;Adult;Female;8,66;;3rd Class Passenger;3
+LANDERGREN, Miss Aurora Adelia;Alive;Southampton;3;Woman;22;Adult;Female;7,25;13;3rd Class Passenger;3
+LAROCHE, Mrs Juliette Marie Louise;Alive;Cherbourg;2;Woman;22;Adult;Female;41,58;14;2nd Class Passenger;2
+LARSSON-RONDBERG, Mr Edvard A.;Dead;Southampton;3;Man;22;Adult;Male;7,78;;3rd Class Passenger;3
+LEADER, Mr Archibald;Dead;Southampton;Crew;Man;22;Adult;Male;;;Victualling Crew;V
+M_ENP__, Mr Matti Alexanteri;Dead;Southampton;3;Man;22;Adult;Male;7,13;;3rd Class Passenger;3
+MCGOVERN, Ms Mary;Alive;Queenstown;3;Woman;22;Adult;Female;7,88;13;3rd Class Passenger;3
+MCREYNOLDS, Mr William;Dead;Belfast;Crew;Man;22;Adult;Male;;;Engineering Crew;E
+MEEHAN, Mr John;Dead;Queenstown;3;Man;22;Adult;Male;7,75;;;3
+MORRIS, Mr William Edward;Dead;Southampton;Crew;Man;22;Adult;Male;;;Engineering Crew;E
+MURDLIN, Mr Joseph;Dead;Southampton;3;Man;22;Adult;Male;8,05;;3rd Class Passenger;3
+MUSLAMaNi, Mrs Fatimah Muhammad;Alive;Cherbourg;3;Woman;22;Adult;Female;7,36;C;;3
+NAIDENOFF, Mr Penko;Dead;Southampton;3;Man;22;Adult;Male;7,90;;3rd Class Passenger;3
+NENKOFF, Mr Christo;Dead;Southampton;3;Man;22;Adult;Male;7,90;;3rd Class Passenger;3
+NYSTEN, Miss Anna Sofia;Alive;Southampton;3;Woman;22;Adult;Female;7,75;13;3rd Class Passenger;3
+HMAN, Miss Velin;Alive;Southampton;3;Woman;22;Adult;Female;7,78;C;3rd Class Passenger;3
+aSTBY, Miss Helen Ragnhild;Alive;Southampton;1;Woman;22;Adult;Female;61,98;5;1st Class Passenger;1
+OXENHAM, Mr Percy Thomas;Alive;Southampton;2;Man;22;Adult;Male;10,50;13;2nd Class Passenger;2
+PAYNE, Mr Vivian Ponsonby;Dead;Southampton;1;Man;22;Adult;Male;93,50;;1st Class PassengerServant;1
+PEARS, Mrs Edith;Alive;Southampton;1;Woman;22;Adult;Female;66,60;8;1st Class Passenger;1
+PEASCO Y CASTELLANA, Mrs Maria Josefa Perezde Soto y Vallejo;Alive;Cherbourg;1;Woman;22;Adult;Female;108,90;8;1st Class Passenger;1
+PERKIN, Mr John Henry;Dead;Southampton;3;Man;22;Adult;Male;7,25;;3rd Class Passenger;3
+PERKINS, Mr Laurence Alexander;Dead;Southampton;Crew;Man;22;Adult;Male;;;Victualling Crew;V
+PORT, Mr Frank;Alive;Southampton;Crew;Man;22;Adult;Male;;;Victualling Crew;V
+PRYCE, Mr Charles William;Dead;Southampton;Crew;Man;22;Adult;Male;;;Victualling Crew;V
+PUSEY, Mr William Robert Holland;Alive;Southampton;Crew;Man;22;Adult;Male;;1;Engineering Crew;E
+RICALDONE, Sig. Rinaldo Renato;Dead;Southampton;Crew;Man;22;Adult;Male;;;Restaurant Staff;R
+RIGHINI, Mr Sante;Dead;Cherbourg;1;Man;22;Adult;Male;135,63;;1st Class PassengerServant;1
+RIGOZZI, Sig. Abele;Dead;Southampton;Crew;Man;22;Adult;Male;;;Restaurant Staff;R
+RIIHIVUORI, Miss Susanna Juhantyt_r;Dead;Southampton;3;Woman;22;Adult;Female;39,69;;3rd Class Passenger;3
+SCANLAN, Mr James;Dead;Queenstown;3;Man;22;Adult;Male;7,73;;3rd Class Passenger;3
+SHORNEY, Mr Charles Joseph;Dead;Southampton;3;Man;22;Adult;Male;8,05;;3rd Class Passenger;3
+SIRAYANIAN, Mr Orsen;Dead;Cherbourg;3;Man;22;Adult;Male;7,23;;3rd Class Passenger;3
+SMITHER, Mr Harry John;Dead;Southampton;Crew;Man;22;Adult;Male;;;Engineering Crew;E
+SNAPE, Mrs Lucy Violet;Dead;Southampton;Crew;Woman;22;Adult;Female;;;Victualling Crew;V
+STRANDBERG, Miss Ida Sofia;Dead;Southampton;3;Woman;22;Adult;Female;9,84;;3rd Class Passenger;3
+TAYLOR, Mr Bernard Cuthbert;Dead;Southampton;Crew;Man;22;Adult;Male;;;Victualling Crew;V
+TOMLIN, Mr Ernest Portage;Dead;Southampton;3;Man;22;Adult;Male;8,05;;3rd Class Passenger;3
+VARTANIAN, Mr David;Alive;Cherbourg;3;Man;22;Adult;Male;7,23;13;3rd Class Passenger;3
+WAELENS, Mr Achille;Dead;Southampton;3;Man;22;Adult;Male;9,00;;3rd Class Passenger;3
+ZAKARIAN, Mr Mapriededer;Dead;Cherbourg;3;Man;22;Adult;Male;7,23;;3rd Class Passenger;3
+ZENNI, Mr Philip;Alive;Cherbourg;3;Man;22;Adult;Male;7,23;6;3rd Class Passenger;3
+ALEXANDER, Mr William;Dead;Southampton;3;Man;23;Adult;Male;7,89;;3rd Class Passenger;3
+ASPLUND, Mr Johan Charles;Alive;Southampton;3;Man;23;Adult;Male;7,80;13;3rd Class Passenger;3
+ASSAM, Mr Ali;Dead;Southampton;3;Man;23;Adult;Male;7,05;;3rd Class Passenger;3
+AUGUSTSSON, Mr Albert;Dead;Southampton;3;Man;23;Adult;Male;7,85;;3rd Class Passenger;3
+BAINBRIGGE, Mr Charles Robert;Dead;Southampton;2;Man;23;Adult;Male;10,50;;2nd Class Passenger;2
+BERRIMAN, Mr William John;Dead;Southampton;2;Man;23;Adult;Male;13,00;;2nd Class Passenger;2
+BLACKMAN, Mr Albert Edward;Dead;Southampton;Crew;Man;23;Adult;Male;;;Engineering Crew;E
+BUTTERWORTH, Mr John;Dead;Southampton;Crew;Man;23;Adult;Male;;;Victualling Crew;V
+CONNOLLY, Miss Catherine;Alive;Queenstown;3;Woman;23;Adult;Female;7,75;13;;3
+CRABB, Mr Henry James;Dead;Southampton;Crew;Man;23;Adult;Male;;;Engineering Crew;E
+DAWSON, Mr Joseph;Dead;Southampton;Crew;Man;23;Adult;Male;;;Engineering Crew;E
+DYKER, Mr Adolf Fredrik;Dead;Southampton;3;Man;23;Adult;Male;13,90;;3rd Class Passenger;3
+EARNSHAW, Mrs Olive;Alive;Cherbourg;1;Woman;23;Adult;Female;83,16;7;1st Class Passenger;1
+EDBROOKE, Mr Francis Samuel Jacob;Dead;Southampton;Crew;Man;23;Adult;Male;;;Victualling Crew;V
+FIORAVANTE, Sig. Giuseppe Bertoldo;Dead;Southampton;Crew;Man;23;Adult;Male;;;Restaurant Staff;R
+FORTUNE, Miss Mabel Helen;Alive;Southampton;1;Woman;23;Adult;Female;263,00;10;1st Class Passenger;1
+GIGLIO, Mr Victor Gaitan Andrea;Dead;Cherbourg;1;Man;23;Adult;Male;79,20;;1st Class PassengerServant;1
+GREENFIELD, Mr William Bertram;Alive;Cherbourg;1;Man;23;Adult;Male;63,36;7;1st Class Passenger;1
+GUEST, Mr Robert;Dead;Southampton;3;Man;23;Adult;Male;8,05;;3rd Class Passenger;3
+HaMaLaINEN, Mrs Anna;Alive;Southampton;2;Woman;23;Adult;Female;14,50;4;2nd Class Passenger;2
+HARRIS, Mr Amos;Dead;Southampton;Crew;Man;23;Adult;Male;;;Engineering Crew;E
+HATCH, Mr Hugh;Dead;Southampton;Crew;Man;23;Adult;Male;;;Victualling Crew;V
+HEININEN, Miss Wendla Maria;Dead;Southampton;3;Woman;23;Adult;Female;7,93;;3rd Class Passenger;3
+HERMAN, Miss Alice;Alive;Southampton;2;Woman;23;Adult;Female;65,00;9;2nd Class Passenger;2
+HERMAN, Miss Kate;Alive;Southampton;2;Woman;23;Adult;Female;65,00;9;2nd Class Passenger;2
+HOCKING, Mr Richard George;Dead;Southampton;2;Man;23;Adult;Male;11,50;;2nd Class Passenger;2
+HUNT, Mr Albert Sylvanus;Alive;Southampton;Crew;Man;23;Adult;Male;;C;Engineering Crew;E
+HURST, Mr Walter;Alive;Southampton;Crew;Man;23;Adult;Male;;B;Engineering Crew;E
+JERWAN, Mrs Marie Marthe;Alive;Cherbourg;2;Woman;23;Adult;Female;13,79;11;2nd Class Passenger;2
+JEWELL, Mr Archie;Alive;Belfast;Crew;Man;23;Adult;Male;;7;Deck Crew;D
+JONKOFF, Mr Lalio;Dead;Southampton;3;Man;23;Adult;Male;7,90;;3rd Class Passenger;3
+KEANE, Mr Andrew Andy;Dead;Queenstown;3;Man;23;Adult;Male;7,75;;;3
+KELLY, Mr William;Dead;Belfast;Crew;Man;23;Adult;Male;;;Engineering Crew;E
+KRINS, Mr Georges Alexandre;Dead;Southampton;2;Man;23;Adult;Male;0,00;;2nd Class PassengerMusician;2
+LALEFF, Mr Kristo;Dead;Southampton;3;Man;23;Adult;Male;7,90;;3rd Class Passenger;3
+LAM, Mr Len;Dead;Southampton;3;Man;23;Adult;Male;56,50;;3rd Class Passenger;3
+LIGHT, Mr Charles Edward;Dead;Southampton;Crew;Man;23;Adult;Male;;;Victualling Crew;V
+LUNDIN, Miss Olga Elida;Alive;Southampton;2;Woman;23;Adult;Female;7,85;10;2nd Class Passenger;2
+MABEY, Mr John Charles;Dead;Southampton;Crew;Man;23;Adult;Male;;;Victualling Crew;V
+MARINKO, Mr Dmitri;Dead;Southampton;3;Man;23;Adult;Male;7,90;;3rd Class Passenger;3
+MCANDREWS, Mr William;Dead;Southampton;Crew;Man;23;Adult;Male;;;Engineering Crew;E
+MCMICKEN, Mr Arthur;Alive;Belfast;Crew;Man;23;Adult;Male;;11;Victualling Crew;V
+MILES, Mr Frank;Dead;Southampton;3;Man;23;Adult;Male;8,05;;3rd Class Passenger;3
+MITKOFF, Mr Mito;Dead;Southampton;3;Man;23;Adult;Male;7,90;;3rd Class Passenger;3
+MOCKLER, Miss Ellen Mary;Alive;Queenstown;3;Woman;23;Adult;Female;7,88;16;3rd Class Passenger;3
+MONTEVERDI, Sig. Giovanni;Dead;Southampton;Crew;Man;23;Adult;Male;;;Restaurant Staff;R
+MOYES, Mr William Young;Dead;Belfast;Crew;Man;23;Adult;Male;;;Engineering Crew;E
+NEWELL, Miss Marjorie Anne;Alive;Cherbourg;1;Woman;23;Adult;Female;113,28;6;1st Class Passenger;1
+NORRIS, Mr James;Dead;Southampton;Crew;Man;23;Adult;Male;;;Engineering Crew;E
+O'CONNOR, Mr Patrick;Dead;Queenstown;3;Man;23;Adult;Male;7,75;;3rd Class Passenger;3
+DAHL, Mr Nils Martin;Dead;Southampton;3;Man;23;Adult;Male;9,23;;3rd Class Passenger;3
+ORESKOVIC, Miss Jelka;Dead;Southampton;3;Woman;23;Adult;Female;8,66;;3rd Class Passenger;3
+PAIN, Dr Alfred;Dead;Southampton;2;Man;23;Adult;Male;10,50;;2nd Class Passenger;2
+PERRY, Mr Henry Frederick;Dead;Southampton;Crew;Man;23;Adult;Male;;;Engineering Crew;E
+PHILLIMORE, Mr Harold Charles William;Alive;Belfast;Crew;Man;23;Adult;Male;;14;Victualling Crew;V
+PRENTICE, Mr Frank Winnold;Alive;Southampton;Crew;Man;23;Adult;Male;;;Victualling Crew;V
+PRIDEAUX, Mr John Arthur (Jack);Dead;Southampton;Crew;Man;23;Adult;Male;;;Victualling Crew;V
+PROUDFOOT, Mr Richard Royston;Dead;Southampton;Crew;Man;23;Adult;Male;;;Engineering Crew;E
+RICHARD, Mr Emile Phillippe;Dead;Cherbourg;2;Man;23;Adult;Male;15,00;;2nd Class Passenger;2
+RICKS, Mr Cyril Gordon;Dead;Southampton;Crew;Man;23;Adult;Male;;;Victualling Crew;V
+ROTTA, Sig. Angelo Mario;Dead;Southampton;Crew;Man;23;Adult;Male;;;Restaurant Staff;R
+RUDD, Mr Henry;Dead;Southampton;Crew;Man;23;Adult;Male;;;Engineering Crew;E
+SAUNDERS, Mr F.;Dead;Southampton;Crew;Man;23;Adult;Male;;;Engineering Crew;E
+SAUNDERS, Mr W.;Dead;Southampton;Crew;Man;23;Adult;Male;;;Engineering Crew;E
+SAUNDERS, Mr Walter Edward;Dead;Southampton;Crew;Man;23;Adult;Male;;;Engineering Crew;E
+SAVAGE, Mr Charles Joseph;Alive;Southampton;Crew;Man;23;Adult;Male;;11;Victualling Crew;V
+SIVIER, Mr William;Dead;Southampton;Crew;Man;23;Adult;Male;;;Victualling Crew;V
+SKEATES, Mr William;Dead;Southampton;Crew;Man;23;Adult;Male;;;Engineering Crew;E
+SNYDER, Mrs Nelle;Alive;Southampton;1;Woman;23;Adult;Female;82,27;7;1st Class Passenger;1
+SPECTOR, Mr Woolf;Dead;Southampton;3;Man;23;Adult;Male;8,05;;3rd Class Passenger;3
+STANEFF, Mr Ivan;Dead;Southampton;3;Man;23;Adult;Male;7,90;;3rd Class Passenger;3
+TAMLYN, Mr Frederick;Dead;Southampton;Crew;Man;23;Adult;Male;;;Deck Crew;D
+TAYLOR, Mr Leonard;Dead;Southampton;Crew;Man;23;Adult;Male;;;Victualling Crew;V
+TESTONI, Sig. Ercole;Dead;Southampton;Crew;Man;23;Adult;Male;;;Restaurant Staff;R
+THOMAS, Mr Albert Charles;Alive;Southampton;Crew;Man;23;Adult;Male;;;Victualling Crew;V
+TODOROFF, Mr Lalio;Dead;Southampton;3;Man;23;Adult;Male;7,90;;3rd Class Passenger;3
+TROUPIANSKY, Mr Moses Aaron;Dead;Southampton;2;Man;23;Adult;Male;13,00;;2nd Class Passenger;2
+VAN MELCKEBEKE, Mr Philemon;Dead;Southampton;3;Man;23;Adult;Male;9,50;;3rd Class Passenger;3
+WARE, Mr William Jeffery;Dead;Southampton;2;Man;23;Adult;Male;10,50;;2nd Class Passenger;2
+WAZLI, Mr Yousif Ahmed;Dead;Cherbourg;3;Man;23;Adult;Male;7,23;;3rd Class Passenger;3
+WELCH, Mr William Harold;Dead;Southampton;Crew;Man;23;Adult;Male;;;Victualling Crew;V
+WHITE, Mr William George;Alive;Southampton;Crew;Man;23;Adult;Male;;15;Engineering Crew;E
+WILLIAMS, Mr Charles Eugene;Alive;Southampton;2;Man;23;Adult;Male;13,00;14;2nd Class Passenger;2
+ALI, Mr Ahmed;Dead;Southampton;3;Man;24;Adult;Male;7,05;;3rd Class Passenger;3
+ALLEN, Mr Ernest Frederick;Alive;Southampton;Crew;Man;24;Adult;Male;;B;Engineering Crew;E
+ARONSSON, Mr Ernst Axel Algot;Dead;Southampton;3;Man;24;Adult;Male;7,78;;3rd Class Passenger;3
+AUBART, Mme. Lontine Pauline;Alive;Cherbourg;1;Woman;24;Adult;Female;69,30;9;1st Class Passenger;1
+BACLINI, Mrs Latifa;Alive;Cherbourg;3;Woman;24;Adult;Female;19,26;C;3rd Class Passenger;3
+BAINES, Mr Richard;Dead;Southampton;Crew;Man;24;Adult;Male;;;Engineering Crew;E
+BANFI, Sig. Ugo;Dead;Southampton;Crew;Man;24;Adult;Male;;;Restaurant Staff;R
+BAXTER, Mr Quigg Edmond;Dead;Cherbourg;1;Man;24;Adult;Male;247,52;;1st Class Passenger;1
+BEAUCHAMP, Mr George William;Alive;Southampton;Crew;Man;24;Adult;Male;;13;Engineering Crew;E
+BENDELL, Mr Frank;Dead;Southampton;Crew;Man;24;Adult;Male;;;Engineering Crew;E
+BIRNBAUM, Mr Jakob;Dead;Cherbourg;1;Man;24;Adult;Male;26,00;;1st Class Passenger;1
+BOUGHTON, Mr Bernard John;Dead;Southampton;Crew;Man;24;Adult;Male;;;Victualling Crew;V
+BRAILEY, Mr William Theodore Ronald;Dead;Southampton;2;Man;24;Adult;Male;0,00;;2nd Class PassengerMusician;2
+CARLSSON, Mr Carl Robert;Dead;Southampton;3;Man;24;Adult;Male;7,85;;3rd Class Passenger;3
+CELOTTI, Mr Francesco;Dead;Southampton;3;Man;24;Adult;Male;8,05;;3rd Class Passenger;3
+CHERRETT, Mr William Victor;Dead;Southampton;Crew;Man;24;Adult;Male;;;Engineering Crew;E
+COLBERT, Mr Patrick;Dead;Queenstown;3;Man;24;Adult;Male;7,25;;3rd Class Passenger;3
+COLEFF, Mr Satio;Dead;Southampton;3;Man;24;Adult;Male;7,90;;3rd Class Passenger;3
+CONWAY, Mr Percy Walter;Dead;Belfast;Crew;Man;24;Adult;Male;;;Victualling Crew;V
+DAVIES, Mr Alfred J.;Dead;Southampton;3;Man;24;Adult;Male;24,15;;3rd Class Passenger;3
+DEL CARLO, Mrs Argene;Alive;Cherbourg;2;Woman;24;Adult;Female;27,72;11;2nd Class Passenger;2
+DILLON, Mr Thomas Patrick;Alive;Southampton;Crew;Man;24;Adult;Male;;4;Engineering Crew;E
+DROPKIN, Miss Jennie;Alive;Southampton;3;Woman;24;Adult;Female;8,05;;3rd Class Passenger;3
+DUQUEMIN, Mr Joseph Pierre;Alive;Southampton;3;Man;24;Adult;Male;7,55;D;3rd Class Passenger;3
+DYER, Mr Henry Ryland;Dead;Belfast;Crew;Man;24;Adult;Male;;;Engineering Crew;E
+ELLIOTT, Mr Everett Edward;Dead;Southampton;Crew;Man;24;Adult;Male;;;Engineering Crew;E
+FLEET, Mr Frederick;Alive;Belfast;Crew;Man;24;Adult;Male;;6;Deck Crew;D
+FORTUNE, Miss Alice Elizabeth;Alive;Southampton;1;Woman;24;Adult;Female;263,00;10;1st Class Passenger;1
+GILES, Mr Ralph;Dead;Southampton;2;Man;24;Adult;Male;13,50;;2nd Class Passenger;2
+GILL, Mr John William;Dead;Southampton;2;Man;24;Adult;Male;13,00;;2nd Class Passenger;2
+GROSCLAUDE, Mr Gerald;Dead;Southampton;Crew;Man;24;Adult;Male;;;Restaurant Staff;R
+GUMERY, Mr George;Dead;Southampton;Crew;Man;24;Adult;Male;;;Engineering Crew;E
+HAAS, Miss Aloisia;Dead;Southampton;3;Woman;24;Adult;Female;8,85;;3rd Class Passenger;3
+HAKKARAINEN, Mrs Elin Matilda;Alive;Southampton;3;Woman;24;Adult;Female;15,85;15;3rd Class Passenger;3
+HAYS, Miss Margaret Bechstein;Alive;Cherbourg;1;Woman;24;Adult;Female;83,16;7;1st Class Passenger;1
+HEAD, Mr Alfred;Dead;Southampton;Crew;Man;24;Adult;Male;;;Engineering Crew;E
+HEE, Mr Ling;Alive;Southampton;3;Man;24;Adult;Male;56,50;C;3rd Class Passenger;3
+HICKMAN, Mr Leonard Mark;Dead;Southampton;2;Man;24;Adult;Male;73,50;;2nd Class Passenger;2
+JACOBSOHN, Mrs Amy Frances Christy;Alive;Southampton;2;Woman;24;Adult;Female;27,00;12;2nd Class Passenger;2
+JEFFERYS, Mr Clifford Thomas;Dead;Southampton;2;Man;24;Adult;Male;31,50;;2nd Class Passenger;2
+JESSOP, Miss Violet Constance;Alive;Southampton;Crew;Woman;24;Adult;Female;;;Victualling Crew;V
+JOUANNAULT, Mr Georges Jules;Dead;Southampton;Crew;Man;24;Adult;Male;;;Restaurant Staff;R
+KANTOR, Mrs Miriam;Alive;Southampton;2;Woman;24;Adult;Female;26,00;12;2nd Class Passenger;2
+KEARL, Mr George Edward;Dead;Southampton;Crew;Man;24;Adult;Male;;;Engineering Crew;E
+KENNEDY, Mr John;Alive;Queenstown;3;Man;24;Adult;Male;7,75;;3rd Class Passenger;3
+LIEVENS, Mr Ren Aim;Dead;Southampton;3;Man;24;Adult;Male;9,50;;3rd Class Passenger;3
+MADSEN, Mr Fridtjof Arne;Alive;Southampton;3;Man;24;Adult;Male;7,14;13;3rd Class Passenger;3
+MALLET, Mrs Antonine Marie;Alive;Cherbourg;2;Woman;24;Adult;Female;37,00;10;2nd Class Passenger;2
+MAY, Mr Arthur William;Dead;Southampton;Crew;Man;24;Adult;Male;;;Engineering Crew;E
+MAYN, Mlle Berthe Antonine;Alive;Cherbourg;1;Woman;24;Adult;Female;49,50;6;1st Class Passenger;1
+MCCARTHY, Miss Catherine;Alive;Queenstown;3;Woman;24;Adult;Female;0,00;16;;3
+MCCOY, Mr Bernard;Alive;Queenstown;3;Man;24;Adult;Male;23,25;16;3rd Class Passenger;3
+MIDDLETON, Mr Mark Victor;Dead;Southampton;Crew;Man;24;Adult;Male;;;Victualling Crew;V
+MINEFF, Mr Ivan;Dead;Southampton;3;Man;24;Adult;Male;7,90;;3rd Class Passenger;3
+MOODY, Mr James Paul;Dead;Belfast;Crew;Man;24;Adult;Male;;;Deck CrewTitanic Officers;D
+MUBaRIK, Mrs Amnah;Alive;Cherbourg;3;Woman;24;Adult;Female;15,38;C;;3
+PEARCE, Mr Alfred Emest;Dead;Southampton;Crew;Man;24;Adult;Male;;;Victualling Crew;V
+PEDUZZI, Mr Giuseppe;Dead;Southampton;3;Man;24;Adult;Male;8,05;;3rd Class Passenger;3
+PEASCO Y CASTELLANA, Mr Victor;Dead;Cherbourg;1;Man;24;Adult;Male;108,90;;1st Class Passenger;1
+PETER / JOSEPH, Mrs Catherine;Alive;Cherbourg;3;Woman;24;Adult;Female;22,59;C;3rd Class Passenger;3
+PETERSEN, Mr Marius;Dead;Southampton;3;Man;24;Adult;Male;8,05;;3rd Class Passenger;3
+PODESTA, Mr Alfred John Alexander;Alive;Southampton;Crew;Man;24;Adult;Male;;;Engineering Crew;E
+POKRNIC, Mr Tome;Dead;Southampton;3;Man;24;Adult;Male;8,66;;3rd Class Passenger;3
+PONESELL, Mr Martin;Dead;Southampton;2;Man;24;Adult;Male;13,00;;2nd Class Passenger;2
+PRIEST, Mr Arthur John;Alive;Southampton;Crew;Man;24;Adult;Male;;;Engineering Crew;E
+RICHARDS, Mrs Emily;Alive;Southampton;2;Woman;24;Adult;Female;18,75;4;2nd Class Passenger;2
+RYAN, Mr Edward;Alive;Queenstown;3;Man;24;Adult;Male;7,75;14;3rd Class Passenger;3
+SACCAGGI, Sig. Giovanni Giuseppe Emilio;Dead;Southampton;Crew;Man;24;Adult;Male;;;Restaurant Staff;R
+S_GESSER, Mlle Emma;Alive;Cherbourg;1;Woman;24;Adult;Female;69,30;9;1st Class PassengerServant;1
+SALANDER, Mr Karl Johan;Dead;Southampton;3;Man;24;Adult;Male;9,33;;3rd Class Passenger;3
+SANDSTRM, Mrs Agnes Charlotta;Alive;Southampton;3;Woman;24;Adult;Female;16,70;13;3rd Class Passenger;3
+SARTORI, Sig. Lazar;Dead;Southampton;Crew;Man;24;Adult;Male;;;Restaurant Staff;R
+SELF, Mr Albert Charles Edward;Alive;Southampton;Crew;Man;24;Adult;Male;;;Engineering Crew;E
+SESIA, Sig. Giacomo;Dead;Southampton;Crew;Man;24;Adult;Male;;;Restaurant Staff;R
+SHAUGHNESSY, Mr Patrick;Dead;Queenstown;3;Man;24;Adult;Male;7,75;;3rd Class Passenger;3
+SIMMONS, Mr Frederick Charles;Dead;Southampton;Crew;Man;24;Adult;Male;;;Victualling Crew;V
+SMITH, Mr James William;Dead;Southampton;Crew;Man;24;Adult;Male;;;Victualling Crew;V
+SMITH, Mr Lucian Philip;Dead;Cherbourg;1;Man;24;Adult;Male;60,00;;1st Class Passenger;1
+SNYDER, Mr John Pillsbury;Alive;Southampton;1;Man;24;Adult;Male;82,27;7;1st Class Passenger;1
+STANLEY, Miss Amy Zillah Elsie;Alive;Southampton;3;Woman;24;Adult;Female;7,55;C;3rd Class Passenger;3
+SVENSSON, Mr Olof;Dead;Southampton;3;Man;24;Adult;Male;7,80;;3rd Class Passenger;3
+SYMONS, Mr George Thomas Macdonald;Alive;Southampton;Crew;Man;24;Adult;Male;;1;Deck Crew;D
+TAYLOR, Mr George;Alive;Southampton;Crew;Man;24;Adult;Male;;1;Engineering Crew;E
+WARD, Mr Arthur;Dead;Belfast;Crew;Man;24;Adult;Male;;;Engineering Crew;E
+WEATHERSTON, Mr Thomas Herbert;Dead;Belfast;Crew;Man;24;Adult;Male;;;Victualling Crew;V
+WHEELER, Mr Edwin Charles;Dead;Southampton;2;Man;24;Adult;Male;12,88;;2nd Class PassengerServant;2
+WRIGHT, Mr Frederick;Dead;Southampton;Crew;Man;24;Adult;Male;;;Victualling Crew;V
+YVOIS, Miss Henriette;Dead;Southampton;2;Woman;24;Adult;Female;13,00;;2nd Class Passenger;2
+ABELSETH, Mr Olaus Jrgensen;Alive;Southampton;3;Man;25;Adult;Male;7,65;A;3rd Class Passenger;3
+ALI, Mr William;Dead;Southampton;3;Man;25;Adult;Male;7,05;;3rd Class Passenger;3
+ALLISON, Mrs Bessie Waldo;Dead;Southampton;1;Woman;25;Adult;Female;151,80;;1st Class Passenger;1
+ANDREW, Mr Frank Thomas;Dead;Southampton;2;Man;25;Adult;Male;10,50;;2nd Class Passenger;2
+ARNOLD-FRANCHI, Mr Josef;Dead;Southampton;3;Man;25;Adult;Male;17,80;;3rd Class Passenger;3
+BISHOP, Mr Dickinson H.;Alive;Cherbourg;1;Man;25;Adult;Male;91,08;7;1st Class Passenger;1
+BOTSFORD, Mr William Hull;Dead;Southampton;2;Man;25;Adult;Male;13,00;;2nd Class Passenger;2
+BROOKS, Mr J.;Dead;Southampton;Crew;Man;25;Adult;Male;;;Engineering Crew;E
+BROWN, Mr John;Dead;Southampton;Crew;Man;25;Adult;Male;;;Engineering Crew;E
+BROWN, Mr Joseph James;Dead;Southampton;Crew;Man;25;Adult;Male;;;Engineering Crew;E
+BRYHL, Mr Kurt Arnold Gottfrid;Dead;Southampton;2;Man;25;Adult;Male;26,00;;2nd Class Passenger;2
+BUTLER, Mr Reginald Fenton;Dead;Southampton;2;Man;25;Adult;Male;13,00;;2nd Class Passenger;2
+CAMPBELL, Mr Donald S.;Dead;Southampton;Crew;Man;25;Adult;Male;;;Victualling Crew;V
+CAVENDISH, Mrs Julia Florence;Alive;Southampton;1;Woman;25;Adult;Female;78,85;6;1st Class Passenger;1
+CHABOISSON, Mr Adrien Finnin;Dead;Southampton;Crew;Man;25;Adult;Male;;;Restaurant Staff;R
+CHARMAN, Mr John James;Dead;Southampton;Crew;Man;25;Adult;Male;;;Victualling Crew;V
+CHORLEY, Mr John Henry;Dead;Southampton;Crew;Man;25;Adult;Male;;;Engineering Crew;E
+CHRISTY, Miss Rachel Juli Cohen;Alive;Southampton;2;Woman;25;Adult;Female;30,00;12;2nd Class Passenger;2
+COLLETT, Mr Sidney Clarence Stuart;Alive;Southampton;2;Man;25;Adult;Male;10,50;9;2nd Class Passenger;2
+COOPER, Mr James Edward;Dead;Southampton;Crew;Man;25;Adult;Male;;;Engineering Crew;E
+CURTIS, Mr Arthur;Dead;Southampton;Crew;Man;25;Adult;Male;;;Engineering Crew;E
+DEAN, Mr Bertram Frank;Dead;Southampton;3;Man;25;Adult;Male;20,58;;3rd Class Passenger;3
+DELALIC, Mr Redjo;Dead;Southampton;3;Man;25;Adult;Male;7,90;;3rd Class Passenger;3
+DENBUOY, Mr Albert (Herbert);Dead;Southampton;2;Man;25;Adult;Male;31,50;;;2
+EITEMILLER, Mr George Floyd;Dead;Southampton;2;Man;25;Adult;Male;13,00;;2nd Class Passenger;2
+EVANS, Mr Alfred Frank;Alive;Southampton;Crew;Man;25;Adult;Male;;15;Deck Crew;D
+FARRELL, Mr James Jim;Dead;Queenstown;3;Man;25;Adult;Male;7,75;;;3
+HAMILTON, Mr Ernest;Dead;Belfast;Crew;Man;25;Adult;Male;;;Victualling Crew;V
+HARDER, Mr George Achilles;Alive;Cherbourg;1;Man;25;Adult;Male;55,44;5;1st Class Passenger;1
+HILL, Mr James;Dead;Southampton;Crew;Man;25;Adult;Male;;;Engineering Crew;E
+ILMAKANGAS, Miss Pieta Sofia;Dead;Southampton;3;Woman;25;Adult;Female;7,93;;3rd Class Passenger;3
+JENSEN, Mr Charles Valdemar;Dead;Southampton;Crew;Man;25;Adult;Male;;;Victualling Crew;V
+JONSSON, Mr Carl;Alive;Southampton;3;Man;25;Adult;Male;7,85;15;3rd Class Passenger;3
+KHALIL, Mr Betros;Dead;Cherbourg;3;Man;25;Adult;Male;14,45;;3rd Class Passenger;3
+KIERNAN, Mr John;Dead;Queenstown;3;Man;25;Adult;Male;7,75;;3rd Class Passenger;3
+KREKORIAN, Mr Neshan;Alive;Cherbourg;3;Man;25;Adult;Male;7,23;10;3rd Class Passenger;3
+LAROCHE, Mr Joseph Philippe Lemercier;Dead;Cherbourg;2;Man;25;Adult;Male;41,58;;2nd Class Passenger;2
+LEONARD, Mr Matthew;Dead;Belfast;Crew;Man;25;Adult;Male;;;Victualling Crew;V
+LEYSON, Mr Robert William Norman;Dead;Southampton;2;Man;25;Adult;Male;10,50;;2nd Class Passenger;2
+LINDAHL, Miss Agda Thorilda Viktoria;Dead;Southampton;3;Woman;25;Adult;Female;7,78;;3rd Class Passenger;3
+LIVSHIN, Mr David (Abraham Harmer);Dead;Southampton;3;Man;25;Adult;Male;7,25;B;3rd Class Passenger;3
+LUCAS, Mr William Arthur;Alive;Southampton;Crew;Man;25;Adult;Male;;D;Deck Crew;D
+LYONS, Mr William Henry;Dead;Southampton;Crew;Man;25;Adult;Male;;4;Deck Crew;D
+MALACHARD, Mr Jean-Nol;Dead;Cherbourg;2;Man;25;Adult;Male;15,00;;2nd Class Passenger;2
+MARDIROSIAN, Mr Sarkis;Dead;Cherbourg;3;Man;25;Adult;Male;7,23;;3rd Class Passenger;3
+MASKELL, Mr Leopold Adolphus;Dead;Southampton;Crew;Man;25;Adult;Male;;;Engineering Crew;E
+MAUGE, Mr Paul Achille Maurice Germain;Alive;Southampton;Crew;Man;25;Adult;Male;;;Restaurant Staff;R
+MAYZES, Mr Thomas Jubilee;Alive;Southampton;Crew;Man;25;Adult;Male;;3;Engineering Crew;E
+MEYER, Mrs Leila;Alive;Cherbourg;1;Woman;25;Adult;Female;82,17;6;1st Class Passenger;1
+MULVIHILL, Miss Bridget Elizabeth;Alive;Queenstown;3;Woman;25;Adult;Female;7,75;15;3rd Class Passenger;3
+MURPHY, Miss Margaret Jane Mary Maggie;Alive;Queenstown;3;Woman;25;Adult;Female;15,50;16;;3
+NEAL, Mr Bentley Harold;Alive;Southampton;Crew;Man;25;Adult;Male;;13;Victualling Crew;V
+O'CONNOR, Mr John;Alive;Southampton;Crew;Man;25;Adult;Male;;;Engineering Crew;E
+O'DWYER, Miss Ellen Nellie;Alive;Queenstown;3;Woman;25;Adult;Female;8,45;;;3
+PEARCEY, Mr Albert Victor;Alive;Southampton;Crew;Man;25;Adult;Male;;;Victualling Crew;V
+PELTOM_KI, Mr Nikolai Johannes;Dead;Southampton;3;Man;25;Adult;Male;7,93;;3rd Class Passenger;3
+PERSSON, Mr Ernst Ulrik;Alive;Southampton;3;Man;25;Adult;Male;7,78;15;3rd Class Passenger;3
+PETTERSSON, Mr Johan Emil;Dead;Southampton;3;Man;25;Adult;Male;7,78;;3rd Class Passenger;3
+PETTY, Mr Edwin Henry;Dead;Southampton;Crew;Man;25;Adult;Male;;;Victualling Crew;V
+PHILLIPS, Mr John George;Dead;Belfast;Crew;Man;25;Adult;Male;;;Victualling Crew;V
+PITFIELD, Mr William James;Dead;Southampton;Crew;Man;25;Adult;Male;;;Engineering Crew;E
+RICE, Mr John Reginald;Dead;Southampton;Crew;Man;25;Adult;Male;;;Victualling Crew;V
+SALUSSOLIA, Sig. Govanni;Dead;Southampton;Crew;Man;25;Adult;Male;;;Restaurant Staff;R
+SEDUNARY, Mr Samuel Francis;Dead;Southampton;Crew;Man;25;Adult;Male;;;Victualling Crew;V
+SEWARD, Mr Wilfred Deable;Alive;Southampton;Crew;Man;25;Adult;Male;;3;Victualling Crew;V
+SHELLEY, Mrs Imanita Parrish;Alive;Southampton;2;Woman;25;Adult;Female;26,00;12;2nd Class Passenger;2
+SHIERS, Mr Alfred Charles;Alive;Southampton;Crew;Man;25;Adult;Male;;;Engineering Crew;E
+SOBEY, Mr Samuel James Hayden;Dead;Southampton;2;Man;25;Adult;Male;13,00;;2nd Class Passenger;2
+STOKES, Mr Philip Joseph;Dead;Southampton;2;Man;25;Adult;Male;10,50;;2nd Class Passenger;2
+STREET, Mr Thomas Albert;Alive;Southampton;Crew;Man;25;Adult;Male;;9;Engineering Crew;E
+SULLIVAN, Mr S.;Dead;Southampton;Crew;Man;25;Adult;Male;;;Engineering Crew;E
+SUTEHALL, Mr Henry Jr;Dead;Southampton;3;Man;25;Adult;Male;7,05;;3rd Class Passenger;3
+TENGLIN, Mr Gunnar Isidor;Alive;Southampton;3;Man;25;Adult;Male;7,80;13;3rd Class Passenger;3
+THOMAS, Mr Joseph Wakefield;Dead;Southampton;Crew;Man;25;Adult;Male;;;Engineering Crew;E
+THOMPSON, Mr Herbert Henry;Dead;Belfast;Crew;Man;25;Adult;Male;;;Victualling Crew;V
+THORN, Mr Harry;Dead;Southampton;Crew;Man;25;Adult;Male;;;Victualling Crew;V
+THRESHER, Mr George Terrill;Alive;Southampton;Crew;Man;25;Adult;Male;;9;Engineering Crew;E
+ToRNQUIST, Mr William Henry;Alive;Southampton;3;Man;25;Adult;Male;0,00;15;3rd Class Passenger;3
+TOTEVSKI, Mr Hristo Danchev;Dead;Southampton;3;Man;25;Adult;Male;7,90;;3rd Class Passenger;3
+VIONI, Sig. Roberto;Dead;Southampton;Crew;Man;25;Adult;Male;;;Restaurant Staff;R
+WARWICK, Mr Tom;Dead;Southampton;Crew;Man;25;Adult;Male;;;Victualling Crew;V
+WATERIDGE, Mr Edward Lewis;Dead;Southampton;Crew;Man;25;Adult;Male;;;Engineering Crew;E
+ADAMS, Mr John;Dead;Southampton;3;Man;26;Adult;Male;8,05;;3rd Class Passenger;3
+ADAMS, Mr Robert John;Dead;Southampton;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+ALBIMONA, Mr Nassef Cassem;Alive;Cherbourg;3;Man;26;Adult;Male;18,79;15;3rd Class Passenger;3
+ALLEN, Mr George;Dead;Southampton;Crew;Man;26;Adult;Male;;;Victualling Crew;V
+ANDERSSON, Mr Johan Samuel;Dead;Southampton;3;Man;26;Adult;Male;7,78;;3rd Class Passenger;3
+ANGHELOFF, Mr Minko;Dead;Southampton;3;Man;26;Adult;Male;7,90;;3rd Class Passenger;3
+ASHCROFT, Mr Austin Aloysius;Dead;Southampton;Crew;Man;26;Adult;Male;;;Victualling Crew;V
+ASPESLAGH, Mr Georges;Dead;Southampton;Crew;Man;26;Adult;Male;;;Restaurant Staff;R
+BALKIC, Mr Cerin;Dead;Southampton;3;Man;26;Adult;Male;7,90;;3rd Class Passenger;3
+BARBER, Miss Ellen Mary;Alive;Southampton;1;Woman;26;Adult;Female;78,85;6;1st Class PassengerServant;1
+BARRY, Miss Julia;Dead;Queenstown;3;Woman;26;Adult;Female;7,88;;3rd Class Passenger;3
+BARTON, Mr Sidney John;Dead;Southampton;Crew;Man;26;Adult;Male;;;Victualling Crew;V
+BEHR, Mr Karl Howell;Alive;Cherbourg;1;Man;26;Adult;Male;30,00;5;1st Class Passenger;1
+BENGTSSON, Mr Johan Viktor;Dead;Southampton;3;Man;26;Adult;Male;7,78;;3rd Class Passenger;3
+BEUX, Mr David;Dead;Southampton;Crew;Man;26;Adult;Male;;;Restaurant Staff;R
+BLAKE, Mr Seaton;Dead;Belfast;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+BLUMET, Mr Jean Baptiste;Dead;Southampton;Crew;Man;26;Adult;Male;;;Restaurant Staff;R
+BOSTANDYEFF, Mr Guentcho;Dead;Southampton;3;Man;26;Adult;Male;7,90;;3rd Class Passenger;3
+BOWEN, Mr David John 'Dai';Dead;Southampton;3;Man;26;Adult;Male;16,10;;3rd Class Passenger;3
+BULEY, Mr Edward John;Alive;Southampton;Crew;Man;26;Adult;Male;;10;Deck Crew;D
+CALDWELL, Mr Albert Francis;Alive;Southampton;2;Man;26;Adult;Male;29,00;13;2nd Class Passenger;2
+CHRONOPOULOS, Mr Apostolos M.;Dead;Cherbourg;3;Man;26;Adult;Male;14,45;;3rd Class Passenger;3
+CLARK, Mrs Virginia Estelle;Alive;Cherbourg;1;Woman;26;Adult;Female;136,78;4;1st Class Passenger;1
+COOPER, Mr Harry;Dead;Southampton;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+COY, Mr Francis Ernest George;Dead;Belfast;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+DAVIES, Mr Robert J.;Dead;Belfast;Crew;Man;26;Adult;Male;;;Victualling Crew;V
+DENNIS, Mr William;Dead;Southampton;3;Man;26;Adult;Male;7,25;;3rd Class Passenger;3
+FLETCHER, Mr Percy William;Dead;Belfast;Crew;Man;26;Adult;Male;;;Victualling Crew;V
+GAVEY, Mr Laurence;Dead;Southampton;2;Man;26;Adult;Male;10,50;;2nd Class Passenger;2
+GEER, Mr Alfred Emest;Dead;Southampton;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+GOSLING, Mr S.;Dead;Southampton;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+HANSEN, Mr Henrik Juul;Dead;Southampton;3;Man;26;Adult;Male;7,85;;3rd Class Passenger;3
+HEIKKINEN, Miss Laina;Alive;Southampton;3;Woman;26;Adult;Female;7,93;;3rd Class Passenger;3
+HENSFORD, Mr Herbert George Ernest;Dead;Southampton;Crew;Man;26;Adult;Male;;;Victualling Crew;V
+HODGES, Mr W.;Dead;Southampton;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+HOWARD, Miss May Elizabeth;Alive;Southampton;3;Woman;26;Adult;Female;8,05;C;3rd Class Passenger;3
+HUTCHINSON, Mr John Hall;Dead;Belfast;Crew;Man;26;Adult;Male;;;Deck Crew;D
+JERMYN, Miss Annie Jane;Alive;Queenstown;3;Woman;26;Adult;Female;7,75;D;3rd Class Passenger;3
+JOHANSSON PALMQUIST, Mr Oskar Leander;Alive;Southampton;3;Man;26;Adult;Male;7,78;15;3rd Class Passenger;3
+JOHNSON, Mrs Elisabeth Vilhelmina;Alive;Southampton;3;Woman;26;Adult;Female;11,13;15;3rd Class Passenger;3
+KERR, Mr Thomas Russell;Dead;Southampton;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+KINK-HEILMANN, Mrs Luise;Alive;Southampton;3;Woman;26;Adult;Female;22,00;2;3rd Class Passenger;3
+KINK, Mr Vincenz;Dead;Southampton;3;Man;26;Adult;Male;8,66;;3rd Class Passenger;3
+KUTSCHER (LITHMAN), Mr Simon;Dead;Southampton;3;Man;26;Adult;Male;7,55;;3rd Class Passenger;3
+LESTER, Mr James;Dead;Southampton;3;Man;26;Adult;Male;24,15;;3rd Class Passenger;3
+LOBB, Mrs Cordelia K.;Dead;Southampton;3;Woman;26;Adult;Female;16,10;;3rd Class Passenger;3
+MCCOY, Miss Alicia;Alive;Queenstown;3;Woman;26;Adult;Female;23,25;16;3rd Class Passenger;3
+MCGANN, Mr James;Alive;Southampton;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+MCQUILLAN, Mr William;Dead;Belfast;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+MIDDLETON, Mr Alfred Pirrie;Dead;Belfast;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+MILLAR, Mr Robert;Dead;Belfast;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+MORGAN, Mr Thomas A.;Dead;Southampton;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+NESSON, Mr Israel;Dead;Southampton;2;Man;26;Adult;Male;13,00;;2nd Class Passenger;2
+NILSSON, Miss Helmina Josefina;Alive;Southampton;3;Woman;26;Adult;Female;7,85;13;3rd Class Passenger;3
+O'BRIEN, Mrs Johanna Hannah;Alive;Queenstown;3;Woman;26;Adult;Female;15,50;;;3
+OLIVE, Mr Ernest Roskelly;Dead;Southampton;Crew;Man;26;Adult;Male;;;Victualling Crew;V
+PADRON MANENT, Mr Julian;Alive;Cherbourg;2;Man;26;Adult;Male;13,86;9;2nd Class Passenger;2
+PARSONS, Mr Frank Alfred;Dead;Belfast;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+PEACOCK, Mrs Edith;Dead;Southampton;3;Woman;26;Adult;Female;13,78;;3rd Class Passenger;3
+PETERS, Miss Katie;Dead;Queenstown;3;Woman;26;Adult;Female;8,14;;3rd Class Passenger;3
+PETERS, Mr William Chapman;Alive;Southampton;Crew;Man;26;Adult;Male;;9;Deck Crew;D
+ROUS, Mr Arthur John;Dead;Belfast;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+RUTTER, Mr Sidney Frank;Dead;Southampton;Crew;Man;26;Adult;Male;;;;E
+SAUNDERS, Mr D. E.;Dead;Southampton;Crew;Man;26;Adult;Male;;;Victualling Crew;V
+SCHMIDT, Mr August;Dead;Southampton;2;Man;26;Adult;Male;13,00;;2nd Class Passenger;2
+SMITH, Mr William;Dead;Southampton;Crew;Man;26;Adult;Male;;;Deck Crew;D
+SMYTH, Mr Thomas;Dead;Queenstown;3;Man;26;Adult;Male;7,75;;3rd Class Passenger;3
+SNOOKS, Mr W.;Dead;Southampton;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+TURPIN, Mrs Dorothy Ann;Dead;Southampton;2;Woman;26;Adult;Female;21,00;;2nd Class Passenger;2
+WILLIAMS, Mr Samuel Solomon;Dead;Southampton;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+WRIGHT, Miss Marion;Alive;Southampton;2;Woman;26;Adult;Female;13,50;9;2nd Class Passenger;2
+WYETH, Mr James Robert;Dead;Southampton;Crew;Man;26;Adult;Male;;;Engineering Crew;E
+YOUSSEFF (ABI SAAB), Mr Gerios;Dead;Cherbourg;3;Man;26;Adult;Male;7,23;;3rd Class Passenger;3
+ZARRACCHI, Sig. L.;Dead;Southampton;Crew;Man;26;Adult;Male;;;Restaurant Staff;R
+ATTALA, Mr Sleiman;Dead;Cherbourg;3;Man;27;Adult;Male;7,23;;3rd Class Passenger;3
+BASILICO, Sig. Giovanni;Dead;Southampton;Crew;Man;27;Adult;Male;;;Restaurant Staff;R
+BOLHUIS, Mr Hendrik;Dead;Southampton;Crew;Man;27;Adult;Male;;;Restaurant Staff;R
+BOWKER, Miss Ruth;Alive;Southampton;Crew;Woman;27;Adult;Female;;;Restaurant Staff;R
+BROOKMAN, Mr John Cress;Dead;Southampton;Crew;Man;27;Adult;Male;;;Victualling Crew;V
+CARRAU, Mr Francisco Mauro Severiano;Dead;Southampton;1;Man;27;Adult;Male;47,10;;1st Class Passenger;1
+CAUNT, Mr William Ewart;Dead;Southampton;Crew;Man;27;Adult;Male;;;Victualling Crew;V
+CHAMBERS, Mr Norman Campbell;Alive;Southampton;1;Man;27;Adult;Male;53,10;5;1st Class Passenger;1
+CHEVERTON, Mr William Frederick;Dead;Belfast;Crew;Man;27;Adult;Male;;;Victualling Crew;V
+CLARK, Mr Walter Miller;Dead;Cherbourg;1;Man;27;Adult;Male;136,78;;1st Class Passenger;1
+COLLANDER, Mr Erik Gustaf;Dead;Southampton;2;Man;27;Adult;Male;13,00;;2nd Class Passenger;2
+COR, Mr Ivan;Dead;Southampton;3;Man;27;Adult;Male;7,90;;3rd Class Passenger;3
+CORBEN, Mr Ernest Theodore;Dead;Southampton;Crew;Man;27;Adult;Male;;;Victualling Crew;V
+DANIEL, Mr Robert Williams;Alive;Southampton;1;Man;27;Adult;Male;30,50;3;1st Class Passenger;1
+DANOFF, Mr Yoto;Dead;Southampton;3;Man;27;Adult;Male;7,90;;3rd Class Passenger;3
+DAVIDSON, Mrs Orian;Alive;Cherbourg;1;Woman;27;Adult;Female;52,00;3;1st Class Passenger;1
+DIAPER, Mr John Joseph;Alive;Southampton;Crew;Man;27;Adult;Male;;;Engineering Crew;E
+DODDS, Mr Henry Watson;Dead;Southampton;Crew;Man;27;Adult;Male;;;Engineering Crew;E
+DOUGLAS, Mrs Mary Hlne;Alive;Cherbourg;1;Woman;27;Adult;Female;247,52;6;1st Class Passenger;1
+DOYLE, Mr Laurence;Dead;Southampton;Crew;Man;27;Adult;Male;;;Engineering Crew;E
+DURAN Y MORE, Sra. Asuncion;Alive;Cherbourg;2;Woman;27;Adult;Female;13,86;12;2nd Class Passenger;2
+EVANS, Mr Frank Oliver;Alive;Southampton;Crew;Man;27;Adult;Male;;10;Deck Crew;D
+EVANS, Mr George Richard;Dead;Belfast;Crew;Man;27;Adult;Male;;;Victualling Crew;V
+FORWARD, Mr James;Alive;Southampton;Crew;Man;27;Adult;Male;;16;Deck Crew;D
+FOX, Mr William Thomas;Dead;Southampton;Crew;Man;27;Adult;Male;;;Victualling Crew;V
+HANNAH, Mr Borak (Hannah Assi Borah);Alive;Cherbourg;3;Man;27;Adult;Male;7,23;15;;3
+HASSAB, Mr Hammad;Alive;Cherbourg;1;Man;27;Adult;Male;76,73;3;1st Class PassengerServant;1
+HEDMAN, Mr Oskar Arvid;Alive;Southampton;3;Man;27;Adult;Male;6,98;15;3rd Class Passenger;3
+HONKANEN, Miss Eliina;Alive;Southampton;3;Woman;27;Adult;Female;7,93;;3rd Class Passenger;3
+HUNT, Mr Tom;Dead;Southampton;Crew;Man;27;Adult;Male;;;Engineering Crew;E
+ILMAKANGAS, Miss Ida Livija;Dead;Southampton;3;Woman;27;Adult;Female;7,93;;3rd Class Passenger;3
+JAMES, Mr Thomas;Dead;Southampton;Crew;Man;27;Adult;Male;;;Engineering Crew;E
+JNSSON, Mr Nils Hilding;Dead;Southampton;3;Man;27;Adult;Male;7,85;;3rd Class Passenger;3
+LEROY, Miss Berthe;Alive;Cherbourg;1;Woman;27;Adult;Female;106,43;2;1st Class PassengerServant;1
+LEWIS, Mr Arthur Ernest Read;Alive;Southampton;Crew;Man;27;Adult;Male;;;Victualling Crew;V
+LINHART, Mr Wenzel;Dead;Southampton;3;Man;27;Adult;Male;9,50;;3rd Class Passenger;3
+MARETT, Mr George John;Dead;Southampton;Crew;Man;27;Adult;Male;;;Engineering Crew;E
+MARKS, Mr James;Dead;Southampton;Crew;Man;27;Adult;Male;;;Victualling Crew;V
+MAYO, Mr William Peter;Dead;Southampton;Crew;Man;27;Adult;Male;;;Engineering Crew;E
+MCGRADY, Mr James;Dead;Southampton;Crew;Man;27;Adult;Male;;;Victualling Crew;V
+MCNAMEE, Mr Neal;Dead;Southampton;3;Man;27;Adult;Male;16,10;;3rd Class Passenger;3
+MILFORD, Mr George;Dead;Southampton;Crew;Man;27;Adult;Male;;;Engineering Crew;E
+MOEN, Mr Sigurd Hansen;Dead;Southampton;3;Man;27;Adult;Male;7,65;;3rd Class Passenger;3
+MONTVILA, Fr Juozas;Dead;Southampton;2;Man;27;Adult;Male;13,00;;2nd Class Passenger;2
+MORAN, Mr Daniel James;Dead;Queenstown;3;Man;27;Adult;Male;24,15;;3rd Class Passenger;3
+MORGAN, Mr Arthur Herbert;Dead;Southampton;Crew;Man;27;Adult;Male;;;Engineering Crew;E
+NORMAN, Mr Robert Douglas;Dead;Southampton;2;Man;27;Adult;Male;13,50;;2nd Class Passenger;2
+O'BRIEN, Mr Thomas;Dead;Queenstown;3;Man;27;Adult;Male;15,50;;3rd Class Passenger;3
+O'DRISCOLL, Miss Bridget;Alive;Queenstown;3;Woman;27;Adult;Female;7,75;D;3rd Class Passenger;3
+OLLIVER, Mr Alfred John;Alive;Belfast;Crew;Man;27;Adult;Male;;5;Deck Crew;D
+OLSEN, Mr Ole Martin;Dead;Southampton;3;Man;27;Adult;Male;7,31;;3rd Class Passenger;3
+OSMAN, Mr Frank;Alive;Southampton;Crew;Man;27;Adult;Male;;2;Deck Crew;D
+PHILLIPS, Mr A. George;Dead;Southampton;Crew;Man;27;Adult;Male;;;Engineering Crew;E
+PLOTCHARSKY, Mr Vasil;Dead;Southampton;3;Man;27;Adult;Male;7,90;;3rd Class Passenger;3
+PULBAUM, Mr Franz;Dead;Cherbourg;2;Man;27;Adult;Male;15,00;;2nd Class Passenger;2
+RADEFF, Mr Alexander;Dead;Southampton;3;Man;27;Adult;Male;7,90;;3rd Class Passenger;3
+ROGERS, Mr Michael;Dead;Southampton;Crew;Man;27;Adult;Male;;;Victualling Crew;V
+RYAN, Mr Thomas;Dead;Southampton;Crew;Man;27;Adult;Male;;;Victualling Crew;V
+SAAD, Mr Khalil;Dead;Cherbourg;3;Man;27;Adult;Male;7,23;;3rd Class Passenger;3
+SHARP, Mr Percival;Dead;Southampton;2;Man;27;Adult;Male;26,00;;2nd Class Passenger;2
+SMITH, Mr Emest George;Dead;Southampton;Crew;Man;27;Adult;Male;;;Engineering Crew;E
+STEWART, Mr John;Alive;Belfast;Crew;Man;27;Adult;Male;;15;Victualling Crew;V
+STRILIC, Mr Ivan;Dead;Southampton;3;Man;27;Adult;Male;8,66;;3rd Class Passenger;3
+TAYLOR, Mr William Henry;Alive;Southampton;Crew;Man;27;Adult;Male;;15;Engineering Crew;E
+TERRELL, Mr Frank;Alive;Southampton;Crew;Man;27;Adult;Male;;11;Victualling Crew;V
+TIETZ, Sig. Carlo/Karl;Dead;Southampton;Crew;Man;27;Adult;Male;;;Restaurant Staff;R
+TOUMA, Mrs Hanna Youssef;Alive;Cherbourg;3;Woman;27;Adult;Female;15,25;C;3rd Class Passenger;3
+TROUTT, Miss Edwina Celia;Alive;Southampton;2;Woman;27;Adult;Female;10,50;16;2nd Class Passenger;2
+WATSON, Mr W.;Dead;Southampton;Crew;Man;27;Adult;Male;;;Engineering Crew;E
+WENNERSTRM, Mr August;Alive;Southampton;3;Man;27;Adult;Male;7,80;A;3rd Class Passenger;3
+WHITE, Mr Edward Joseph;Dead;Southampton;Crew;Man;27;Adult;Male;;;Victualling Crew;V
+WIDENER, Mr Harry Elkins;Dead;Southampton;1;Man;27;Adult;Male;211,50;;1st Class Passenger;1
+WIRZ, Mr Albert;Dead;Southampton;3;Man;27;Adult;Male;8,66;;3rd Class Passenger;3
+YASBECK, Mr Antoni;Dead;Cherbourg;3;Man;27;Adult;Male;14,45;C;3rd Class Passenger;3
+ZAKARIAN, Mr Ortin;Dead;Cherbourg;3;Man;27;Adult;Male;7,23;;3rd Class Passenger;3
+ABELSON, Mrs Hannah;Alive;Cherbourg;2;Woman;28;Adult;Female;24,00;10;2nd Class Passenger;2
+BAGGOTT, Mr Allen Marden;Alive;Southampton;Crew;Man;28;Adult;Male;;9;Victualling Crew;V
+BANFIELD, Mr Frederick James;Dead;Southampton;2;Man;28;Adult;Male;10,50;;2nd Class Passenger;2
+BARRETT, Mr Frederick;Alive;Southampton;Crew;Man;28;Adult;Male;;13;Engineering Crew;E
+BEAUCHAMP, Mr Henry James;Dead;Southampton;2;Man;28;Adult;Male;26,00;;2nd Class Passenger;2
+BIETRIX, Mr George Baptiste;Dead;Southampton;Crew;Man;28;Adult;Male;;;Restaurant Staff;R
+BJRNSTRM-STEFFANSSON, Mr Mauritz Hokan;Alive;Southampton;1;Man;28;Adult;Male;26,55;D;1st Class Passenger;1
+BLACK, Mr Alexander;Dead;Southampton;Crew;Man;28;Adult;Male;;;Engineering Crew;E
+BOXHALL, Mr Joseph Groves;Alive;Belfast;Crew;Man;28;Adult;Male;;2;Deck CrewTitanic Officers;D
+CAIRNS, Mr Alexander Milne;Dead;Southampton;1;Man;28;Adult;Male;31,00;;1st Class PassengerServant;1
+CALDWELL, Mrs Sylvia Mae;Alive;Southampton;2;Woman;28;Adult;Female;29,00;13;2nd Class Passenger;2
+CARAM, Mr Joseph;Dead;Cherbourg;3;Man;28;Adult;Male;14,46;;3rd Class Passenger;3
+CARLSSON, Mr August Sigfrid;Dead;Southampton;3;Man;28;Adult;Male;7,80;;3rd Class Passenger;3
+CARVER, Mr Alfred John;Dead;Southampton;3;Man;28;Adult;Male;7,25;;3rd Class Passenger;3
+CASEY, Mr Thomas;Dead;Southampton;Crew;Man;28;Adult;Male;;;Engineering Crew;E
+CHAPMAN, Mrs Sara Elizabeth;Dead;Southampton;2;Woman;28;Adult;Female;26,00;;2nd Class Passenger;2
+CHITTY, Mr Archibald George;Dead;Southampton;Crew;Man;28;Adult;Male;;;Victualling Crew;V
+CLARKE, Mr John Frederick Preston;Dead;Southampton;2;Man;28;Adult;Male;0,00;;2nd Class PassengerMusician;2
+CLARKE, Mrs Ada Maria;Alive;Southampton;2;Woman;28;Adult;Female;27,00;14;2nd Class Passenger;2
+COLEMAN, Mr Albert Edward;Dead;Southampton;Crew;Man;28;Adult;Male;;;Victualling Crew;V
+COUCH, Mr Frank;Dead;Southampton;Crew;Man;28;Adult;Male;;;Deck Crew;D
+COUTIN, Mr Auguste Louis;Dead;Southampton;Crew;Man;28;Adult;Male;;;Restaurant Staff;R
+DAHER, Mr Tannous;Dead;Cherbourg;3;Man;28;Adult;Male;7,23;;3rd Class Passenger;3
+DANBOM, Mrs Anna Sigrid Maria;Dead;Southampton;3;Woman;28;Adult;Female;14,40;;3rd Class Passenger;3
+DAVIS, Miss Mary;Alive;Southampton;2;Woman;28;Adult;Female;13,00;13;2nd Class Passenger;2
+DERRETT, Mr Arthur Henry;Dead;Belfast;Crew;Man;28;Adult;Male;;;Victualling Crew;V
+DOYLE, Miss Elizabeth;Dead;Queenstown;3;Woman;28;Adult;Female;7,75;;3rd Class Passenger;3
+ELLIS, Mr John Bertie;Alive;Southampton;Crew;Man;28;Adult;Male;;2;Victualling Crew;V
+FITZPATRICK, Mr Hugh Joseph;Dead;Belfast;Crew;Man;28;Adult;Male;;;Engineering Crew;E
+FLYNN, Mr James;Dead;Queenstown;3;Man;28;Adult;Male;7,75;;3rd Class Passenger;3
+FORTUNE, Miss Ethel Flora;Alive;Southampton;1;Woman;28;Adult;Female;263,00;10;1st Class Passenger;1
+FOX, Mr Patrick;Dead;Queenstown;3;Man;28;Adult;Male;7,75;;3rd Class Passenger;3
+FRANKLIN, Mr Alan Vincent;Dead;Southampton;Crew;Man;28;Adult;Male;;;Victualling Crew;V
+GOLLOP, Mr F.;Dead;Southampton;Crew;Man;28;Adult;Male;;;Victualling Crew;V
+GRAHAM, Mr Thomas G.;Alive;Belfast;Crew;Man;28;Adult;Male;;;Engineering Crew;E
+GUNN, Mr Joseph Alfred;Dead;Southampton;Crew;Man;28;Adult;Male;;;Victualling Crew;V
+GUSTAFSSON, Mr Johan Birger;Dead;Southampton;3;Man;28;Adult;Male;7,93;;3rd Class Passenger;3
+GUY, Mr Elgar John;Alive;Southampton;Crew;Man;28;Adult;Male;;5;Victualling Crew;V
+HAGLAND, Mr Ingvald Olai Olsen;Dead;Southampton;3;Man;28;Adult;Male;6,97;;3rd Class Passenger;3
+HAKKARAINEN, Mr Pekka Pietari;Dead;Southampton;3;Man;28;Adult;Male;15,85;;3rd Class Passenger;3
+HARRIS, Mr Edward John;Dead;Southampton;Crew;Man;28;Adult;Male;;;Engineering Crew;E
+HART, Mr Henry;Dead;Queenstown;3;Man;28;Adult;Male;6,86;;3rd Class Passenger;3
+HENDEKOVIC, Mr Ignjac;Dead;Southampton;3;Man;28;Adult;Male;7,90;;3rd Class Passenger;3
+HENDRICKSON, Mr Charles Osker;Alive;Southampton;Crew;Man;28;Adult;Male;;1;Engineering Crew;E
+HENRIKSSON, Miss Jenny Lovisa;Dead;Southampton;3;Woman;28;Adult;Female;7,78;;3rd Class Passenger;3
+HOLLAND, Mr Thomas;Dead;Belfast;Crew;Man;28;Adult;Male;;;Victualling Crew;V
+HOLMAN, Mr Harry;Dead;Belfast;Crew;Man;28;Adult;Male;;;Deck Crew;D
+HOLTHEN, Mr Johan Martin;Dead;Southampton;3;Man;28;Adult;Male;22,53;;3rd Class Passenger;3
+HOPGOOD, Mr Roland John C.;Dead;Southampton;Crew;Man;28;Adult;Male;;;Engineering Crew;E
+HUTCHINSON, Mr James;Dead;Southampton;Crew;Man;28;Adult;Male;;;Victualling Crew;V
+JEFFERY, Mr William Alfred;Dead;Southampton;Crew;Man;28;Adult;Male;;;Restaurant Staff;R
+KARNES, Mrs Claire;Dead;Southampton;2;Woman;28;Adult;Female;21,00;;2nd Class Passenger;2
+KERLEY, Mr William Thomas;Dead;Southampton;Crew;Man;28;Adult;Male;;;Victualling Crew;V
+KING, Mr Ernest Waldron;Dead;Southampton;Crew;Man;28;Adult;Male;;;Victualling Crew;V
+LING, Mr Lee;Dead;Southampton;3;Man;28;Adult;Male;56,50;;3rd Class Passenger;3
+LONG, Mr Frank;Dead;Southampton;Crew;Man;28;Adult;Male;;;Engineering Crew;E
+MANNION, Miss Margaret;Alive;Queenstown;3;Woman;28;Adult;Female;7,74;16;3rd Class Passenger;3
+MARSDEN, Miss Evelyn;Alive;Southampton;Crew;Woman;28;Adult;Female;;16;Victualling Crew;V
+MATHIAS, Mr Montague Vincent;Dead;Southampton;Crew;Man;28;Adult;Male;;;Deck Crew;D
+MERNAGH, Mr Robert;Dead;Queenstown;3;Man;28;Adult;Male;7,75;;3rd Class Passenger;3
+MEYER, Mr Edgar Joseph;Dead;Cherbourg;1;Man;28;Adult;Male;82,17;;1st Class Passenger;1
+MIHOFF, Mr Stoytcho;Dead;Southampton;3;Man;28;Adult;Male;7,90;;3rd Class Passenger;3
+MORAN, Miss Bertha Bridget;Alive;Queenstown;3;Woman;28;Adult;Female;24,15;16;3rd Class Passenger;3
+MORRIS, Mr Frank Herbert;Alive;Belfast;Crew;Man;28;Adult;Male;;14;Victualling Crew;V
+MOUTAL, Mr Rahamin Haim;Dead;Southampton;3;Man;28;Adult;Male;8,05;;3rd Class Passenger;3
+NASSER, Mr Nicholas;Dead;Cherbourg;2;Man;28;Adult;Male;30,07;;2nd Class Passenger;2
+NIKLASSON, Mr Samuel;Dead;Southampton;3;Man;28;Adult;Male;8,05;;3rd Class Passenger;3
+OLSEN, Mr Henry Margido;Dead;Southampton;3;Man;28;Adult;Male;22,53;;3rd Class Passenger;3
+OLSSON, Mr Nils Johan Gransson;Dead;Southampton;3;Man;28;Adult;Male;7,85;;3rd Class Passenger;3
+PEARCE, Mr John;Alive;Southampton;Crew;Man;28;Adult;Male;;;Engineering Crew;E
+PEDERSEN, Mr Olaf;Dead;Southampton;3;Man;28;Adult;Male;7,78;;3rd Class Passenger;3
+PETRANEC, Miss Matilda;Dead;Southampton;3;Woman;28;Adult;Female;7,90;;3rd Class Passenger;3
+POGGI, Sig. Emilio;Dead;Southampton;Crew;Man;28;Adult;Male;;;Restaurant Staff;R
+REYNALDS, Sra. Encarnaci_n;Alive;Southampton;2;Woman;28;Adult;Female;13,00;9;2nd Class Passenger;2
+RICHARDS, Mr Joseph James;Dead;Southampton;Crew;Man;28;Adult;Male;;;Engineering Crew;E
+RIMMER, Mr Gilbert;Dead;Southampton;Crew;Man;28;Adult;Male;;;Victualling Crew;V
+SCOTT, Mr Frederick William;Alive;Southampton;Crew;Man;28;Adult;Male;;4;Engineering Crew;E
+SEDGWICK, Mr Charles Frederick Waddington;Dead;Southampton;2;Man;28;Adult;Male;13,00;;2nd Class Passenger;2
+SLOAN, Miss Mary;Alive;Southampton;Crew;Woman;28;Adult;Female;;;Victualling Crew;V
+SLOPER, Mr William Thompson;Alive;Southampton;1;Man;28;Adult;Male;35,50;7;1st Class Passenger;1
+STUBBS, Mr James Henry;Dead;Southampton;Crew;Man;28;Adult;Male;;;Engineering Crew;E
+TOPP, Mr Thomas;Dead;Southampton;Crew;Man;28;Adult;Male;;;Victualling Crew;V
+TROUT, Mrs Jessie Laird;Alive;Southampton;2;Woman;28;Adult;Female;12,65;9;;2
+TURNER, Mr Leopold Olerenshaw;Dead;Belfast;Crew;Man;28;Adult;Male;;;Victualling Crew;V
+VAN DEN STEEN, Mr Leo Peter;Dead;Southampton;3;Man;28;Adult;Male;9,50;;3rd Class Passenger;3
+VANDEWALLE, Mr Nestor Cyriel;Dead;Southampton;3;Man;28;Adult;Male;9,50;;3rd Class Passenger;3
+WEBB, Mr Samuel Francis;Dead;Southampton;Crew;Man;28;Adult;Male;;;Engineering Crew;E
+WHITE, Mr Frank Leonard;Dead;Southampton;Crew;Man;28;Adult;Male;;;Engineering Crew;E
+WILLIAMS, Mr Howard Hugh Harry;Dead;Southampton;3;Man;28;Adult;Male;8,05;;;3
+WILLIAMS, Mr Leslie;Dead;Southampton;3;Man;28;Adult;Male;16,10;;3rd Class Passenger;3
+WILLIAMS, Mr Walter John;Alive;Southampton;Crew;Man;28;Adult;Male;;;Victualling Crew;V
+WILSON, Mr Herbert 'Bertie';Dead;Belfast;Crew;Man;28;Adult;Male;;;Engineering Crew;E
+ALLEN, Miss Elisabeth Walton;Alive;Southampton;1;Woman;29;Adult;Female;211,34;2;1st Class Passenger;1
+BARNES, Mr Charles;Dead;Southampton;Crew;Man;29;Adult;Male;;;Engineering Crew;E
+BENHAM, Mr Fred John;Dead;Southampton;Crew;Man;29;Adult;Male;;;Victualling Crew;V
+BRACKEN, Mr James H.;Dead;Southampton;2;Man;29;Adult;Male;13,00;;2nd Class Passenger;2
+BRADLEY, Mr T.;Dead;Southampton;Crew;Man;29;Adult;Male;;;Deck Crew;D
+BRAUND, Mr Lewis Richard;Dead;Southampton;3;Man;29;Adult;Male;7,00;;3rd Class Passenger;3
+BURR, Mr Ewart Sydenham;Dead;Southampton;Crew;Man;29;Adult;Male;;;Victualling Crew;V
+CHRISTMANN, Mr Emil;Dead;Southampton;3;Man;29;Adult;Male;8,05;;3rd Class Passenger;3
+CLARKE, Mr Charles Valentine;Dead;Southampton;2;Man;29;Adult;Male;26,00;;2nd Class Passenger;2
+COLERIDGE, Mr Reginald Charles;Dead;Southampton;2;Man;29;Adult;Male;10,50;;2nd Class Passenger;2
+COUPER, Mr Robert Frederick William;Alive;Southampton;Crew;Man;29;Adult;Male;;3;Engineering Crew;E
+COX, Mr William Denton;Dead;Southampton;Crew;Man;29;Adult;Male;;;Victualling Crew;V
+DALY, Mr Eugene Patrick;Alive;Queenstown;3;Man;29;Adult;Male;7,75;B;3rd Class Passenger;3
+DAVIS, Mr John;Dead;Belfast;Crew;Man;29;Adult;Male;;;Victualling Crew;V
+DEL CARLO, Mr Sebastiano;Dead;Cherbourg;2;Man;29;Adult;Male;27,72;;2nd Class Passenger;2
+ELIAS, Mr Dibo;Dead;Cherbourg;3;Man;29;Adult;Male;7,23;;3rd Class Passenger;3
+FELLOWES, Mr Alfred James;Dead;Belfast;Crew;Man;29;Adult;Male;;;Victualling Crew;V
+FRASER, Mr James;Dead;Belfast;Crew;Man;29;Adult;Male;;;Engineering Crew;E
+FRYER, Mr Albert Ernest;Alive;Southampton;Crew;Man;29;Adult;Male;;;Engineering Crew;E
+GALLAGHER, Mr Martin;Dead;Queenstown;3;Man;29;Adult;Male;7,74;;3rd Class Passenger;3
+GORDON, Mr J.;Dead;Southampton;Crew;Man;29;Adult;Male;;;Engineering Crew;E
+HANNAM, Mr George;Dead;Southampton;Crew;Man;29;Adult;Male;;;Engineering Crew;E
+HEALY, Miss Hanora Nora;Alive;Queenstown;3;Woman;29;Adult;Female;7,75;16;;3
+HICHENS, Mr Robert;Alive;Southampton;Crew;Man;29;Adult;Male;;6;Deck Crew;D
+HODGE, Mr Charley;Dead;Belfast;Crew;Man;29;Adult;Male;;;Engineering Crew;E
+HOGG, Mr George Alfred;Alive;Belfast;Crew;Man;29;Adult;Male;;7;Deck Crew;D
+HOLD, Mrs Annie Margaret;Alive;Southampton;2;Woman;29;Adult;Female;26,00;10;2nd Class Passenger;2
+JAL?EVAC, Mr Ivan;Alive;Cherbourg;3;Man;29;Adult;Male;7,90;15;3rd Class Passenger;3
+JANIN, Mr Claude Marie;Dead;Southampton;Crew;Man;29;Adult;Male;;;Restaurant Staff;R
+JOHANNESEN, Mr Bernt Johannes;Alive;Southampton;3;Man;29;Adult;Male;8,11;13;3rd Class Passenger;3
+JOHANSSON, Mr Nils;Dead;Southampton;3;Man;29;Adult;Male;7,85;;3rd Class Passenger;3
+JONES, Mr H.;Dead;Southampton;Crew;Man;29;Adult;Male;;;Victualling Crew;V
+KINK, Mr Anton;Alive;Southampton;3;Man;29;Adult;Male;22,00;2;3rd Class Passenger;3
+KREUCHEN, Miss Emilie;Alive;Southampton;1;Woman;29;Adult;Female;211,34;2;1st Class PassengerServant;1
+LARSSON, Mr August Viktor;Dead;Southampton;3;Man;29;Adult;Male;9,48;;3rd Class Passenger;3
+LARSSON, Mr Bengt Edvin;Dead;Southampton;3;Man;29;Adult;Male;7,78;;3rd Class Passenger;3
+LEE, Mr Henry Reginald;Alive;Southampton;Crew;Man;29;Adult;Male;;;Victualling Crew;V
+LLOYD, Mr William;Dead;Southampton;Crew;Man;29;Adult;Male;;;Engineering Crew;E
+LONG, Mr Milton Clyde;Dead;Southampton;1;Man;29;Adult;Male;30,00;;1st Class Passenger;1
+LOWE, Mr Harold Godfrey;Alive;Belfast;Crew;Man;29;Adult;Male;;14;Deck CrewTitanic Officers;D
+LULIC, Mr Nikola;Alive;Southampton;3;Man;29;Adult;Male;8,66;15;3rd Class Passenger;3
+M_KINEN, Mr Kalle Edvard;Dead;Southampton;3;Man;29;Adult;Male;7,93;;3rd Class Passenger;3
+MARCHAL, Mr Pierre;Alive;Cherbourg;1;Man;29;Adult;Male;29,70;7;1st Class Passenger;1
+MCCOY, Miss Agnes;Alive;Queenstown;3;Woman;29;Adult;Female;23,25;16;3rd Class Passenger;3
+MOOR, Mrs Beila;Alive;Southampton;3;Woman;29;Adult;Female;12,48;14;3rd Class Passenger;3
+MOORE, Mr John J.;Alive;Southampton;Crew;Man;29;Adult;Male;;;Engineering Crew;E
+MOSS, Mr Albert Johan;Alive;Southampton;3;Man;29;Adult;Male;7,78;B;3rd Class Passenger;3
+NETTLETON, Mr George Walter;Dead;Southampton;Crew;Man;29;Adult;Male;;;Engineering Crew;E
+NIEMINEN, Miss Manta Josefina;Dead;Southampton;3;Woman;29;Adult;Female;7,93;;3rd Class Passenger;3
+NYE, Mrs Elizabeth;Alive;Southampton;2;Woman;29;Adult;Female;10,50;11;2nd Class Passenger;2
+OMONT, Mr Alfred Fernand;Alive;Cherbourg;1;Man;29;Adult;Male;25,74;7;1st Class Passenger;1
+PAINTER, Mr Frank Frederick;Dead;Southampton;Crew;Man;29;Adult;Male;;;Engineering Crew;E
+PAINTIN, Mr James Arthur;Dead;Southampton;Crew;Man;29;Adult;Male;;;Victualling Crew;V
+PALLS I CASTELL_, Sr. Emili;Alive;Cherbourg;2;Man;29;Adult;Male;13,86;9;2nd Class Passenger;2
+PaLSSON, Mrs Alma Cornelia;Dead;Southampton;3;Woman;29;Adult;Female;21,08;;3rd Class Passenger;3
+PARR, Mr William Henry Marsh;Dead;Belfast;1;Man;29;Adult;Male;0,00;;1st Class PassengerH&W Guarantee Group;1
+PEARS, Mr Thomas Clinton;Dead;Southampton;1;Man;29;Adult;Male;66,60;;1st Class Passenger;1
+PETROFF, Mr Pastcho;Dead;Southampton;3;Man;29;Adult;Male;7,90;;3rd Class Passenger;3
+RANDALL, Mr Frank Henry;Dead;Southampton;Crew;Man;29;Adult;Male;;;Victualling Crew;V
+RANGER, Mr Thomas;Alive;Southampton;Crew;Man;29;Adult;Male;;4;Engineering Crew;E
+RIDOUT, Mr Walter George;Dead;Southampton;Crew;Man;29;Adult;Male;;;Victualling Crew;V
+ROGERS, Mr William John;Dead;Southampton;3;Man;29;Adult;Male;8,05;;3rd Class Passenger;3
+RYAN, Mr Patrick;Dead;Queenstown;3;Man;29;Adult;Male;24,15;;3rd Class Passenger;3
+SALONEN, Mr Johan Werner;Dead;Southampton;3;Man;29;Adult;Male;7,93;;3rd Class Passenger;3
+SCHEERLINCK, Mr Jean;Alive;Southampton;3;Man;29;Adult;Male;9,50;11;3rd Class Passenger;3
+SHIHaB, Mr Al-Amir Faris;Dead;Cherbourg;3;Man;29;Adult;Male;7,23;;;3
+SIEBERT, Mr Sidney Conrad;Dead;Belfast;Crew;Man;29;Adult;Male;;4;Victualling Crew;V
+SINKKONEN, Miss Anna;Alive;Southampton;2;Woman;29;Adult;Female;13,00;10;2nd Class Passenger;2
+SMILLIE, Mr John;Dead;Belfast;Crew;Man;29;Adult;Male;;;Victualling Crew;V
+STEEL, Mr Robert Edward;Dead;Southampton;Crew;Man;29;Adult;Male;;;Engineering Crew;E
+STONE, Mr Edward Thomas;Dead;Southampton;Crew;Man;29;Adult;Male;;;Victualling Crew;V
+STRM, Mrs Elna Matilda;Dead;Southampton;3;Woman;29;Adult;Female;10,46;;3rd Class Passenger;3
+TOMS, Mr Fred;Alive;Belfast;Crew;Man;29;Adult;Male;;15;Victualling Crew;V
+TURPIN, Mr William John;Dead;Southampton;2;Man;29;Adult;Male;21,00;;2nd Class Passenger;2
+WELLS, Mrs Addie Dart;Alive;Southampton;2;Woman;29;Adult;Female;23,00;14;;2
+WHEELTON, Mr Edneser Edward;Alive;Belfast;Crew;Man;29;Adult;Male;;11;Victualling Crew;V
+ZIMMERMANN, Mr Leo;Dead;Southampton;3;Man;29;Adult;Male;7,88;;3rd Class Passenger;3
+ABELSON, Mr Samuel;Dead;Cherbourg;2;Man;30;Adult;Male;24,00;;2nd Class Passenger;2
+DAHL, Mr Mauritz Nils Martin;Dead;Southampton;3;Man;30;Adult;Male;7,25;;3rd Class Passenger;3
+ALLISON, Mr Hudson Joshua Creighton;Dead;Southampton;1;Man;30;Adult;Male;151,80;;1st Class Passenger;1
+BARLOW, Mr Charles;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+BENNETT, Mr George Alfred;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+BOCHATAY, Mr Alexis Joseph;Dead;Southampton;Crew;Man;30;Adult;Male;;;Victualling Crew;V
+BONNELL, Miss Caroline;Alive;Southampton;1;Woman;30;Adult;Female;164,87;8;1st Class Passenger;1
+BREWER, Mr Harry;Dead;Southampton;Crew;Man;30;Adult;Male;;;;E
+BROOME, Mr Athol Frederick;Dead;Southampton;Crew;Man;30;Adult;Male;;;Victualling Crew;V
+BULL, Mr W.;Dead;Southampton;Crew;Man;30;Adult;Male;;;Victualling Crew;V
+BURKE, Mr Richard Edward;Dead;Belfast;Crew;Man;30;Adult;Male;;;Victualling Crew;V
+BUTT, Mr William John;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+CACIC, Miss Marija;Dead;Southampton;3;Woman;30;Adult;Female;8,66;;3rd Class Passenger;3
+CALDERWOOD, Mr Hugh;Dead;Belfast;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+CHERRY, Miss Gladys;Alive;Southampton;1;Woman;30;Adult;Female;86,50;8;1st Class Passenger;1
+CORBETT, Mrs Irene;Dead;Southampton;2;Woman;30;Adult;Female;13,00;;2nd Class Passenger;2
+COREY, Mrs Mary Emma;Dead;Southampton;2;Woman;30;Adult;Female;1,05;;;2
+CORN, Mr Harry;Dead;Southampton;3;Man;30;Adult;Male;8,05;;3rd Class Passenger;3
+CROWE, Mr George Frederick;Alive;Southampton;Crew;Man;30;Adult;Male;;14;Victualling Crew;V
+CUNNINGHAM, Mr B.;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+DE MULDER, Mr Theodoor;Alive;Southampton;3;Man;30;Adult;Male;9,50;11;3rd Class Passenger;3
+DENKOFF, Mr Mitto;Dead;Southampton;3;Man;30;Adult;Male;7,90;;3rd Class Passenger;3
+DILLEY, Mr John;Alive;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+DURN I MON, Sra. Florentina;Alive;Cherbourg;2;Woman;30;Adult;Female;13,86;12;2nd Class Passenger;2
+FAY, Mr Thomas Joseph;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+FEY, Sig. Carlo;Dead;Southampton;Crew;Man;30;Adult;Male;;;Restaurant Staff;R
+FOREMAN, Mr Benjamin Laventall;Dead;Southampton;1;Man;30;Adult;Male;27,75;;1st Class Passenger;1
+FRASER, Mr J.;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+GIVARD, Mr Hans Kristensen;Dead;Southampton;2;Man;30;Adult;Male;13,00;;2nd Class Passenger;2
+HALE, Mr Reginald;Dead;Southampton;2;Man;30;Adult;Male;13,00;;2nd Class Passenger;2
+HEINEN, Mr Joseph Dominichus;Dead;Southampton;Crew;Man;30;Adult;Male;;;Victualling Crew;V
+HICKMAN, Mr Lewis;Dead;Southampton;2;Man;30;Adult;Male;73,50;;2nd Class Passenger;2
+HINTON, Mr Stephen William;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+JACKOPSON, Mr John Henry;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+JUPE, Mr Boykett Herbert;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+KARAJIC, Mr Milan;Dead;Southampton;3;Man;30;Adult;Male;7,90;;3rd Class Passenger;3
+KEEN, Mr Percy Edward;Alive;Southampton;Crew;Man;30;Adult;Male;;15;Victualling Crew;V
+KENNELL, Mr Charles;Dead;Southampton;Crew;Man;30;Adult;Male;;;Victualling Crew;V
+KINSELLA, Mr Louis;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+KITCHING, Mr Arthur Alfred;Dead;Southampton;Crew;Man;30;Adult;Male;;;Victualling Crew;V
+LAMB, Mr John Joseph;Dead;Queenstown;2;Man;30;Adult;Male;10,71;;2nd Class Passenger;2
+LEWY, Mr Ervin G.;Dead;Cherbourg;1;Man;30;Adult;Male;27,72;;1st Class Passenger;1
+LINDELL, Mrs Elin Gerda;Dead;Southampton;3;Woman;30;Adult;Female;15,55;A;3rd Class Passenger;3
+LINDSAY, Mr William Charles;Alive;Southampton;Crew;Man;30;Adult;Male;;3;Engineering Crew;E
+LOBB, Mr William Arthur;Dead;Southampton;3;Man;30;Adult;Male;16,10;;3rd Class Passenger;3
+LONG, Mr William;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+LORING, Mr Joseph Holland;Dead;Southampton;1;Man;30;Adult;Male;45,50;;1st Class Passenger;1
+LYMPEROPOULUS, Mr Panagiotis K.;Dead;Cherbourg;3;Man;30;Adult;Male;6,44;;3rd Class Passenger;3
+MAGUIRE, Mr John Edward;Dead;Southampton;1;Man;30;Adult;Male;26,00;;1st Class Passenger;1
+MANGIAVACCHI, Mr Serafino Emilio;Dead;Cherbourg;2;Man;30;Adult;Male;15,58;;2nd Class Passenger;2
+MATHERSON, Mr David;Dead;Southampton;Crew;Man;30;Adult;Male;;;Deck Crew;D
+MATINOFF, Mr Nicola;Dead;Cherbourg;3;Man;30;Adult;Male;7,90;;3rd Class Passenger;3
+MATTHEWS, Mr William John;Dead;Southampton;2;Man;30;Adult;Male;13,00;;2nd Class Passenger;2
+MCGAW, Mr Erroll Victor;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+MOCK, Mr Philipp Edmund;Alive;Cherbourg;1;Man;30;Adult;Male;57,75;11;1st Class Passenger;1
+MORRIS, Mr Arthur;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+MORROW, Mr Thomas Rowan;Dead;Queenstown;3;Man;30;Adult;Male;7,75;;3rd Class Passenger;3
+NIVEN, Mr John Brown;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+NOSS, Mr Henry;Alive;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+NUTBEAN, Mr William;Alive;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+PFROPPER, Mr Richard Paul Jozef;Alive;Southampton;Crew;Man;30;Adult;Male;;;Victualling Crew;V
+PORTALUPPI, Mr Emilio Ilario Giuseppe;Alive;Cherbourg;2;Man;30;Adult;Male;12,74;14;2nd Class Passenger;2
+PRANGNELL, Mr George Alexander;Alive;Southampton;Crew;Man;30;Adult;Male;;B;Engineering Crew;E
+RAZI, Mr Raihed;Dead;Cherbourg;3;Man;30;Adult;Male;7,23;;3rd Class Passenger;3
+REID, Mr Robert Thomas;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+RENOUF, Mrs Lillian;Alive;Southampton;2;Woman;30;Adult;Female;21,00;;2nd Class Passenger;2
+ROBINSON, Mr James William;Dead;Southampton;Crew;Man;30;Adult;Male;;;Victualling Crew;V
+SAAD, Mr Amin;Dead;Cherbourg;3;Man;30;Adult;Male;7,23;;3rd Class Passenger;3
+SERREPLAN, Miss Auguste;Alive;Southampton;1;Woman;30;Adult;Female;31,00;4;1st Class PassengerServant;1
+SLAYTER, Miss Hilda Mary;Alive;Queenstown;2;Woman;30;Adult;Female;12,35;13;2nd Class Passenger;2
+SLOCOMBE, Mrs Maude Louise;Alive;Southampton;Crew;Woman;30;Adult;Female;;;Victualling Crew;V
+SOMERTON, Mr Francis William;Dead;Southampton;3;Man;30;Adult;Male;8,05;;3rd Class Passenger;3
+STANBROOK, Mr Augustus George;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+TAYLOR, Mr William John;Dead;Southampton;Crew;Man;30;Adult;Male;;;Victualling Crew;V
+THOMAS, Mr Benjamin James;Alive;Belfast;Crew;Man;30;Adult;Male;;15;Victualling Crew;V
+TOSHACK, Mr James Adamson;Dead;Southampton;Crew;Man;30;Adult;Male;;;Victualling Crew;V
+TOZER, Mr James;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+VAN IMPE, Mrs Rosalie Paula;Dead;Southampton;3;Woman;30;Adult;Female;24,15;;3rd Class Passenger;3
+WARREN, Mr Charles William;Dead;Southampton;3;Man;30;Adult;Male;7,55;;3rd Class Passenger;3
+WELLER, Mr William Clifford;Alive;Belfast;Crew;Man;30;Adult;Male;;7;Deck Crew;D
+WHEAT, Mr Joseph Thomas;Alive;Belfast;Crew;Man;30;Adult;Male;;11;Victualling Crew;V
+WOOD, Mr Henry;Dead;Southampton;Crew;Man;30;Adult;Male;;;Engineering Crew;E
+AKERMAN, Mr Albert Edward;Dead;Southampton;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+BANSKI, Mrs Mara;Alive;Southampton;3;Woman;31;Adult;Female;8,68;;3rd Class Passenger;3
+BEDFORD, Mr William Barnett;Dead;Southampton;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+BESSANT, Mr Edward;Dead;Southampton;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+BIDDLECOMBE, Mr Reginald Charles;Dead;Southampton;Crew;Man;31;Adult;Male;;;Engineering Crew;E
+BIRD, Miss Ellen;Alive;Southampton;1;Woman;31;Adult;Female;221,78;8;1st Class PassengerServant;1
+BOSTON, Mr William John;Dead;Belfast;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+BRISTOW, Mr Robert Charles;Dead;Southampton;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+BURKE, Mr William;Alive;Belfast;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+CARNEY, Mr William;Dead;Southampton;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+CLENCH, Mr George James;Dead;Southampton;Crew;Man;31;Adult;Male;;;Deck Crew;D
+COLLYER, Mr Harvey;Dead;Southampton;2;Man;31;Adult;Male;26,25;;2nd Class Passenger;2
+COLLYER, Mrs Charlotte Annie;Alive;Southampton;2;Woman;31;Adult;Female;26,25;14;2nd Class Passenger;2
+CONLIN, Mr Thomas Henry;Dead;Queenstown;3;Man;31;Adult;Male;7,73;;3rd Class Passenger;3
+CONNAGHTON, Mr Michael;Dead;Queenstown;3;Man;31;Adult;Male;7,75;;3rd Class Passenger;3
+DAVIDSON, Mr Thornton;Dead;Cherbourg;1;Man;31;Adult;Male;52,00;;1st Class Passenger;1
+DICK, Mr Albert Adrian;Alive;Southampton;1;Man;31;Adult;Male;57,00;3;1st Class Passenger;1
+DOWDELL, Miss Elizabeth;Alive;Southampton;3;Woman;31;Adult;Female;12,48;13;3rd Class Passenger;3
+DYER, Mr William Henry;Dead;Southampton;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+FRANCATELLI, Miss Laura Mabel;Alive;Cherbourg;1;Woman;31;Adult;Female;56,93;1;1st Class PassengerServant;1
+GEDDES, Mr Richard Charles;Dead;Southampton;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+GILARDINO, Sig. Vincenzo Pio;Dead;Southampton;Crew;Man;31;Adult;Male;;;Restaurant Staff;R
+GILLESPIE, Mr William Henry;Dead;Southampton;2;Man;31;Adult;Male;13,00;;2nd Class Passenger;2
+GOLDSMITH, Mrs Emily Alice;Alive;Southampton;3;Woman;31;Adult;Female;20,53;C;3rd Class Passenger;3
+HAINES, Mr Albert;Alive;Belfast;Crew;Man;31;Adult;Male;;9;Deck Crew;D
+HART, Mr John Edward;Alive;Southampton;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+HOWELL, Mr Arthur Albert;Dead;Belfast;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+HOYT, Mrs Jane Anne;Alive;Southampton;1;Woman;31;Adult;Female;100,00;D;1st Class Passenger;1
+HUMPHREYS, Mr Humphrey;Dead;Southampton;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+IDE, Mr Harry John;Dead;Southampton;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+JOHANSSON, Mr Karl Johan;Dead;Southampton;3;Man;31;Adult;Male;7,78;;3rd Class Passenger;3
+JUDD, Mr Charles Edward;Alive;Southampton;Crew;Man;31;Adult;Male;;B;Engineering Crew;E
+KVILLNER, Mr Johan Henrik Johannesson;Dead;Southampton;2;Man;31;Adult;Male;10,50;;2nd Class Passenger;2
+LEITCH, Miss Jessie Wills;Alive;Southampton;2;Woman;31;Adult;Female;33,00;11;2nd Class Passenger;2
+LUCAS, Mr William Watson;Alive;Belfast;Crew;Man;31;Adult;Male;;A;Victualling Crew;V
+MAXWELL, Mr John;Dead;Belfast;Crew;Man;31;Adult;Male;;;Deck Crew;D
+MAYNARD, Mr Isaac Hiram;Alive;Belfast;Crew;Man;31;Adult;Male;;B;Victualling Crew;V
+MCDERMOTT, Miss Bridget Delia;Alive;Queenstown;3;Woman;31;Adult;Female;7,78;13;3rd Class Passenger;3
+MCRAE, Mr William Alexander;Dead;Southampton;Crew;Man;31;Adult;Male;;;Engineering Crew;E
+MEEK, Mrs Annie Louise Rowley;Dead;Southampton;3;Woman;31;Adult;Female;8,05;;3rd Class Passenger;3
+MEYER, Mr August;Dead;Southampton;2;Man;31;Adult;Male;13,00;;2nd Class Passenger;2
+NEWELL, Miss Madeleine;Alive;Cherbourg;1;Woman;31;Adult;Female;113,28;6;1st Class Passenger;1
+OLIVE, Mr Charles;Dead;Southampton;Crew;Man;31;Adult;Male;;;Engineering Crew;E
+OLSSON, Miss Elina;Dead;Southampton;3;Woman;31;Adult;Female;7,85;;3rd Class Passenger;3
+ORPET, Mr Walter Hayward;Dead;Southampton;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+PAINTER, Mr Charles;Dead;Southampton;Crew;Man;31;Adult;Male;;;Engineering Crew;E
+PENNY, Mr William Farr;Dead;Southampton;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+PERRITON, Mr Hubert Prouse;Dead;Southampton;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+PUGH, Mr Arthur Percy;Dead;Southampton;Crew;Man;31;Adult;Male;;;Engineering Crew;E
+REVELL, Mr William James Francis;Dead;Belfast;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+ROEBLING, Mr Washington Augustus II;Dead;Southampton;1;Man;31;Adult;Male;50,50;;1st Class Passenger;1
+ROGERS, Mr Edward James William;Dead;Southampton;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+ROTH, Miss Sarah;Alive;Southampton;3;Woman;31;Adult;Female;8,05;C;;3
+ROWE, Mr Edgar Maurice;Dead;Belfast;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+SAWYER, Mr Robert James;Dead;Southampton;Crew;Man;31;Adult;Male;;;Deck Crew;D
+SENIOR, Mr Harry;Alive;Southampton;Crew;Man;31;Adult;Male;;;Engineering Crew;E
+SIMMONS, Mr Andrew George James;Alive;Southampton;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+SLOAN, Mr Peter;Dead;Belfast;Crew;Man;31;Adult;Male;;;Engineering Crew;E
+STRANDN, Mr Juho Niilosson;Alive;Southampton;3;Man;31;Adult;Male;7,93;9;3rd Class Passenger;3
+STUBBINGS, Mr Harry Robert;Dead;Belfast;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+TANNuS, Mr Bashir;Dead;Cherbourg;3;Man;31;Adult;Male;6,44;;;3
+TIZARD, Mr Arthur Leopold;Dead;Southampton;Crew;Man;31;Adult;Male;;;Engineering Crew;E
+TUCKER, Mr Gilbert Milligan jr;Alive;Cherbourg;1;Man;31;Adult;Male;28,54;7;1st Class Passenger;1
+VANDERPLANCKE, Mr Julius;Dead;Southampton;3;Man;31;Adult;Male;18,00;;3rd Class Passenger;3
+VANDERPLANCKE, Mrs Emelie Maria;Dead;Southampton;3;Woman;31;Adult;Female;18,00;;3rd Class Passenger;3
+WARD, Mr James William;Dead;Southampton;Crew;Man;31;Adult;Male;;;Engineering Crew;E
+WARE, Mrs Florence Louise;Alive;Southampton;2;Woman;31;Adult;Female;21,00;10;2nd Class Passenger;2
+WEBBER, Mr Francis Albert;Dead;Southampton;Crew;Man;31;Adult;Male;;;Engineering Crew;E
+WHILEMS, Mr Charles;Alive;Southampton;2;Man;31;Adult;Male;13,00;9;;2
+WHITE, Mr Leonard Lisle Oliver;Dead;Belfast;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+WICK, Miss Mary Natalie;Alive;Southampton;1;Woman;31;Adult;Female;164,87;8;1st Class Passenger;1
+WILSON, Miss Helen Alice;Alive;Cherbourg;1;Woman;31;Adult;Female;134,50;3;1st Class PassengerServant;1
+WITTER, Mr James William Cheetham;Alive;Southampton;Crew;Man;31;Adult;Male;;;Victualling Crew;V
+ALLEN, Mr Henry;Dead;Southampton;Crew;Man;32;Adult;Male;;;Engineering Crew;E
+ANGLE, Mr William A.;Dead;Southampton;2;Man;32;Adult;Male;26,00;;2nd Class Passenger;2
+BACK, Mr Charles Frederick;Dead;Belfast;Crew;Man;32;Adult;Male;;;Victualling Crew;V
+BACKSTRM, Mr Karl Alfred;Dead;Southampton;3;Man;32;Adult;Male;15,85;;3rd Class Passenger;3
+BARROWS, Mr William;Dead;Southampton;Crew;Man;32;Adult;Male;;;Victualling Crew;V
+BASSANI, Mrs Albina;Alive;Cherbourg;1;Woman;32;Adult;Female;76,29;8;;1
+BEANE, Mr Edward;Alive;Southampton;2;Man;32;Adult;Male;26,00;13;2nd Class Passenger;2
+BING, Mr Lee;Alive;Southampton;3;Man;32;Adult;Male;56,50;C;3rd Class Passenger;3
+BLANEY, Mr James;Dead;Southampton;Crew;Man;32;Adult;Male;;;Engineering Crew;E
+BOURKE, Mrs Catherine;Dead;Queenstown;3;Woman;32;Adult;Female;15,50;;3rd Class Passenger;3
+BRITO, Mr Jos Joaquim de;Dead;Southampton;2;Man;32;Adult;Male;13,00;;2nd Class Passenger;2
+CARTWRIGHT, Mr James Edward;Dead;Belfast;Crew;Man;32;Adult;Male;;;Victualling Crew;V
+CASALI, Sig. Giulio;Dead;Southampton;Crew;Man;32;Adult;Male;;;Restaurant Staff;R
+CHAMBERS, Mrs Bertha;Alive;Southampton;1;Woman;32;Adult;Female;53,10;5;1st Class Passenger;1
+CHAPMAN, Mr Joseph Charles;Alive;Southampton;Crew;Man;32;Adult;Male;;9;Victualling Crew;V
+CHIP, Mr Chang;Alive;Southampton;3;Man;32;Adult;Male;56,50;C;3rd Class Passenger;3
+COOK, Mr George;Dead;Southampton;Crew;Man;32;Adult;Male;;;Victualling Crew;V
+CRISPIN, Mr William;Dead;Southampton;Crew;Man;32;Adult;Male;;;Victualling Crew;V
+DAVIES, Mr Gordon Raleigh;Dead;Belfast;Crew;Man;32;Adult;Male;;;Victualling Crew;V
+DAVISON, Mr Thomas Henry;Dead;Southampton;3;Man;32;Adult;Male;16,10;;3rd Class Passenger;3
+DEAN, Mrs Eva Georgetta;Alive;Southampton;3;Woman;32;Adult;Female;20,58;10;3rd Class Passenger;3
+FOO, Mr Choong;Alive;Southampton;3;Man;32;Adult;Male;56,50;13;3rd Class Passenger;3
+FORD, Mr Ernest;Dead;Southampton;Crew;Man;32;Adult;Male;;;Victualling Crew;V
+FORD, Mr Thomas;Dead;Southampton;Crew;Man;32;Adult;Male;;;Engineering Crew;E
+GILES, Mr John Robert;Dead;Southampton;Crew;Man;32;Adult;Male;;;Victualling Crew;V
+GOLDER, Mr M. W.;Dead;Southampton;Crew;Man;32;Adult;Male;;;Engineering Crew;E
+GRaNNESTAD, Mr Daniel Danielsen;Dead;Southampton;3;Man;32;Adult;Male;8,36;;3rd Class Passenger;3
+HALL, Mr J.;Dead;Southampton;Crew;Man;32;Adult;Male;;;Engineering Crew;E
+ILIEFF, Mr Ylio;Dead;Southampton;3;Man;32;Adult;Male;7,90;;3rd Class Passenger;3
+JENKIN, Mr Stephen Curnow;Dead;Southampton;2;Man;32;Adult;Male;10,50;;2nd Class Passenger;2
+JONES, Mr Thomas William;Alive;Southampton;Crew;Man;32;Adult;Male;;8;Deck Crew;D
+JOUGHIN, Mr Charles John;Alive;Belfast;Crew;Man;32;Adult;Male;;B;Victualling Crew;V
+JUSSILA, Mr Eiriik;Alive;Southampton;3;Man;32;Adult;Male;7,93;15;3rd Class Passenger;3
+LAHY, Mr T. E.;Dead;Southampton;Crew;Man;32;Adult;Male;;;Engineering Crew;E
+LANG, Mr Fang;Alive;Southampton;3;Man;32;Adult;Male;56,50;14;3rd Class Passenger;3
+LEINONEN, Mr Antti Gustaf;Dead;Southampton;3;Man;32;Adult;Male;7,93;;3rd Class Passenger;3
+LUNDSTRM, Mr Thure Edvin;Alive;Southampton;3;Man;32;Adult;Male;7,58;15;3rd Class Passenger;3
+MACKIE, Mr William Dickson;Dead;Belfast;Crew;Man;32;Adult;Male;;;Engineering Crew;E
+MAJOR, Mr William James;Alive;Southampton;Crew;Man;32;Adult;Male;;13;Engineering Crew;E
+MANGAN, Miss Mary;Dead;Queenstown;3;Woman;32;Adult;Female;7,75;;3rd Class Passenger;3
+MASON, Mr Frank Archibald Robert;Alive;Southampton;Crew;Man;32;Adult;Male;;;Engineering Crew;E
+MCCRAE, Mr Arthur Gordon;Dead;Southampton;2;Man;32;Adult;Male;13,50;;2nd Class Passenger;2
+MCCRIE, Mr James Matthew;Dead;Southampton;2;Man;32;Adult;Male;13,00;;2nd Class Passenger;2
+MCMULLIN, Mr John Richard;Dead;Belfast;Crew;Man;32;Adult;Male;;;Victualling Crew;V
+MCNEILL, Miss Bridget;Dead;Queenstown;3;Woman;32;Adult;Female;7,75;;3rd Class Passenger;3
+MILLAR, Mr Thomas;Dead;Belfast;Crew;Man;32;Adult;Male;;;Engineering Crew;E
+MOORE, Mr George Alfred;Alive;Southampton;Crew;Man;32;Adult;Male;;3;Deck Crew;D
+NANKOFF, Mr Minko;Dead;Southampton;3;Man;32;Adult;Male;7,90;;3rd Class Passenger;3
+NAVRATIL, Mr Michel;Dead;Southampton;2;Man;32;Adult;Male;26,00;;2nd Class Passenger;2
+OLIVER, Mr H.;Alive;Southampton;Crew;Man;32;Adult;Male;;9;Engineering Crew;E
+OLSSON, Mr Oscar Wilhelm;Alive;Southampton;3;Man;32;Adult;Male;7,78;A;3rd Class Passenger;3
+OSBORNE, Mr William Edward;Dead;Belfast;Crew;Man;32;Adult;Male;;;Victualling Crew;V
+PAICE, Mr Richard Charles John;Dead;Southampton;Crew;Man;32;Adult;Male;;;Engineering Crew;E
+PAVLOVIC, Mr Stefo;Dead;Southampton;3;Man;32;Adult;Male;7,90;;3rd Class Passenger;3
+PEARCE, Mr Ernest;Dead;Southampton;3;Man;32;Adult;Male;7,00;;3rd Class Passenger;3
+PIAZZA, Sig. Pompeo Gaspro;Dead;Southampton;Crew;Man;32;Adult;Male;;;Restaurant Staff;R
+PICKARD, Mr Berk;Alive;Southampton;3;Man;32;Adult;Male;8,05;9;3rd Class Passenger;3
+PINSKY, Mrs Rosa;Alive;Southampton;2;Woman;32;Adult;Female;13,00;9;2nd Class Passenger;2
+POND, Mr George;Dead;Southampton;Crew;Man;32;Adult;Male;;;Engineering Crew;E
+PORTEUS, Mr Thomas Henry;Dead;Southampton;Crew;Man;32;Adult;Male;;;Victualling Crew;V
+RAY, Mr Frederick Dent;Alive;Belfast;Crew;Man;32;Adult;Male;;13;Victualling Crew;V
+RICE, Mr Charles;Alive;Southampton;Crew;Man;32;Adult;Male;;;Engineering Crew;E
+ROWE, Mr George Thomas;Alive;Belfast;Crew;Man;32;Adult;Male;;C;Deck Crew;D
+SANGSTER, Mr Charles Edward;Dead;Southampton;Crew;Man;32;Adult;Male;;;Engineering Crew;E
+SHEA, Mr Thomas;Dead;Southampton;Crew;Man;32;Adult;Male;;;Engineering Crew;E
+SHEPHERD, Mr Jonathan;Dead;Southampton;Crew;Man;32;Adult;Male;;;Engineering Crew;E
+SMITH, Mr Reginald George;Dead;Southampton;Crew;Man;32;Adult;Male;;;;V
+SPINNER, Mr Henry John;Dead;Southampton;3;Man;32;Adult;Male;8,05;;3rd Class Passenger;3
+ST_HELIN-MAEGLIN, Dr Max;Alive;Southampton;1;Man;32;Adult;Male;30,50;3;1st Class Passenger;1
+TAYLOR, Mr Percy Cornelius;Dead;Southampton;2;Man;32;Adult;Male;0,00;;2nd Class PassengerMusician;2
+TEUTON, Mr Thomas Moore;Dead;Southampton;Crew;Man;32;Adult;Male;;;Victualling Crew;V
+THORNEYCROFT, Mrs Florence Kate;Alive;Southampton;3;Woman;32;Adult;Female;16,10;10;3rd Class Passenger;3
+TIKKANEN, Mr Juho;Dead;Southampton;3;Man;32;Adult;Male;7,93;;3rd Class Passenger;3
+TURNER, Mr George Frederick;Dead;Southampton;Crew;Man;32;Adult;Male;;;Victualling Crew;V
+VEAR, Mr Henry;Dead;Southampton;Crew;Man;32;Adult;Male;;;Engineering Crew;E
+VIGOTT, Mr Philip Francis;Alive;Southampton;Crew;Man;32;Adult;Male;;13;Deck Crew;D
+WALSH, Miss Catherine;Dead;Southampton;Crew;Woman;32;Adult;Female;;;Victualling Crew;V
+WHITE, Mr Alfred;Alive;Southampton;Crew;Man;32;Adult;Male;;4;Engineering Crew;E
+WOODWARD, Mr John Wesley;Dead;Southampton;2;Man;32;Adult;Male;0,00;;2nd Class PassengerMusician;2
+YOUNG, Mr Francis James;Dead;Southampton;Crew;Man;32;Adult;Male;;;Engineering Crew;E
+ABRAMS, Mr William Thomas;Dead;Southampton;Crew;Man;33;Adult;Male;;;Engineering Crew;E
+ANDERSEN, Mr Albert Karvin;Dead;Southampton;3;Man;33;Adult;Male;22,53;;3rd Class Passenger;3
+BACKSTRM, Mrs Maria Mathilda;Alive;Southampton;3;Woman;33;Adult;Female;15,85;;3rd Class Passenger;3
+BAGLEY, Mr Edward Henry;Dead;Southampton;Crew;Man;33;Adult;Male;;;Victualling Crew;V
+BARRETT, Mr Frederick William;Dead;Southampton;Crew;Man;33;Adult;Male;;;Engineering Crew;E
+BARRINGER, Mr Arthur William;Dead;Belfast;Crew;Man;33;Adult;Male;;;Victualling Crew;V
+BAZZI, Sig. Narciso;Dead;Southampton;Crew;Man;33;Adult;Male;;;Restaurant Staff;R
+BENNETT, Mrs Mabel;Alive;Southampton;Crew;Woman;33;Adult;Female;;;Victualling Crew;V
+BISHOP, Mr Walter Alexander;Dead;Belfast;Crew;Man;33;Adult;Male;;;Victualling Crew;V
+BRISTOW, Mr Harry;Dead;Southampton;Crew;Man;33;Adult;Male;;;Victualling Crew;V
+BROOM, Mr Herbert George;Dead;Belfast;Crew;Man;33;Adult;Male;;;Victualling Crew;V
+CARLSSON, Mr Frans Olof;Dead;Southampton;1;Man;33;Adult;Male;5,00;;1st Class Passenger;1
+CATON, Miss Annie;Alive;Southampton;Crew;Woman;33;Adult;Female;;11;Victualling Crew;V
+CHRISTMAS, Mr Herbert Harry;Dead;Southampton;Crew;Man;33;Adult;Male;;;Victualling Crew;V
+CLENCH, Mr Frederick Charles;Alive;Southampton;Crew;Man;33;Adult;Male;;12;Deck Crew;D
+COLGAN, Mr E. Joseph;Alive;Southampton;Crew;Man;33;Adult;Male;;;Victualling Crew;V
+CORCORAN, Mr Denny;Dead;Southampton;Crew;Man;33;Adult;Male;;;Engineering Crew;E
+DALY, Miss Margaret Marcella;Alive;Queenstown;3;Woman;33;Adult;Female;6,95;15;;3
+DANIELS, Miss Sarah;Alive;Southampton;1;Woman;33;Adult;Female;151,80;8;1st Class PassengerServant;1
+DAVIES, Mr Thomas;Dead;Southampton;Crew;Man;33;Adult;Male;;;Engineering Crew;E
+DRAZENOVIC, Mr Jozef;Dead;Cherbourg;3;Man;33;Adult;Male;7,90;;3rd Class Passenger;3
+EVANS, Mr William Thomas;Dead;Southampton;Crew;Man;33;Adult;Male;;;Engineering Crew;E
+GALE, Mr Shadrach;Dead;Southampton;2;Man;33;Adult;Male;21,00;;2nd Class Passenger;2
+GOLDSMITH, Mr Frank John;Dead;Southampton;3;Man;33;Adult;Male;20,53;;3rd Class Passenger;3
+HARTLEY, Mr Wallace Henry;Dead;Southampton;2;Man;33;Adult;Male;0,00;;2nd Class PassengerMusician;2
+HESKETH, Mr John Henry;Dead;Belfast;Crew;Man;33;Adult;Male;;;Engineering Crew;E
+HORSWILL, Mr Albert Edward James;Alive;Southampton;Crew;Man;33;Adult;Male;;1;Deck Crew;D
+HUGHES, Mr William Thomas;Dead;Southampton;Crew;Man;33;Adult;Male;;;Victualling Crew;V
+HUNT, Mr George Henry;Dead;Southampton;2;Man;33;Adult;Male;12,28;;2nd Class Passenger;2
+IBRAHIM SHAWAH, Mr Yousseff;Dead;Cherbourg;3;Man;33;Adult;Male;14,46;;3rd Class Passenger;3
+INSTANCE, Mr T.;Dead;Southampton;Crew;Man;33;Adult;Male;;;Engineering Crew;E
+JOHANSSON, Mr Gustaf Joel;Dead;Southampton;3;Man;33;Adult;Male;8,65;;3rd Class Passenger;3
+JOHNSON, Mr Malkolm Joackim;Dead;Southampton;3;Man;33;Adult;Male;7,78;;3rd Class Passenger;3
+KARLSSON, Mr Julius Konrad Eugen;Dead;Southampton;3;Man;33;Adult;Male;7,85;;3rd Class Passenger;3
+KEEPING, Mr Edwin Herbert;Dead;Southampton;1;Man;33;Adult;Male;211,50;;1st Class PassengerServant;1
+KLEIN, Mr Herbert;Dead;Southampton;Crew;Man;33;Adult;Male;;;Victualling Crew;V
+LOCKE, Mr A.;Dead;Southampton;Crew;Man;33;Adult;Male;;;Victualling Crew;V
+MARKUN, Mr Johann;Dead;Cherbourg;3;Man;33;Adult;Male;7,90;;3rd Class Passenger;3
+MINAHAN, Miss Daisy E.;Alive;Queenstown;1;Woman;33;Adult;Female;90,00;14;1st Class Passenger;1
+NEWMAN, Mr Charles Thomas;Dead;Southampton;Crew;Man;33;Adult;Male;;;Engineering Crew;E
+PENNAL, Mr Thomas Frederick Cohen;Dead;Southampton;Crew;Man;33;Adult;Male;;;Victualling Crew;V
+PERREAULT, Miss Mary Anne;Alive;Southampton;1;Woman;33;Adult;Female;93,50;3;1st Class PassengerServant;1
+POINGDESTRE, Mr John Thomas;Alive;Southampton;Crew;Man;33;Adult;Male;;12;Deck Crew;D
+QUICK, Mrs Jane;Alive;Southampton;2;Woman;33;Adult;Female;26,00;11;2nd Class Passenger;2
+REEVES, Mr Frederick Simms;Dead;Southampton;Crew;Man;33;Adult;Male;;;Engineering Crew;E
+RENOUF, Mr Peter Henry;Dead;Southampton;2;Man;33;Adult;Male;21,00;;2nd Class Passenger;2
+RHEIMS, Mr George Alexander Lucien;Alive;Cherbourg;1;Man;33;Adult;Male;39,60;A;1st Class Passenger;1
+ROSENBAUM, Miss Edith Louise;Alive;Cherbourg;1;Woman;33;Adult;Female;27,72;11;1st Class Passenger;1
+ROTHES, Lucy Nol Martha, Countess of;Alive;Southampton;1;Woman;33;Adult;Female;86,50;8;1st Class Passenger;1
+RYERSON, Mr William Edwy;Alive;Southampton;Crew;Man;33;Adult;Male;;;Victualling Crew;V
+SAWYER, Mr Frederick Charles;Dead;Southampton;3;Man;33;Adult;Male;8,05;;3rd Class Passenger;3
+SCARROTT, Mr Joseph George;Alive;Southampton;Crew;Man;33;Adult;Male;;14;Deck Crew;D
+SKINNER, Mr Edward;Dead;Belfast;Crew;Man;33;Adult;Male;;;Victualling Crew;V
+SLIGHT, Mr Harry John;Dead;Southampton;Crew;Man;33;Adult;Male;;;Victualling Crew;V
+STANKOVIC, Mr Ivan;Dead;Cherbourg;3;Man;33;Adult;Male;8,69;;3rd Class Passenger;3
+STONE, Mr Edmund;Dead;Southampton;Crew;Man;33;Adult;Male;;;Victualling Crew;V
+VEAR, Mr William;Dead;Southampton;Crew;Man;33;Adult;Male;;;Engineering Crew;E
+WEST, Mrs Ada Mary;Alive;Southampton;2;Woman;33;Adult;Female;27,75;10;2nd Class Passenger;2
+WILLSHER, Mr William Aubrey;Dead;Southampton;Crew;Man;33;Adult;Male;;;Victualling Crew;V
+WINSER, Mr Rowland;Dead;Southampton;Crew;Man;33;Adult;Male;;;Victualling Crew;V
+ALDWORTH, Mr Augustus Henry;Dead;Southampton;2;Man;34;Adult;Male;13,00;;;2
+BANNON, Mr John Joseph;Dead;Southampton;Crew;Man;34;Adult;Male;;;Engineering Crew;E
+BEEDEM, Mr George Arthur;Dead;Southampton;Crew;Man;34;Adult;Male;;;Victualling Crew;V
+BEESLEY, Mr Lawrence;Alive;Southampton;2;Man;34;Adult;Male;13,00;13;2nd Class Passenger;2
+BRIANT, Mr Albert;Dead;Southampton;Crew;Man;34;Adult;Male;;;Engineering Crew;E
+BROWN, Mr Edward;Alive;Belfast;Crew;Man;34;Adult;Male;;;Victualling Crew;V
+BUCKLEY, Mr H. E.;Dead;Southampton;Crew;Man;34;Adult;Male;;;Victualling Crew;V
+CASSWILL, Mr Charles;Dead;Southampton;Crew;Man;34;Adult;Male;;;Victualling Crew;V
+COMBES, Mr George;Alive;Southampton;Crew;Man;34;Adult;Male;;3;Engineering Crew;E
+DANBOM, Mr Ernst Gilbert;Dead;Southampton;3;Man;34;Adult;Male;14,40;;3rd Class Passenger;3
+DAVISON, Mrs Mary E.;Alive;Southampton;3;Woman;34;Adult;Female;16,10;16;3rd Class Passenger;3
+DEEBLE, Mr Alfred Arnold;Dead;Belfast;Crew;Man;34;Adult;Male;;;Victualling Crew;V
+DODGE, Mrs Ruth;Alive;Southampton;1;Woman;34;Adult;Female;81,86;5;1st Class Passenger;1
+DOLING, Mrs Ada Julia Elizabeth;Alive;Southampton;2;Woman;34;Adult;Female;23,00;;2nd Class Passenger;2
+DREW, Mrs Lulu Thorne;Alive;Southampton;2;Woman;34;Adult;Female;32,50;10;2nd Class Passenger;2
+ENNIS, Mr Walter;Dead;Southampton;Crew;Man;34;Adult;Male;;;Victualling Crew;V
+FERRARY, Mr Antonio;Dead;Southampton;Crew;Man;34;Adult;Male;;;Engineering Crew;E
+FINOLI, Mr Luigi;Alive;Southampton;3;Man;34;Adult;Male;7,05;15;3rd Class Passenger;3
+GARSIDE, Miss Ethel;Alive;Southampton;2;Woman;34;Adult;Female;13,00;12;2nd Class Passenger;2
+HARVEY, Mr Herbert Gifford;Dead;Belfast;Crew;Man;34;Adult;Male;;;Engineering Crew;E
+HYMAN, Mr Abraham Joseph;Alive;Southampton;3;Man;34;Adult;Male;7,89;C;3rd Class Passenger;3
+JOHANSON, Mr Jakob Alfred;Dead;Southampton;3;Man;34;Adult;Male;6,50;;3rd Class Passenger;3
+JOHNSTON, Mrs Eliza;Dead;Southampton;3;Woman;34;Adult;Female;23,45;;3rd Class Passenger;3
+KANTOR, Mr Sinai;Dead;Southampton;2;Man;34;Adult;Male;26,00;;2nd Class Passenger;2
+KIERAN, Mr Edgar Michael;Dead;Southampton;Crew;Man;34;Adult;Male;;;Victualling Crew;V
+KIERAN, Mr James William;Dead;Southampton;Crew;Man;34;Adult;Male;;;Victualling Crew;V
+LAHTINEN, Mrs Anna Amelia;Dead;Southampton;2;Woman;34;Adult;Female;26,00;;2nd Class Passenger;2
+LANE, Mr Albert Edward;Dead;Southampton;Crew;Man;34;Adult;Male;;;Victualling Crew;V
+MACKAY, Mr Charles Donald;Alive;Belfast;Crew;Man;34;Adult;Male;;11;Victualling Crew;V
+MACKIE, Mr George William;Dead;Southampton;Crew;Man;34;Adult;Male;;;Victualling Crew;V
+MAISNER, Mr Simon;Dead;Southampton;3;Man;34;Adult;Male;8,05;;3rd Class Passenger;3
+MCGARVEY, Mr Edward Joseph;Dead;Southampton;Crew;Man;34;Adult;Male;;;Engineering Crew;E
+MELLOR, Mr Arthur;Dead;Southampton;Crew;Man;34;Adult;Male;;;Victualling Crew;V
+MORLEY, Mr William;Dead;Southampton;3;Man;34;Adult;Male;8,05;;3rd Class Passenger;3
+MOSS, Mr William;Dead;Belfast;Crew;Man;34;Adult;Male;;;Victualling Crew;V
+MURPHY, Miss Nora;Alive;Queenstown;3;Woman;34;Adult;Female;15,50;16;3rd Class Passenger;3
+NICHOLS, Mr A.D.;Dead;Southampton;Crew;Man;34;Adult;Male;;;Victualling Crew;V
+PITMAN, Mr Herbert John;Alive;Belfast;Crew;Man;34;Adult;Male;;5;Deck CrewTitanic Officers;D
+POOK, Mr Percy Robert;Dead;Southampton;Crew;Man;34;Adult;Male;;;Victualling Crew;V
+PRICHARD, Mrs Alice Maud;Alive;Southampton;Crew;Woman;34;Adult;Female;;11;Victualling Crew;V
+SEWARD, Mr Frederic Kimber;Alive;Southampton;1;Man;34;Adult;Male;26,55;7;1st Class Passenger;1
+STRUGNELL, Mr John Herbert;Dead;Belfast;Crew;Man;34;Adult;Male;;;Victualling Crew;V
+THEOBALD, Mr Thomas Leonard;Dead;Southampton;3;Man;34;Adult;Male;8,05;;3rd Class Passenger;3
+THOMAS/TANNOUS, Mr John;Dead;Cherbourg;3;Man;34;Adult;Male;6,44;;3rd Class Passenger;3
+WARD, Mr Edward;Dead;Belfast;Crew;Man;34;Adult;Male;;;Victualling Crew;V
+WARE, Mr Frederick;Dead;Southampton;3;Man;34;Adult;Male;8,05;;3rd Class Passenger;3
+AKERMAN, Mr Joseph Francis;Dead;Southampton;Crew;Man;35;Adult;Male;;;Victualling Crew;V
+ALLSOP, Mr Alfred Samuel;Dead;Belfast;Crew;Man;35;Adult;Male;;;Engineering Crew;E
+ARCHER, Mr Ernest Edward;Alive;Southampton;Crew;Man;35;Adult;Male;;16;Deck Crew;D
+ASIM, Mr Adola;Dead;Southampton;3;Man;35;Adult;Male;7,05;;3rd Class Passenger;3
+BARROW, Mr Charles Henry John Barrow;Dead;Southampton;Crew;Man;35;Adult;Male;;;Victualling Crew;V
+BEATTIE, Mr Joseph;Dead;Belfast;Crew;Man;35;Adult;Male;;;Engineering Crew;E
+BECKER, Mrs Nellie E.;Alive;Southampton;2;Woman;35;Adult;Female;39,00;11;2nd Class Passenger;2
+BROCKLEBANK, Mr William Alfred;Dead;Southampton;3;Man;35;Adult;Male;8,05;;3rd Class Passenger;3
+BURROUGHS, Mr Arthur Peckham;Dead;Southampton;Crew;Man;35;Adult;Male;;;Engineering Crew;E
+BURTON, Mr Edward John;Dead;Southampton;Crew;Man;35;Adult;Male;;;Engineering Crew;E
+CAMERON, Miss Clear Annie;Alive;Southampton;2;Woman;35;Adult;Female;21,00;14;2nd Class Passenger;2
+COR, Mr Bartol;Dead;Southampton;3;Man;35;Adult;Male;7,90;;3rd Class Passenger;3
+COTTON, Mr Alfred;Dead;Southampton;Crew;Man;35;Adult;Male;;;;E
+CRUMPLIN, Mr Charles George Chandler;Dead;Belfast;Crew;Man;35;Adult;Male;;;Victualling Crew;V
+CUMINGS, Mrs Florence Briggs;Alive;Cherbourg;1;Woman;35;Adult;Female;71,28;4;1st Class Passenger;1
+DONOGHUE, Mr Frank (?Thomas);Dead;Belfast;Crew;Man;35;Adult;Male;;;Victualling Crew;V
+FUTRELLE, Mrs Lily May;Alive;Southampton;1;Woman;35;Adult;Female;53,10;D;1st Class Passenger;1
+FYNNEY, Mr Joseph J.;Dead;Southampton;2;Man;35;Adult;Male;26,00;;2nd Class Passenger;2
+GIEGER, Miss Amalie;Alive;Southampton;1;Woman;35;Adult;Female;211,50;4;1st Class PassengerServant;1
+GODWIN, Mr Frederick Charles;Dead;Southampton;Crew;Man;35;Adult;Male;;;Engineering Crew;E
+HAGGAN, Mr John;Alive;Belfast;Crew;Man;35;Adult;Male;;3;Engineering Crew;E
+HANNA, Mr Mansour;Dead;Cherbourg;3;Man;35;Adult;Male;7,23;;3rd Class Passenger;3
+HARRIS, Mrs Irene;Alive;Southampton;1;Woman;35;Adult;Female;83,48;D;1st Class Passenger;1
+HOLVERSON, Mrs Mary Aline;Alive;Southampton;1;Woman;35;Adult;Female;52,00;8;1st Class Passenger;1
+HURST, Mr Charles John;Dead;Southampton;Crew;Man;35;Adult;Male;;;Engineering Crew;E
+JANAWAY, Mr William Frank;Dead;Belfast;Crew;Man;35;Adult;Male;;;Victualling Crew;V
+JOHNSTON, Mr Andrew Emslie;Dead;Southampton;3;Man;35;Adult;Male;23,45;;3rd Class Passenger;3
+KEANE, Mr Daniel;Dead;Queenstown;2;Man;35;Adult;Male;12,35;;2nd Class Passenger;2
+KETCHLEY, Mr Henry;Dead;Belfast;Crew;Man;35;Adult;Male;;;Victualling Crew;V
+LAHHuD ISHAQ MU'AWWAD, Mr Sarks;Dead;Cherbourg;3;Man;35;Adult;Male;7,23;;;3
+LAHTINEN, Fr William;Dead;Southampton;2;Man;35;Adult;Male;26,00;;2nd Class Passenger;2
+LAKE, Mr William;Dead;Belfast;Crew;Man;35;Adult;Male;;;Victualling Crew;V
+LAWRENCE, Mr Arthur;Dead;Belfast;Crew;Man;35;Adult;Male;;;Victualling Crew;V
+LEFEBVRE, Mr Paul Georges;Dead;Southampton;Crew;Man;35;Adult;Male;;;Victualling Crew;V
+LESUEUR, Mr Gustave J.;Alive;Cherbourg;1;Man;35;Adult;Male;512,33;3;1st Class PassengerServant;1
+MAJOR, Mr Thomas Edgar;Dead;Belfast;Crew;Man;35;Adult;Male;;;Victualling Crew;V
+MARKOFF, Mr Marin;Dead;Southampton;3;Man;35;Adult;Male;7,90;;3rd Class Passenger;3
+MCGOUGH, Mr James Robert;Alive;Southampton;1;Man;35;Adult;Male;26,29;7;1st Class Passenger;1
+MOUSSA, Mrs Mantoura Boulos;Alive;Cherbourg;3;Woman;35;Adult;Female;7,23;;3rd Class Passenger;3
+NICHOLS, Mr Walter Henry;Alive;Southampton;Crew;Man;35;Adult;Male;;15;Victualling Crew;V
+NOON, Mr John;Dead;Southampton;Crew;Man;35;Adult;Male;;;Engineering Crew;E
+PHILLIPS, Mr Walter John;Dead;Southampton;Crew;Man;35;Adult;Male;;;Restaurant Staff;R
+RINTAM_KI, Mr Matti;Dead;Southampton;3;Man;35;Adult;Male;7,13;;3rd Class Passenger;3
+ROBERTS, Mr Robert George;Dead;Southampton;Crew;Man;35;Adult;Male;;;Engineering Crew;E
+SCHABERT, Mrs Emma;Alive;Cherbourg;1;Woman;35;Adult;Female;57,75;11;1st Class Passenger;1
+SILVERTHORNE, Mr Spencer Victor;Alive;Southampton;1;Man;35;Adult;Male;26,29;5;1st Class Passenger;1
+SIMMONS, Mr William;Dead;Southampton;Crew;Man;35;Adult;Male;;;Victualling Crew;V
+SLEMEN, Mr Richard James;Dead;Southampton;2;Man;35;Adult;Male;10,50;;2nd Class Passenger;2
+SMITH, Mr John Richard Jago;Dead;Southampton;Crew;Man;35;Adult;Male;;;Victualling CrewPostal Clerk;V
+SPARKMAN, Mr Henry William;Alive;Southampton;Crew;Man;35;Adult;Male;;;Engineering Crew;E
+STEBBINGS, Mr Sydney Frederick;Dead;Belfast;Crew;Man;35;Adult;Male;;;Victualling Crew;V
+STROUD, Mr Harry John;Dead;Southampton;Crew;Man;35;Adult;Male;;;Victualling Crew;V
+TAYLOR, Mr C.;Dead;Southampton;Crew;Man;35;Adult;Male;;;Deck Crew;D
+THOMPSON, Mr John William;Alive;Southampton;Crew;Man;35;Adult;Male;;A;Engineering Crew;E
+VALVASSORI, Sig. Ettore Luigi;Dead;Southampton;Crew;Man;35;Adult;Male;;;Restaurant Staff;R
+VAN BILLIARD, Mr Austin Blyler;Dead;Southampton;3;Man;35;Adult;Male;14,50;;3rd Class Passenger;3
+VAN DE VELDE, Mr Johannes Josef;Dead;Southampton;3;Man;35;Adult;Male;9,50;;3rd Class Passenger;3
+VOEGELIN-DUBACH, Sig. Johannes;Dead;Southampton;Crew;Man;35;Adult;Male;;;Restaurant Staff;R
+WALLIS, Mrs Catherine Jane;Dead;Southampton;Crew;Woman;35;Adult;Female;;;Victualling Crew;V
+WARD, Miss Annie Moore;Alive;Cherbourg;1;Woman;35;Adult;Female;512,33;3;1st Class PassengerServant;1
+WILKINSON, Mrs Elizabeth Anne;Alive;Southampton;2;Woman;35;Adult;Female;26,00;16;2nd Class Passenger;2
+WILLIAMSON, Mr James Bertram;Dead;Southampton;Crew;Man;35;Adult;Male;;;Victualling CrewPostal Clerk;V
+ALLEN, Mr Robert Spencer;Dead;Southampton;Crew;Man;36;Adult;Male;;;Victualling Crew;V
+ANGLE, Mrs Florence Mary Agnes;Alive;Southampton;2;Woman;36;Adult;Female;26,00;11;;2
+BAILEY, Mr George Francis;Dead;Belfast;Crew;Man;36;Adult;Male;;;Victualling Crew;V
+BALL, Mrs Ada E.;Alive;Southampton;2;Woman;36;Adult;Female;13,00;10;2nd Class Passenger;2
+BARLOW, Mr George;Dead;Southampton;Crew;Man;36;Adult;Male;;;Victualling Crew;V
+BEATTIE, Mr Thomson;Dead;Southampton;1;Man;36;Adult;Male;75,24;;1st Class Passenger;1
+BLAKE, Mr Thomas Henry;Dead;Southampton;Crew;Man;36;Adult;Male;;;Engineering Crew;E
+BOYD, Mr John;Dead;Southampton;Crew;Man;36;Adult;Male;;;Victualling Crew;V
+BOYES, Mr John Henry;Dead;Belfast;Crew;Man;36;Adult;Male;;;Victualling Crew;V
+BUSS, Miss Kate;Alive;Southampton;2;Woman;36;Adult;Female;13,00;9;2nd Class Passenger;2
+CARDEZA, Mr Thomas Drake Martinez;Alive;Cherbourg;1;Man;36;Adult;Male;512,33;3;1st Class Passenger;1
+CARTER, Mr William Ernest;Alive;Southampton;1;Man;36;Adult;Male;120,00;C;1st Class Passenger;1
+CARTER, Mrs Lucile;Alive;Southampton;1;Woman;36;Adult;Female;120,00;4;1st Class Passenger;1
+CASSEBEER, Mrs Eleanor Genevieve;Alive;Cherbourg;1;Woman;36;Adult;Female;27,72;5;1st Class Passenger;1
+CAVENDISH, Mr Tyrell William;Dead;Southampton;1;Man;36;Adult;Male;78,85;;1st Class Passenger;1
+CHAPMAN, Mr John Henry;Dead;Southampton;2;Man;36;Adult;Male;26,00;;2nd Class Passenger;2
+CHAUDANSON, Miss Victorine;Alive;Cherbourg;1;Woman;36;Adult;Female;262,38;4;1st Class PassengerServant;1
+CHISNALL, Mr George Alexander;Dead;Belfast;Crew;Man;36;Adult;Male;;;Engineering Crew;E
+COLTCHEFF, Mr Peju;Dead;Southampton;3;Man;36;Adult;Male;7,90;;3rd Class Passenger;3
+COUTTS, Mrs Winnie Minnie;Alive;Southampton;3;Woman;36;Adult;Female;15,90;2;;3
+DE MESSEMAEKER, Mr Guillaume Joseph;Alive;Southampton;3;Man;36;Adult;Male;17,40;15;3rd Class Passenger;3
+DE MESSEMAEKER, Mrs Anna;Alive;Southampton;3;Woman;36;Adult;Female;17,40;13;3rd Class Passenger;3
+DESLANDES, Mr Percival Stainer;Dead;Southampton;Crew;Man;36;Adult;Male;;;Victualling Crew;V
+DICKSON, Mr William;Dead;Southampton;Crew;Man;36;Adult;Male;;;Engineering Crew;E
+DUFFY, Mr William Luke;Dead;Belfast;Crew;Man;36;Adult;Male;;;Engineering Crew;E
+EVANS, Miss Edith Corse;Dead;Cherbourg;1;Woman;36;Adult;Female;31,68;;1st Class Passenger;1
+FELTHAM, Mr George William;Dead;Southampton;Crew;Man;36;Adult;Male;;;Victualling Crew;V
+FLYNN, Mr John Irwin;Alive;Southampton;1;Man;36;Adult;Male;26,29;5;1st Class Passenger;1
+GIBBONS, Mr Jacob William;Alive;Southampton;Crew;Man;36;Adult;Male;;11;Victualling Crew;V
+HILL, Mr H. P.;Dead;Southampton;Crew;Man;36;Adult;Male;;;Victualling Crew;V
+HINE, Mr William Edward;Dead;Southampton;Crew;Man;36;Adult;Male;;;Victualling Crew;V
+HOCKING, Mr Samuel James Metcalfe;Dead;Southampton;2;Man;36;Adult;Male;13,00;;2nd Class Passenger;2
+HOSKING, Mr George Fox;Dead;Belfast;Crew;Man;36;Adult;Male;;;Engineering Crew;E
+KENCHENTEN, Mr Frederick Charles;Dead;Southampton;Crew;Man;36;Adult;Male;;;Engineering Crew;E
+KLASeN, Mrs Hulda Kristina Eugenia;Dead;Southampton;3;Woman;36;Adult;Female;12,18;;3rd Class Passenger;3
+LEONARD, Mr Lionel;Dead;Southampton;3;Man;36;Adult;Male;0,00;;3rd Class Passenger;3
+LVY, Mr Ren Jacques;Dead;Southampton;2;Man;36;Adult;Male;12,88;;2nd Class Passenger;2
+LINDELL, Mr Edvard Bengtsson;Dead;Southampton;3;Man;36;Adult;Male;15,55;A;3rd Class Passenger;3
+MAYBERY, Mr Frank Hubert;Dead;Southampton;2;Man;36;Adult;Male;16,00;;2nd Class Passenger;2
+MCCAWLEY, Mr Thomas W.;Dead;Belfast;Crew;Man;36;Adult;Male;;;Victualling Crew;V
+MCGOUGH, Mr George Francis 'Paddy';Alive;Southampton;Crew;Man;36;Adult;Male;;;Deck Crew;D
+MaLLER, Mr Ludwig;Dead;Southampton;Crew;Man;36;Adult;Male;;;Victualling Crew;V
+NANCARROW, Mr William Henry;Dead;Southampton;3;Man;36;Adult;Male;8,05;;3rd Class Passenger;3
+NATSCH, Mr Charles;Dead;Cherbourg;1;Man;36;Adult;Male;29,70;;1st Class Passenger;1
+OTHEN, Mr Charles Alfred;Alive;Southampton;Crew;Man;36;Adult;Male;;;Engineering Crew;E
+OVIaS Y RODReGUEZ, Mr Servando Jos Florentino;Dead;Cherbourg;1;Man;36;Adult;Male;27,72;;1st Class Passenger;1
+REEVES, Mr David;Dead;Southampton;2;Man;36;Adult;Male;10,50;;2nd Class Passenger;2
+RICKMAN, Mr George Albert;Dead;Southampton;Crew;Man;36;Adult;Male;;;Engineering Crew;E
+ROBERTS, Mr Frank John;Dead;Belfast;Crew;Man;36;Adult;Male;;;Victualling Crew;V
+ROSS, Mr John Hugo;Dead;Southampton;1;Man;36;Adult;Male;40,13;;1st Class Passenger;1
+SLIGHT, Mr William Henry James;Dead;Belfast;Crew;Man;36;Adult;Male;;;Victualling Crew;V
+THOMPSON, Mr Alexander Morrison;Dead;Southampton;3;Man;36;Adult;Male;8,05;;3rd Class Passenger;3
+THORNEYCROFT, Mr Percival;Dead;Southampton;3;Man;36;Adult;Male;16,10;;3rd Class Passenger;3
+TURCIN, Mr Stjepan;Dead;Southampton;3;Man;36;Adult;Male;7,90;;3rd Class Passenger;3
+TURLEY, Mr Richard;Dead;Belfast;Crew;Man;36;Adult;Male;;;Engineering Crew;E
+VAN IMPE, Mr Jean Baptiste;Dead;Southampton;3;Man;36;Adult;Male;24,15;;3rd Class Passenger;3
+VEAL, Mr Arthur;Dead;Southampton;Crew;Man;36;Adult;Male;;;Engineering Crew;E
+WALLCROFT, Miss Ellen 'Nellie';Alive;Southampton;2;Woman;36;Adult;Female;21,00;14;2nd Class Passenger;2
+WARD, Mr William;Alive;Southampton;Crew;Man;36;Adult;Male;;;Victualling Crew;V
+WATTS, Mr;Dead;Southampton;Crew;Man;36;Adult;Male;;;Engineering Crew;E
+WEST, Mr Edwy Arthur;Dead;Southampton;2;Man;36;Adult;Male;27,75;;2nd Class Passenger;2
+WITTEVRONGEL, Mr Camilius Aloysius;Dead;Southampton;3;Man;36;Adult;Male;9,50;;3rd Class Passenger;3
+YOUNG, Miss Marie Grice;Alive;Cherbourg;1;Woman;36;Adult;Female;135,63;8;1st Class Passenger;1
+BECKWITH, Mr Richard Leonard;Alive;Southampton;1;Man;37;Adult;Male;52,55;5;1st Class Passenger;1
+BOOTHBY, Mr Walter Thomas;Dead;Southampton;Crew;Man;37;Adult;Male;;;Victualling Crew;V
+BRERETON, Mr George Andrew;Alive;Southampton;1;Man;37;Adult;Male;26,55;9;1st Class Passenger;1
+CARR, Mr Richard Stephen;Dead;Southampton;Crew;Man;37;Adult;Male;;;Engineering Crew;E
+CASTLEMAN, Mr Edward;Dead;Southampton;Crew;Man;37;Adult;Male;;;Engineering Crew;E
+COLLEY, Mr Edward Pomeroy;Dead;Southampton;1;Man;37;Adult;Male;25,59;;1st Class Passenger;1
+COMPTON, Mr Alexander Taylor jr;Dead;Cherbourg;1;Man;37;Adult;Male;83,16;;1st Class Passenger;1
+ESTANISLAU, Mr Manuel Gonalves;Dead;Southampton;3;Man;37;Adult;Male;7,05;;3rd Class Passenger;3
+FAULKNER, Mr William Stephen;Alive;Belfast;Crew;Man;37;Adult;Male;;11;Victualling Crew;V
+FORD, Mr Francis;Dead;Southampton;Crew;Man;37;Adult;Male;;;Victualling Crew;V
+FOSTER, Mr Albert C.;Dead;Belfast;Crew;Man;37;Adult;Male;;;Engineering Crew;E
+FRANKLIN, Mr Thomas Parnham;Dead;Southampton;1;Man;37;Adult;Male;26,55;;1st Class Passenger;1
+FUTRELLE, Mr Jacques Heath;Dead;Southampton;1;Man;37;Adult;Male;53,10;;1st Class Passenger;1
+GATTI, Sig. Gaspare Antonio Pietro;Dead;Southampton;Crew;Man;37;Adult;Male;;;Restaurant Staff;R
+GUSTAFSSON, Mr Anders Vilhelm;Dead;Southampton;3;Man;37;Adult;Male;7,93;;3rd Class Passenger;3
+GWYNN, Mr William Logan;Dead;Southampton;Crew;Man;37;Adult;Male;;;Victualling CrewPostal Clerk;V
+HARRINGTON, Mr Charles Henry;Dead;Southampton;1;Man;37;Adult;Male;42,40;;1st Class PassengerServant;1
+HEWITT, Mr Thomas;Dead;Belfast;Crew;Man;37;Adult;Male;;;Victualling Crew;V
+JONES, Mr Arthur Ernest;Dead;Southampton;Crew;Man;37;Adult;Male;;;Victualling Crew;V
+LAITINEN, Miss Kristina Sofia;Dead;Southampton;3;Woman;37;Adult;Female;9,59;;3rd Class Passenger;3
+LOVELL, Mr John;Dead;Southampton;Crew;Man;37;Adult;Male;;;Victualling Crew;V
+MCELROY, Mr Hugh Walter;Dead;Southampton;Crew;Man;37;Adult;Male;;;Victualling Crew;V
+MINAHAN, Mrs Lillian E.;Alive;Queenstown;1;Woman;37;Adult;Female;90,00;14;1st Class Passenger;1
+MURDOCK, Mr William John;Alive;Belfast;Crew;Man;37;Adult;Male;;;Engineering Crew;E
+PARSONS, Mr Edward;Dead;Southampton;Crew;Man;37;Adult;Male;;;Victualling Crew;V
+PERKIS, Mr Walter John;Alive;Belfast;Crew;Man;37;Adult;Male;;4;Deck Crew;D
+RATTENBURY, Mr William Henry;Dead;Belfast;Crew;Man;37;Adult;Male;;;Victualling Crew;V
+REUCHLIN, Mr Jonkheer Johan George;Dead;Cherbourg;1;Man;37;Adult;Male;0,00;;1st Class Passenger;1
+SIMPSON, Dr John Edward;Dead;Southampton;Crew;Man;37;Adult;Male;;;Deck Crew;D
+SMILJANIC, Mr Mile;Dead;Southampton;3;Man;37;Adult;Male;8,66;;3rd Class Passenger;3
+WAKE, Mr Percy;Dead;Southampton;Crew;Man;37;Adult;Male;;;Victualling Crew;V
+WAREHAM, Mr Robert Arthur;Dead;Belfast;Crew;Man;37;Adult;Male;;;Victualling Crew;V
+WEBBER, Miss Susan;Alive;Southampton;2;Woman;37;Adult;Female;13,00;12;2nd Class Passenger;2
+WEISZ, Mr Lopold;Dead;Southampton;2;Man;37;Adult;Male;26,00;;2nd Class Passenger;2
+WEISZ, Mrs Mathilde Franoise;Alive;Southampton;2;Woman;37;Adult;Female;26,00;10;2nd Class Passenger;2
+WHITE, Mr Arthur;Dead;Southampton;Crew;Man;37;Adult;Male;;;Victualling Crew;V
+WIDGERY, Mr James George;Alive;Southampton;Crew;Man;37;Adult;Male;;;Victualling Crew;V
+WILLER, Mr Aaron;Dead;Cherbourg;3;Man;37;Adult;Male;8,71;;3rd Class Passenger;3
+WITT, Mr Henry Dennis;Dead;Southampton;Crew;Man;37;Adult;Male;;;Engineering Crew;E
+WORTHMAN, Mr William Henry;Dead;Southampton;Crew;Man;37;Adult;Male;;;Engineering Crew;E
+ALLEN, Mr William Henry;Dead;Southampton;3;Man;38;Adult;Male;8,05;;3rd Class Passenger;3
+ANDERSSON, Miss Ida Augusta Margareta;Dead;Southampton;3;Woman;38;Adult;Female;7,78;;3rd Class Passenger;3
+ASPLUND, Mrs Selma Augusta Emilia;Alive;Southampton;3;Woman;38;Adult;Female;31,39;15;3rd Class Passenger;3
+BEST, Mr Edwin Alfred;Dead;Belfast;Crew;Man;38;Adult;Male;;;Victualling Crew;V
+BYRNE, Mr James Edward;Dead;Southampton;Crew;Man;38;Adult;Male;;;Victualling Crew;V
+CACIC, Mr Luka;Dead;Southampton;3;Man;38;Adult;Male;8,66;;3rd Class Passenger;3
+COLLINS, Mr John;Alive;Southampton;Crew;Man;38;Adult;Male;;B;Engineering Crew;E
+CUNNINGHAM, Mr Andrew Orr;Alive;Belfast;Crew;Man;38;Adult;Male;;4;Victualling Crew;V
+DODD, Mr Edward Charles;Dead;Belfast;Crew;Man;38;Adult;Male;;;Engineering Crew;E
+DOLBY, Mr Joseph;Dead;Belfast;Crew;Man;38;Adult;Male;;;Victualling Crew;V
+DOOLEY, Mr Patrick;Dead;Queenstown;3;Man;38;Adult;Male;7,75;;3rd Class Passenger;3
+DURNIL, Mr James;Dead;Southampton;Crew;Man;38;Adult;Male;;;Engineering Crew;E
+FAIRALL, Mr Henry Charles;Dead;Belfast;Crew;Man;38;Adult;Male;;;Victualling Crew;V
+FERRIS, Mr W.;Dead;Southampton;Crew;Man;38;Adult;Male;;;Engineering Crew;E
+FOX, Mr Stanley Hubert;Dead;Southampton;2;Man;38;Adult;Male;13,00;;2nd Class Passenger;2
+FROST, Mr Anthony Wood;Dead;Belfast;2;Man;38;Adult;Male;0,00;;2nd Class PassengerH&W Guarantee Group;2
+FUNK, Miss Annie Clemmer;Dead;Southampton;2;Woman;38;Adult;Female;13,00;;2nd Class Passenger;2
+GALE, Mr Harry;Dead;Southampton;2;Man;38;Adult;Male;21,00;;2nd Class Passenger;2
+GEORGE/JOSEPH, Mrs Shawneene;Alive;Cherbourg;3;Woman;38;Adult;Female;7,23;C;3rd Class Passenger;3
+GILL, Mr Joseph Stanley;Dead;Belfast;Crew;Man;38;Adult;Male;;;Victualling Crew;V
+GILL, Mr Patrick;Dead;Southampton;Crew;Man;38;Adult;Male;;;Victualling Crew;V
+GODLEY, Mr George Auguste;Alive;Southampton;Crew;Man;38;Adult;Male;;;Engineering Crew;E
+GRAHAM, Mr George Edward;Dead;Southampton;1;Man;38;Adult;Male;30,00;;1st Class Passenger;1
+HALL, Mr F. A. J.;Dead;Southampton;Crew;Man;38;Adult;Male;;;Victualling Crew;V
+HARRISON, Mr Norman E.;Dead;Belfast;Crew;Man;38;Adult;Male;;;Engineering Crew;E
+HAWKESWORTH, Mr James;Dead;Southampton;Crew;Man;38;Adult;Male;;;Victualling Crew;V
+HILL, Mr James Colston;Dead;Belfast;Crew;Man;38;Adult;Male;;;Victualling Crew;V
+HOUSE, Mr William John;Dead;Belfast;Crew;Man;38;Adult;Male;;;Victualling Crew;V
+HOYT, Mr Frederick Maxfield;Alive;Southampton;1;Man;38;Adult;Male;100,00;D;1st Class Passenger;1
+JAILLET, Mr Henri Marie;Dead;Southampton;Crew;Man;38;Adult;Male;;;Restaurant Staff;R
+JOAS, Mr N.;Dead;Southampton;Crew;Man;38;Adult;Male;;;Engineering Crew;E
+JUKES, Mr Henry James;Dead;Southampton;Crew;Man;38;Adult;Male;;;Engineering Crew;E
+KIRKHAM, Mr James;Dead;Southampton;Crew;Man;38;Adult;Male;;;Engineering Crew;E
+LAM, Mr Ali;Alive;Southampton;3;Man;38;Adult;Male;56,50;C;3rd Class Passenger;3
+LIGHTOLLER, Mr Charles Herbert;Alive;Belfast;Crew;Man;38;Adult;Male;;B;Deck CrewTitanic Officers;D
+MCANDREW, Mr Thomas Patrick;Dead;Southampton;Crew;Man;38;Adult;Male;;;Engineering Crew;E
+MCCARTHY, Mr Frederick James;Dead;Southampton;Crew;Man;38;Adult;Male;;;Victualling Crew;V
+MCCASTLAN, Mr W.;Dead;Southampton;Crew;Man;38;Adult;Male;;;Engineering Crew;E
+MCINERNEY, Mr Thomas;Dead;Southampton;Crew;Man;38;Adult;Male;;;Engineering Crew;E
+MORLEY, Mr Henry Samuel;Dead;Southampton;2;Man;38;Adult;Male;26,00;;2nd Class Passenger;2
+OTTER, Mr Richard;Dead;Southampton;2;Man;38;Adult;Male;13,00;;2nd Class Passenger;2
+REKIC, Mr Tido;Dead;Southampton;3;Man;38;Adult;Male;7,90;;3rd Class Passenger;3
+ROSS, Mr Horace Leopold;Alive;Southampton;Crew;Man;38;Adult;Male;;13;Victualling Crew;V
+SMITH, Mr Charles;Dead;Southampton;Crew;Man;38;Adult;Male;;;Victualling Crew;V
+SMITH, Mr Charles Edwin;Dead;Southampton;Crew;Man;38;Adult;Male;;;Victualling Crew;V
+STAGG, Mr John Henry;Dead;Southampton;Crew;Man;38;Adult;Male;;;Victualling Crew;V
+THORNE, Miss Gertrude Maybelle;Alive;Cherbourg;1;Woman;38;Adult;Female;80,00;D;1st Class Passenger;1
+VAN DER BRUGGE, Mr Wessel Adrianus;Dead;Southampton;Crew;Man;38;Adult;Male;;;Engineering Crew;E
+VEAL, Mr Thomas Henry Edom;Dead;Southampton;Crew;Man;38;Adult;Male;;;Victualling Crew;V
+WARD, Mr Percy Thomas;Dead;Belfast;Crew;Man;38;Adult;Male;;;Victualling Crew;V
+WINDEBANK, Mr Alfred Edgar;Alive;Southampton;Crew;Man;38;Adult;Male;;13;Victualling Crew;V
+WITTMAN, Mr Henry;Dead;Southampton;Crew;Man;38;Adult;Male;;;Victualling Crew;V
+ABBOTT, Mrs Rhoda Mary 'Rosa';Alive;Southampton;3;Woman;39;Adult;Female;20,25;A;3rd Class Passenger;3
+ANDERSSON, Mr Anders Johan;Dead;Southampton;3;Man;39;Adult;Male;31,28;;3rd Class Passenger;3
+ANDERSSON, Mrs Alfrida Konstantia Brogren;Dead;Southampton;3;Woman;39;Adult;Female;31,28;;3rd Class Passenger;3
+ANDREWS, Mr Thomas;Dead;Belfast;1;Man;39;Adult;Male;0,00;;1st Class PassengerH&W Guarantee Group;1
+BARNES, Mr Frederick Charles;Dead;Southampton;Crew;Man;39;Adult;Male;;;Victualling Crew;V
+BESSANT, Mr William Edward Lowe;Dead;Southampton;Crew;Man;39;Adult;Male;;;Engineering Crew;E
+BESSETTE, Miss Nellie Mayo;Alive;Cherbourg;1;Woman;39;Adult;Female;63,36;8;1st Class PassengerServant;1
+BLANK, Mr Henry;Alive;Cherbourg;1;Man;39;Adult;Male;31,00;7;1st Class Passenger;1
+BRADLEY, Mr Patrick Joseph;Dead;Southampton;Crew;Man;39;Adult;Male;;;Engineering Crew;E
+CANNER, Mr John;Dead;Southampton;Crew;Man;39;Adult;Male;;;Engineering Crew;E
+CAVE, Mr Herbert;Dead;Belfast;Crew;Man;39;Adult;Male;;;Victualling Crew;V
+CLARK, Mr William;Alive;Southampton;Crew;Man;39;Adult;Male;;;Engineering Crew;E
+COMPTON, Miss Sara Rebecca;Alive;Cherbourg;1;Woman;39;Adult;Female;83,16;14;1st Class Passenger;1
+CRISP, Mr Albert Hector;Dead;Belfast;Crew;Man;39;Adult;Male;;;Victualling Crew;V
+CROSBY, Miss Harriette Rebecca;Alive;Southampton;1;Woman;39;Adult;Female;26,55;7;1st Class Passenger;1
+CUMINGS, Mr John Bradley;Dead;Cherbourg;1;Man;39;Adult;Male;71,28;;1st Class Passenger;1
+DAVIS, Mr Stephen James;Dead;Southampton;Crew;Man;39;Adult;Male;;;Deck Crew;D
+DULLES, Mr William Crothers;Dead;Cherbourg;1;Man;39;Adult;Male;29,70;;1st Class Passenger;1
+EDGE, Mr Frederick William;Dead;Southampton;Crew;Man;39;Adult;Male;;;Victualling Crew;V
+EDWARDS, Mr Charles Essex;Dead;Southampton;Crew;Man;39;Adult;Male;;;Victualling Crew;V
+ENDRES, Miss Caroline Louise;Alive;Cherbourg;1;Woman;39;Adult;Female;247,53;4;1st Class PassengerServant;1
+EVERETT, Mr Thomas James;Dead;Southampton;3;Man;39;Adult;Male;15,10;;3rd Class Passenger;3
+FARQUHARSON, Mr William Edward;Dead;Belfast;Crew;Man;39;Adult;Male;;;Engineering Crew;E
+FRY, Mr Richard;Dead;Southampton;1;Man;39;Adult;Male;0,00;;;1
+HARDER, Mr William;Alive;Southampton;Crew;Man;39;Adult;Male;;14;Deck Crew;D
+HARPER, Rev. John;Dead;Southampton;2;Man;39;Adult;Male;33,00;;2nd Class Passenger;2
+HARRIS, Mr Frederick;Alive;Southampton;Crew;Man;39;Adult;Male;;;Engineering Crew;E
+HENDY, Mr Edward Martin;Dead;Belfast;Crew;Man;39;Adult;Male;;;Victualling Crew;V
+HINCKLEY, Mr George Herbert;Dead;Southampton;Crew;Man;39;Adult;Male;;;Victualling Crew;V
+ICARD, Miss Rose Amlie;Alive;Southampton;1;Woman;39;Adult;Female;80,00;6;1st Class PassengerServant;1
+JOSEPH (SHAHIN), Mr Elias;Dead;Cherbourg;3;Man;39;Adult;Male;7,23;;3rd Class Passenger;3
+KARUN, Mr Franz;Alive;Cherbourg;3;Man;39;Adult;Male;13,42;15;3rd Class Passenger;3
+KEEFE, Mr Arthur;Dead;Southampton;3;Man;39;Adult;Male;7,25;;3rd Class Passenger;3
+KIRKALDY, Mr Thomas Benjamin;Dead;Southampton;Crew;Man;39;Adult;Male;;;Victualling Crew;V
+KNIGHT, Mr Robert;Dead;Belfast;2;Man;39;Adult;Male;0,00;;2nd Class PassengerH&W Guarantee Group;2
+MARSH, Mr Frederick Charles;Dead;Southampton;Crew;Man;39;Adult;Male;;;Engineering Crew;E
+MARTIN, Mrs Annie Martha;Alive;Southampton;Crew;Woman;39;Adult;Female;;11;Victualling Crew;V
+MASON, Mr J.;Dead;Southampton;Crew;Man;39;Adult;Male;;;Engineering Crew;E
+MOORE, Mr Alfred Ernest;Dead;Southampton;Crew;Man;39;Adult;Male;;;Victualling Crew;V
+MURDOCH, Mr William McMaster;Dead;Belfast;Crew;Man;39;Adult;Male;;;Deck CrewTitanic Officers;D
+NICHOLLS, Mr Sidney;Dead;Southampton;Crew;Man;39;Adult;Male;;;Victualling Crew;V
+NISK_NEN, Mr Juha;Alive;Southampton;3;Man;39;Adult;Male;7,93;9;3rd Class Passenger;3
+OLIVA Y OCANA, Doa Fermina;Alive;Cherbourg;1;Woman;39;Adult;Female;108,90;8;1st Class PassengerServant;1
+PELHAM, Mr George;Alive;Southampton;Crew;Man;39;Adult;Male;;16;Engineering Crew;E
+PERNOT, Mr Ren;Dead;Cherbourg;2;Man;39;Adult;Male;15,05;;2nd Class PassengerServant;2
+RICE, Mrs Margaret;Dead;Queenstown;3;Woman;39;Adult;Female;29,13;;3rd Class Passenger;3
+ROOD, Mr Hugh Roscoe;Dead;Southampton;1;Man;39;Adult;Male;50,00;;1st Class Passenger;1
+SELF, Mr Alfred Henry;Dead;Southampton;Crew;Man;39;Adult;Male;;;Engineering Crew;E
+SHAW, Mr Henry;Dead;Southampton;Crew;Man;39;Adult;Male;;;Victualling Crew;V
+SHEA, Mr John Joseph;Dead;Belfast;Crew;Man;39;Adult;Male;;;Victualling Crew;V
+SILVEY, Mrs Alice Gray;Alive;Cherbourg;1;Woman;39;Adult;Female;55,90;11;;1
+SMITH, Miss Marion Elsie;Alive;Southampton;2;Woman;39;Adult;Female;13,00;9;2nd Class Passenger;2
+SMITH, Mr James Muil;Dead;Belfast;Crew;Man;39;Adult;Male;;;Engineering Crew;E
+SPEDDEN, Mrs Margaretta Corning;Alive;Cherbourg;1;Woman;39;Adult;Female;134,50;3;1st Class Passenger;1
+TAUSSIG, Mrs Tillie;Alive;Southampton;1;Woman;39;Adult;Female;79,65;8;1st Class Passenger;1
+THAYER, Mrs Marian Longstreth;Alive;Cherbourg;1;Woman;39;Adult;Female;110,88;4;1st Class Passenger;1
+THORLEY, Mr William;Dead;Southampton;Crew;Man;39;Adult;Male;;;Victualling Crew;V
+URUCHURTU, Don. Manuel Ramirez;Dead;Cherbourg;1;Man;39;Adult;Male;27,72;;1st Class Passenger;1
+WARDNER, Mr Fred Albert;Dead;Southampton;Crew;Man;39;Adult;Male;;;Engineering Crew;E
+WHITFORD, Mr Alfred Henry;Dead;Southampton;Crew;Man;39;Adult;Male;;;Victualling Crew;V
+WILDE, Mr Henry Tingle;Dead;Southampton;Crew;Man;39;Adult;Male;;;Deck CrewTitanic Officers;D
+WITCHER, Mr Albert Ernest;Dead;Southampton;Crew;Man;39;Adult;Male;;;Engineering Crew;E
+AHLIN, Mrs Johanna Persdotter;Dead;Southampton;3;Woman;40;Adult;Female;9,48;;3rd Class Passenger;3
+ANDERSON, Mr James;Alive;Southampton;Crew;Man;40;Adult;Male;;3;Deck Crew;D
+ASPLUND, Mr Carl Oscar Vilhelm Gustafsson;Dead;Southampton;3;Man;40;Adult;Male;31,39;;3rd Class Passenger;3
+BADT, Mr Mohamed;Dead;Cherbourg;3;Man;40;Adult;Male;7,23;;3rd Class Passenger;3
+BARKER, Mr Ernest Thomas;Dead;Southampton;Crew;Man;40;Adult;Male;;;Victualling Crew;V
+BARKER, Mr Reginald Lomond;Dead;Belfast;Crew;Man;40;Adult;Male;;;Victualling Crew;V
+BOND, Mr William John;Dead;Belfast;Crew;Man;40;Adult;Male;;;Victualling Crew;V
+BOULOS, Mrs Sultana;Dead;Cherbourg;3;Woman;40;Adult;Female;15,25;;3rd Class Passenger;3
+BOURKE, Miss Mary;Dead;Queenstown;3;Woman;40;Adult;Female;7,75;;3rd Class Passenger;3
+BROWN, Mr Walter James;Dead;Belfast;Crew;Man;40;Adult;Male;;;Victualling Crew;V
+BROWN, Mrs Elizabeth Catherine;Alive;Southampton;2;Woman;40;Adult;Female;39,00;14;2nd Class Passenger;2
+BYSTRM, Mrs Karolina;Alive;Southampton;2;Woman;40;Adult;Female;13,00;;2nd Class Passenger;2
+CLIFFORD, Mr George Quincy;Dead;Southampton;1;Man;40;Adult;Male;52,00;;1st Class Passenger;1
+DYMOND, Mr Frank;Alive;Southampton;Crew;Man;40;Adult;Male;;15;Engineering Crew;E
+GOLDENBERG, Mrs Nella;Alive;Cherbourg;1;Woman;40;Adult;Female;89,10;5;1st Class Passenger;1
+GOREE, Mr Frank;Dead;Southampton;Crew;Man;40;Adult;Male;;;Engineering Crew;E
+GOSHAWK, Mr Alfred James;Dead;Belfast;Crew;Man;40;Adult;Male;;;Victualling Crew;V
+GREEN, Mr George;Dead;Southampton;3;Man;40;Adult;Male;8,05;;3rd Class Passenger;3
+HARDY, Mr John;Alive;Belfast;Crew;Man;40;Adult;Male;;D;Victualling Crew;V
+HARRISON, Mr Araga Drummond;Alive;Southampton;Crew;Man;40;Adult;Male;;9;Victualling Crew;V
+HOMER, Mr Harry;Alive;Southampton;1;Man;40;Adult;Male;26,55;15;1st Class Passenger;1
+HOPKINS, Mr Robert John;Alive;Southampton;Crew;Man;40;Adult;Male;;13;Deck Crew;D
+KASPER, Mr F.;Alive;Southampton;Crew;Man;40;Adult;Male;;;Engineering Crew;E
+KENYON, Mrs Marion Estelle;Alive;Southampton;1;Woman;40;Adult;Female;0,00;8;;1
+LAVINGTON, Miss Elizabeth;Alive;Southampton;Crew;Woman;40;Adult;Female;;11;Victualling Crew;V
+LEFEBVRE, Mrs Frances Marie;Dead;Southampton;3;Woman;40;Adult;Female;25,47;;3rd Class Passenger;3
+LITTLEJOHN, Mr Alexander James;Alive;Belfast;Crew;Man;40;Adult;Male;;13;Victualling Crew;V
+MANTLE, Mr Roland Frederick;Dead;Southampton;Crew;Man;40;Adult;Male;;;Victualling Crew;V
+MCLAREN, Mrs Hypatia;Alive;Southampton;Crew;Woman;40;Adult;Female;;;Victualling Crew;V
+ORR, Mr J.;Dead;Southampton;Crew;Man;40;Adult;Male;;;Victualling Crew;V
+PARTNER, Mr Austin;Dead;Southampton;1;Man;40;Adult;Male;28,50;;1st Class Passenger;1
+ROBERTS, Mr Hugh H.;Dead;Belfast;Crew;Man;40;Adult;Male;;;Victualling Crew;V
+ROBINSON, Mrs Annie;Alive;Southampton;Crew;Woman;40;Adult;Female;;11;Victualling Crew;V
+SAMAAN, Mr Hanna Elias;Dead;Cherbourg;3;Man;40;Adult;Male;21,68;;3rd Class Passenger;3
+SHUTES, Miss Elizabeth Weed;Alive;Southampton;1;Woman;40;Adult;Female;153,46;3;1st Class PassengerServant;1
+SIMMONS, Mr John;Dead;Southampton;3;Man;40;Adult;Male;8,05;;3rd Class Passenger;3
+SIVIC, Mr Husein;Dead;Southampton;3;Man;40;Adult;Male;7,90;;3rd Class Passenger;3
+SKOOG, Mr Wilhelm (William Johansson);Dead;Southampton;3;Man;40;Adult;Male;27,90;;;3
+SMALL, Mr William;Dead;Southampton;Crew;Man;40;Adult;Male;;;Engineering Crew;E
+SNELLGROVE, Mr George;Dead;Southampton;Crew;Man;40;Adult;Male;;;Engineering Crew;E
+TRIGGS, Mr Robert;Alive;Southampton;Crew;Man;40;Adult;Male;;3;Engineering Crew;E
+VEAL, Mr James;Dead;Southampton;2;Man;40;Adult;Male;13,00;;2nd Class Passenger;2
+WATT, Mrs Elizabeth;Alive;Southampton;2;Woman;40;Adult;Female;15,75;9;;2
+WOOD, Mr James Thomas;Dead;Southampton;Crew;Man;40;Adult;Male;;;Victualling Crew;V
+WOODFORD, Mr Frederick Ernest;Dead;Southampton;Crew;Man;40;Adult;Male;;;Engineering Crew;E
+WRIGHT, Mr William;Alive;Southampton;Crew;Man;40;Adult;Male;;;Victualling Crew;V
+YEARSLEY, Mr Harry;Alive;Southampton;Crew;Man;40;Adult;Male;;9;Victualling Crew;V
+ALLSOP, Mr Frank Richard;Dead;Belfast;Crew;Man;41;Adult;Male;;;Victualling Crew;V
+ASHE, Mr Henry Wellesley;Dead;Southampton;Crew;Man;41;Adult;Male;;;Victualling Crew;V
+BARNES, Mr John;Dead;Southampton;Crew;Man;41;Adult;Male;;;Engineering Crew;E
+BLACK, Mr D.;Dead;Southampton;Crew;Man;41;Adult;Male;;;Engineering Crew;E
+BRADY, Mr John Bertram;Dead;Southampton;1;Man;41;Adult;Male;30,50;;1st Class Passenger;1
+BURNS, Miss Elizabeth Margaret;Alive;Cherbourg;1;Woman;41;Adult;Female;134,50;3;1st Class PassengerServant;1
+CONNOLLY, Miss Kate;Dead;Queenstown;3;Woman;41;Adult;Female;7,75;;3rd Class Passenger;3
+FAUNTHORPE, Mr Harry Bartram;Dead;Southampton;2;Man;41;Adult;Male;26,00;;2nd Class Passenger;2
+GOLDSMITH, Mr Nathan;Dead;Southampton;3;Man;41;Adult;Male;7,85;;3rd Class Passenger;3
+HANSEN, Mr Claus Peter;Dead;Southampton;3;Man;41;Adult;Male;14,11;;3rd Class Passenger;3
+HOSONO, Mr Masabumi;Alive;Southampton;2;Man;41;Adult;Male;13,00;10;2nd Class Passenger;2
+JOHNSTON, Mr James;Alive;Belfast;Crew;Man;41;Adult;Male;;2;Victualling Crew;V
+KENYON, Mr Frederick Roland;Dead;Southampton;1;Man;41;Adult;Male;51,86;;;1
+LEATHER, Mrs Elizabeth Mary;Alive;Southampton;Crew;Woman;41;Adult;Female;;;Victualling Crew;V
+LEE, Mr Reginald Robinson;Alive;Southampton;Crew;Man;41;Adult;Male;;13;Deck Crew;D
+LLOYD, Mr Humphrey;Dead;Belfast;Crew;Man;41;Adult;Male;;;Victualling Crew;V
+MELLINGER, Mrs Elizabeth Anne;Alive;Southampton;2;Woman;41;Adult;Female;19,50;14;2nd Class Passenger;2
+NIRVA, Mr Iisakki Antino ij;Dead;Southampton;3;Man;41;Adult;Male;7,13;;3rd Class Passenger;3
+PANULA, Mrs Maija Emelia Abrahamintytar;Dead;Southampton;3;Woman;41;Adult;Female;39,69;;3rd Class Passenger;3
+PERUSCHITZ, Fr Josef;Dead;Southampton;2;Man;41;Adult;Male;13,00;;2nd Class Passenger;2
+ROBERTS, Mrs Mary Kezia;Alive;Southampton;Crew;Woman;41;Adult;Female;;16;Victualling Crew;V
+ROSBLOM, Mrs Helena Wilhelmina;Dead;Southampton;3;Woman;41;Adult;Female;20,21;;3rd Class Passenger;3
+SCOTT, Mr Archibald;Dead;Southampton;Crew;Man;41;Adult;Male;;;Engineering Crew;E
+ToRBER, Mr Ernst Wilhelm;Dead;Southampton;3;Man;41;Adult;Male;8,05;;3rd Class Passenger;3
+WYNN, Mr Walter;Alive;Belfast;Crew;Man;41;Adult;Male;;9;Deck Crew;D
+ABBING, Mr Anthony;Dead;Southampton;3;Man;42;Adult;Male;7,55;;3rd Class Passenger;3
+BOREBANK, Mr John James;Dead;Southampton;1;Man;42;Adult;Male;26,55;;1st Class Passenger;1
+BOURKE, Mr John;Dead;Queenstown;3;Man;42;Adult;Male;15,50;;3rd Class Passenger;3
+BOWENUR, Mr Solomon;Dead;Southampton;2;Man;42;Adult;Male;13,00;;2nd Class Passenger;2
+BRICE, Mr Walter Thomas;Alive;Southampton;Crew;Man;42;Adult;Male;;11;Deck Crew;D
+BRIGHT, Mr Arthur John;Alive;Belfast;Crew;Man;42;Adult;Male;;D;Deck Crew;D
+BYLES, Fr Thomas Roussel Davids;Dead;Southampton;2;Man;42;Adult;Male;13,00;;2nd Class Passenger;2
+CALDERHEAD, Mr Edward Pennington;Alive;Southampton;1;Man;42;Adult;Male;26,29;5;1st Class Passenger;1
+DIMIC, Mr Jovan;Dead;Southampton;3;Man;42;Adult;Male;8,66;;3rd Class Passenger;3
+DREW, Mr James Vivian;Dead;Southampton;2;Man;42;Adult;Male;32,50;;2nd Class Passenger;2
+FLEMING, Miss Margaret;Alive;Cherbourg;1;Woman;42;Adult;Female;110,88;4;1st Class PassengerServant;1
+FLYNN, Mr John;Dead;Queenstown;3;Man;42;Adult;Male;6,95;;3rd Class Passenger;3
+FRAUENTHAL, Mrs Clara;Alive;Southampton;1;Woman;42;Adult;Female;133,65;5;1st Class Passenger;1
+GOODWIN, Mr Frederick Joseph;Dead;Southampton;3;Man;42;Adult;Male;46,90;;3rd Class Passenger;3
+HEAD, Mr Christopher;Dead;Southampton;1;Man;42;Adult;Male;42,50;;1st Class Passenger;1
+HOLVERSON, Mr Alexander Oskar;Dead;Southampton;1;Man;42;Adult;Male;52,00;;1st Class Passenger;1
+HOYT, Mr William Fisher;Dead;Cherbourg;1;Man;42;Adult;Male;30,70;14;1st Class Passenger;1
+HUMBLEN, Mr Adolf Mathias Nicolai Olsen;Dead;Southampton;3;Man;42;Adult;Male;7,65;;3rd Class Passenger;3
+KIMBALL, Mr Edwin Nelson Jr.;Alive;Southampton;1;Man;42;Adult;Male;52,55;5;1st Class Passenger;1
+KING, Mr Thomas Walter;Dead;Southampton;Crew;Man;42;Adult;Male;;;Deck Crew;D
+KINGSCOTE, Mr William Ford;Dead;Southampton;Crew;Man;42;Adult;Male;;;Victualling Crew;V
+KNOWLES, Mr Thomas;Alive;Southampton;Crew;Man;42;Adult;Male;;C;Engineering Crew;E
+LINDEBERG-LIND, Mr Erik Gustaf;Dead;Southampton;1;Man;42;Adult;Male;26,55;;1st Class Passenger;1
+LOUCH, Mrs Alice Adelaide;Alive;Southampton;2;Woman;42;Adult;Female;26,00;;2nd Class Passenger;2
+MCGOWAN, Miss Katherine;Dead;Queenstown;3;Woman;42;Adult;Female;7,75;;3rd Class Passenger;3
+MORGAN (BIRD), Mr Charles Frederick;Dead;Southampton;Crew;Man;42;Adult;Male;;;Victualling Crew;V
+NANNINI, Sig. Francesco Luigi Arcangelo;Dead;Southampton;Crew;Man;42;Adult;Male;;;Restaurant Staff;R
+OLSEN, Mr Karl Siegwart Andreas;Dead;Southampton;3;Man;42;Adult;Male;8,40;;3rd Class Passenger;3
+PALLES, Mr Thomas Henry Michael;Dead;Belfast;Crew;Man;42;Adult;Male;;;Engineering Crew;E
+PHILLIPS, Mr Escott Robert;Dead;Southampton;2;Man;42;Adult;Male;21,00;;2nd Class Passenger;2
+ROBBINS, Mr Victor;Dead;Cherbourg;1;Man;42;Adult;Male;247,53;;1st Class PassengerServant;1
+SCAVINO, Sig. Candido;Dead;Southampton;Crew;Man;42;Adult;Male;;;Restaurant Staff;R
+SDYCOFF, Mr Todor;Dead;Southampton;3;Man;42;Adult;Male;7,90;;3rd Class Passenger;3
+SLABENOFF, Mr Petco;Dead;Southampton;3;Man;42;Adult;Male;7,90;;3rd Class Passenger;3
+STANTON, Mr Samuel Ward;Dead;Cherbourg;2;Man;42;Adult;Male;15,00;;2nd Class Passenger;2
+TAYLOR, Mr J.;Dead;Southampton;Crew;Man;42;Adult;Male;;;Engineering Crew;E
+WILLIAMS, Mr Arthur John;Dead;Southampton;Crew;Man;42;Adult;Male;;;Victualling Crew;V
+BAILEY, Mr Henry Joseph;Alive;Southampton;Crew;Man;43;Adult;Male;;16;Deck Crew;D
+BOCHET, Mr Pierre Giuseppe;Dead;Southampton;Crew;Man;43;Adult;Male;;;Restaurant Staff;R
+BRADSHAW, Mr John Albert Perkin;Dead;Southampton;Crew;Man;43;Adult;Male;;;Victualling Crew;V
+CHISHOLM, Mr Roderick Robert Crispin;Dead;Belfast;1;Man;43;Adult;Male;0,00;;1st Class PassengerH&W Guarantee Group;1
+COOK, Mr Jacob;Dead;Southampton;3;Man;43;Adult;Male;8,05;;3rd Class Passenger;3
+CRAWFORD, Mr Alfred George;Alive;Belfast;Crew;Man;43;Adult;Male;;8;Victualling Crew;V
+CROSS, Mr William Alfred;Dead;Southampton;Crew;Man;43;Adult;Male;;;Engineering Crew;E
+DINTCHEFF, Mr Valtcho;Dead;Southampton;3;Man;43;Adult;Male;7,90;;3rd Class Passenger;3
+ETCHES, Mr Henry Samuel;Alive;Belfast;Crew;Man;43;Adult;Male;;5;Victualling Crew;V
+FLARTY, Mr Edward;Alive;Southampton;Crew;Man;43;Adult;Male;;;Engineering Crew;E
+FRAUENTHAL, Mr Isaac Gerald;Alive;Cherbourg;1;Man;43;Adult;Male;27,72;5;1st Class Passenger;1
+GOODWIN, Mrs Augusta;Dead;Southampton;3;Woman;43;Adult;Female;46,90;;3rd Class Passenger;3
+GREGORY, Mr David;Dead;Southampton;Crew;Man;43;Adult;Male;;;Engineering Crew;E
+HAWKESWORTH, Mr William Walter;Dead;Southampton;Crew;Man;43;Adult;Male;;;Victualling Crew;V
+HEMMING, Mr Samuel Ernest;Alive;Belfast;Crew;Man;43;Adult;Male;;4;Deck Crew;D
+HOGG, Mr Charles William;Dead;Southampton;Crew;Man;43;Adult;Male;;;Victualling Crew;V
+HOLM, Mr John Fredrik Alexander;Dead;Southampton;3;Man;43;Adult;Male;6,45;;3rd Class Passenger;3
+JACOBSOHN, Mr Sidney Samuel;Dead;Southampton;2;Man;43;Adult;Male;27,00;;2nd Class Passenger;2
+KEMP, Mr Thomas Hulman;Dead;Belfast;Crew;Man;43;Adult;Male;;;Engineering Crew;E
+KENZLER, Mr August;Dead;Belfast;Crew;Man;43;Adult;Male;;;Engineering Crew;E
+MCMURRAY, Mr William;Dead;Belfast;Crew;Man;43;Adult;Male;;;Victualling Crew;V
+O'CONNOR, Mr Thomas Peter;Dead;Belfast;Crew;Man;43;Adult;Male;;;Victualling Crew;V
+PASCOE, Mr Charles H.;Alive;Southampton;Crew;Man;43;Adult;Male;;8;Deck Crew;D
+ROBERT, Mrs Elisabeth Walton;Alive;Southampton;1;Woman;43;Adult;Female;211,34;2;1st Class Passenger;1
+S_THER, Mr Simon Sivertsen;Dead;Southampton;3;Man;43;Adult;Male;7,25;;3rd Class Passenger;3
+SALOMON, Mr Abraham Lincoln;Alive;Cherbourg;1;Man;43;Adult;Male;26,00;1;1st Class Passenger;1
+SKOOG, Mrs Anna Bernhardina;Dead;Southampton;3;Woman;43;Adult;Female;27,90;;3rd Class Passenger;3
+WILLIAMS, Mr Fletcher Fellowes Lambert;Dead;Southampton;1;Man;43;Adult;Male;35,00;;1st Class Passenger;1
+BOTT, Mr William Thomas;Dead;Southampton;Crew;Man;44;Adult;Male;;;Engineering Crew;E
+BROWN, Mrs Margaret;Alive;Cherbourg;1;Woman;44;Adult;Female;27,72;6;1st Class Passenger;1
+COOMBS, Mr Charles Augustus;Dead;Southampton;Crew;Man;44;Adult;Male;;;Victualling Crew;V
+CREESE, Mr Henry Philip;Dead;Belfast;Crew;Man;44;Adult;Male;;;Engineering Crew;E
+CRIBB, Mr John Hatfield;Dead;Southampton;3;Man;44;Adult;Male;16,10;;3rd Class Passenger;3
+CROSBIE, Mr John Borthwick;Dead;Southampton;Crew;Man;44;Adult;Male;;;Victualling Crew;V
+DODD, Mr George Charles;Dead;Belfast;Crew;Man;44;Adult;Male;;;Victualling Crew;V
+EASTMAN, Mr Charles;Dead;Southampton;Crew;Man;44;Adult;Male;;;Engineering Crew;E
+GIBSON, Mrs Pauline Caroline;Alive;Cherbourg;1;Woman;44;Adult;Female;59,40;7;1st Class Passenger;1
+HARBECK, Mr William H.;Dead;Southampton;2;Man;44;Adult;Male;13,00;;2nd Class Passenger;2
+HARRIS, Mr Walter;Dead;Southampton;2;Man;44;Adult;Male;10,50;;2nd Class Passenger;2
+HAYTER, Mr Arthur;Dead;Belfast;Crew;Man;44;Adult;Male;;;Victualling Crew;V
+HILLIARD, Mr Herbert Henry;Dead;Southampton;1;Man;44;Adult;Male;51,86;;1st Class Passenger;1
+HIPPACH, Mrs Ida Sophia;Alive;Cherbourg;1;Woman;44;Adult;Female;57,98;4;1st Class Passenger;1
+HOLD, Mr Stephen;Dead;Southampton;2;Man;44;Adult;Male;26,00;;2nd Class Passenger;2
+KEARL, Mr Charles Henry;Dead;Southampton;Crew;Man;44;Adult;Male;;;Engineering Crew;E
+KELLY, Mr James;Dead;Queenstown;3;Man;44;Adult;Male;8,05;;3rd Class Passenger;3
+KELLY, Mr James;Dead;Southampton;3;Man;44;Adult;Male;8,05;;3rd Class Passenger;3
+KNIGHT, Mr George;Alive;Southampton;Crew;Man;44;Adult;Male;;;Victualling Crew;V
+LYNTAKOFF, Mr Stanko;Dead;Southampton;3;Man;44;Adult;Male;7,90;;3rd Class Passenger;3
+MINAHAN, Dr William Edward;Dead;Queenstown;1;Man;44;Adult;Male;90,00;;1st Class Passenger;1
+MOORES, Mr Richard Henry;Dead;Southampton;Crew;Man;44;Adult;Male;;;Engineering Crew;E
+PUZEY, Mr John Edward;Dead;Belfast;Crew;Man;44;Adult;Male;;;Victualling Crew;V
+SAGE, Mr John George;Dead;Southampton;3;Man;44;Adult;Male;69,55;;3rd Class Passenger;3
+SAGE, Mrs Annie Elizabeth;Dead;Southampton;3;Woman;44;Adult;Female;69,55;;3rd Class Passenger;3
+SMITH, Miss Katherine Elizabeth;Alive;Southampton;Crew;Woman;44;Adult;Female;;;Victualling Crew;V
+STENGEL, Mrs Annie May;Alive;Cherbourg;1;Woman;44;Adult;Female;55,44;5;1st Class Passenger;1
+SUNDMAN, Mr Johan Julian;Alive;Southampton;3;Man;44;Adult;Male;7,93;15;3rd Class Passenger;3
+SYMONDS, Mr John Crane;Dead;Belfast;Crew;Man;44;Adult;Male;;;Victualling Crew;V
+THRELFALL, Mr Thomas;Alive;Southampton;Crew;Man;44;Adult;Male;;;Engineering Crew;E
+WOODY, Mr Oscar Scott;Dead;Southampton;Crew;Man;44;Adult;Male;;;Victualling CrewPostal Clerk;V
+WORMALD, Mr Henry Frederick Charles;Dead;Southampton;Crew;Man;44;Adult;Male;;;Victualling Crew;V
+ASSAF, Mrs Mariana;Alive;Cherbourg;3;Woman;45;Adult;Female;7,23;C;3rd Class Passenger;3
+BARBARA, Mrs Catherine David;Dead;Cherbourg;3;Woman;45;Adult;Female;14,45;;3rd Class Passenger;3
+BLACKWELL, Mr Stephen Weart;Dead;Southampton;1;Man;45;Adult;Male;35,50;;1st Class Passenger;1
+BLISS, Mrs Emma;Alive;Southampton;Crew;Woman;45;Adult;Female;;15;Victualling Crew;V
+BOWEN, Miss Grace Scott;Alive;Cherbourg;1;Woman;45;Adult;Female;262,38;4;1st Class PassengerServant;1
+BREWE, Dr Arthur Jackson;Dead;Cherbourg;1;Man;45;Adult;Male;39,60;;1st Class Passenger;1
+CARR, Miss Jane;Dead;Queenstown;3;Woman;45;Adult;Female;7,75;;3rd Class Passenger;3
+CARTER, Mrs Lilian;Dead;Southampton;2;Woman;45;Adult;Female;26,00;;2nd Class Passenger;2
+CHEVR, Mr Paul Romaine Marie Lonce;Alive;Cherbourg;1;Man;45;Adult;Male;29,70;7;1st Class Passenger;1
+CHRISTY, Mrs Alice Frances;Alive;Southampton;2;Woman;45;Adult;Female;30,00;12;2nd Class Passenger;2
+DAHL, Mr Charles Edward;Alive;Southampton;3;Man;45;Adult;Male;8,05;15;3rd Class Passenger;3
+EKSTRM, Mr Johan;Dead;Southampton;3;Man;45;Adult;Male;6,98;;3rd Class Passenger;3
+FARDON, Mr Charles Richard;Dead;Southampton;3;Man;45;Adult;Male;7,25;;;3
+FREEMAN, Mr Ernest Edward Samuel;Dead;Belfast;Crew;Man;45;Adult;Male;;;Victualling Crew;V
+GOLD, Mrs Jane Kate Coulson;Alive;Southampton;Crew;Woman;45;Adult;Female;;;Victualling Crew;V
+GREENFIELD, Mrs Blanche;Alive;Cherbourg;1;Woman;45;Adult;Female;63,36;7;1st Class Passenger;1
+GREGSON, Miss Mary;Alive;Southampton;Crew;Woman;45;Adult;Female;;16;Victualling Crew;V
+HANSEN, Mrs Jennie Louise;Alive;Southampton;3;Woman;45;Adult;Female;14,11;11;3rd Class Passenger;3
+HARRIS, Mr Henry Birkhardt;Dead;Southampton;1;Man;45;Adult;Male;83,48;;1st Class Passenger;1
+HARRISON, Mr William Henry;Dead;Southampton;1;Man;45;Adult;Male;0,00;;1st Class PassengerServant;1
+HASLIN, Mr James;Dead;Southampton;Crew;Man;45;Adult;Male;;;Engineering Crew;E
+HAWKSFORD, Mr Walter James;Alive;Southampton;1;Man;45;Adult;Male;30,00;3;1st Class Passenger;1
+KELLY, Mrs Fanny Maria;Alive;Southampton;2;Woman;45;Adult;Female;13,50;9;2nd Class Passenger;2
+KIMBALL, Mrs Susan Gertrude;Alive;Southampton;1;Woman;45;Adult;Female;51,86;5;;1
+KLABER, Mr Herman;Dead;Southampton;1;Man;45;Adult;Male;26,55;;1st Class Passenger;1
+LINDBLOM, Miss Augusta Charlotta;Dead;Southampton;3;Woman;45;Adult;Female;7,75;;3rd Class Passenger;3
+LYDIATT, Mr Charles;Dead;Southampton;Crew;Man;45;Adult;Male;;;Victualling Crew;V
+MALLET, Mr Albert Denis Pierre;Dead;Cherbourg;2;Man;45;Adult;Male;37,00;;2nd Class Passenger;2
+PROCTOR, Mr Charles;Dead;Belfast;Crew;Man;45;Adult;Male;;;Victualling Crew;V
+ROMAINE, Mr Charles Hallace;Alive;Southampton;1;Man;45;Adult;Male;26,55;9;1st Class Passenger;1
+SPEDDEN, Mr Frederic Oakley;Alive;Cherbourg;1;Man;45;Adult;Male;134,50;3;1st Class Passenger;1
+SPENCER, Mrs Marie Eugenie;Alive;Cherbourg;1;Woman;45;Adult;Female;146,52;6;1st Class Passenger;1
+WARE, Mr John James;Dead;Southampton;2;Man;45;Adult;Male;21,00;;2nd Class Passenger;2
+WICK, Mrs Mary Peebles;Alive;Southampton;1;Woman;45;Adult;Female;164,87;8;;1
+WOOLNER, Mr Hugh;Alive;Southampton;1;Man;45;Adult;Male;35,50;D;1st Class Passenger;1
+YOUSSIFF (SAM'AAN), Mr Gerios;Dead;Cherbourg;3;Man;45;Adult;Male;7,23;;3rd Class Passenger;3
+BAILEY, Mr George W.;Dead;Southampton;Crew;Man;46;Adult;Male;;;Engineering Crew;E
+BECKWITH, Mrs Sallie;Alive;Southampton;1;Woman;46;Adult;Female;52,55;5;1st Class Passenger;1
+BIDOIS, Miss Rosalie;Alive;Cherbourg;1;Woman;46;Adult;Female;247,53;4;1st Class PassengerServant;1
+BUTT, Major Archibald Willingham;Dead;Southampton;1;Man;46;Adult;Male;26,55;;1st Class Passenger;1
+CARTER (BALL), Mr James (W.);Dead;Southampton;Crew;Man;46;Adult;Male;;;Engineering Crew;E
+CHAFFEE, Mr Herbert Fuller;Dead;Southampton;1;Man;46;Adult;Male;61,18;;1st Class Passenger;1
+FOLEY, Mr John;Alive;Belfast;Crew;Man;46;Adult;Male;;;Deck Crew;D
+GUGGENHEIM, Mr Benjamin;Dead;Cherbourg;1;Man;46;Adult;Male;79,20;;1st Class Passenger;1
+HAMBLYN, Mr Ernest William;Dead;Southampton;Crew;Man;46;Adult;Male;;;Victualling Crew;V
+HODGKINSON, Mr Leonard;Dead;Belfast;Crew;Man;46;Adult;Male;;;Engineering Crew;E
+JONES, Mr Charles Cresson;Dead;Southampton;1;Man;46;Adult;Male;26,00;;1st Class Passenger;1
+KEANE, Miss Nora Agnes;Alive;Queenstown;2;Woman;46;Adult;Female;12,35;10;2nd Class Passenger;2
+LEMORE, Mrs Amelia;Alive;Southampton;2;Woman;46;Adult;Female;10,50;14;;2
+MCCAFFRY, Mr Thomas Francis;Dead;Southampton;1;Man;46;Adult;Male;75,24;;1st Class Passenger;1
+MCKANE, Mr Peter Dan;Dead;Southampton;2;Man;46;Adult;Male;26,00;;;2
+MINTRAM, Mr William;Dead;Southampton;Crew;Man;46;Adult;Male;;;Engineering Crew;E
+PORTER, Mr Walter Chamberlain;Dead;Southampton;1;Man;46;Adult;Male;52,00;;1st Class Passenger;1
+ROSENSHINE, Mr George;Dead;Cherbourg;1;Man;46;Adult;Male;79,00;;1st Class Passenger;1
+ROTHSCHILD, Mr Martin;Dead;Cherbourg;1;Man;46;Adult;Male;59,40;;1st Class Passenger;1
+SAMUEL, Mr Owen Wilmore;Dead;Southampton;Crew;Man;46;Adult;Male;;;Victualling Crew;V
+SWAN, Mr William;Dead;Belfast;Crew;Man;46;Adult;Male;;;Victualling Crew;V
+SWIFT, Mrs Margaret Welles;Alive;Southampton;1;Woman;46;Adult;Female;25,93;8;1st Class Passenger;1
+THEISSINGER, Mr Alfred;Alive;Southampton;Crew;Man;46;Adult;Male;;;Victualling Crew;V
+VANDERCRUYSSEN, Mr Victor;Dead;Southampton;3;Man;46;Adult;Male;9,00;;3rd Class Passenger;3
+WILLIS, Mr William;Dead;Southampton;Crew;Man;46;Adult;Male;;;Victualling Crew;V
+ANDERSON, Mr Harry;Alive;Southampton;1;Man;47;Adult;Male;26,55;3;1st Class Passenger;1
+ASTOR, Colonel John Jacob;Dead;Cherbourg;1;Man;47;Adult;Male;247,53;;1st Class Passenger;1
+BARKWORTH, Mr Algernon Henry;Alive;Southampton;1;Man;47;Adult;Male;30,00;B;1st Class Passenger;1
+BENVILLE, Mr Edward;Dead;Southampton;Crew;Man;47;Adult;Male;;;Engineering Crew;E
+CHAFFEE, Mrs Carrie Constance;Alive;Southampton;1;Woman;47;Adult;Female;61,18;4;1st Class Passenger;1
+DUNFORD, Mr William;Dead;Southampton;Crew;Man;47;Adult;Male;;;Victualling Crew;V
+EGG, Mr William Henry;Dead;Southampton;Crew;Man;47;Adult;Male;;;Victualling Crew;V
+ELSBURY, Mr William James;Dead;Southampton;3;Man;47;Adult;Male;7,25;;3rd Class Passenger;3
+GEE, Mr Arthur H.;Dead;Southampton;1;Man;47;Adult;Male;38,50;;1st Class Passenger;1
+GILBERT, Mr William;Dead;Southampton;2;Man;47;Adult;Male;10,50;;2nd Class Passenger;2
+GOLDENBERG, Mr Samuel L.;Alive;Cherbourg;1;Man;47;Adult;Male;89,10;5;1st Class Passenger;1
+HART, Mr Benjamin;Dead;Southampton;2;Man;47;Adult;Male;26,25;;2nd Class Passenger;2
+JARVIS, Mr Denzil John;Dead;Southampton;2;Man;47;Adult;Male;15,00;;2nd Class Passenger;2
+LIGHT, Mr W.;Dead;Southampton;Crew;Man;47;Adult;Male;;;Engineering Crew;E
+MCCARTHY, Mr William;Alive;Southampton;Crew;Man;47;Adult;Male;;4;Deck Crew;D
+MOORE, Mr Clarence Bloomfield;Dead;Southampton;1;Man;47;Adult;Male;42,40;;1st Class Passenger;1
+NICHOLS, Mr Alfred William Stanley;Dead;Belfast;Crew;Man;47;Adult;Male;;;Deck Crew;D
+PERREN, Mr William Charles;Dead;Southampton;Crew;Man;47;Adult;Male;;;Victualling Crew;V
+ROBINS, Mrs Grace Charity;Dead;Southampton;3;Woman;47;Adult;Female;14,50;;3rd Class Passenger;3
+SAALFELD, Mr Adolphe;Alive;Southampton;1;Man;47;Adult;Male;30,50;3;1st Class Passenger;1
+STAP, Miss Sarah Agnes;Alive;Southampton;Crew;Woman;47;Adult;Female;;11;Victualling Crew;V
+WILKES, Mrs Ellen;Alive;Southampton;3;Woman;47;Adult;Female;7,00;16;3rd Class Passenger;3
+ANDERSON, Mr Walter Yuill;Dead;Southampton;Crew;Man;48;Adult;Male;;;Victualling Crew;V
+BRANDEIS, Mr Emil;Dead;Cherbourg;1;Man;48;Adult;Male;50,50;;1st Class Passenger;1
+BREWSTER, Mr George Henry;Dead;Belfast;Crew;Man;48;Adult;Male;;;Victualling Crew;V
+CHIBNALL, Mrs Edith Martha Bowerman;Alive;Southampton;1;Woman;48;Adult;Female;55,00;6;1st Class Passenger;1
+DAVIES, Mrs Agnes;Alive;Southampton;2;Woman;48;Adult;Female;36,75;14;;2
+DOUGLAS, Mrs Mahala;Alive;Cherbourg;1;Woman;48;Adult;Female;106,43;2;1st Class Passenger;1
+DUFF GORDON, Lucy Christiana, Lady;Alive;Cherbourg;1;Woman;48;Adult;Female;56,93;1;1st Class Passenger;1
+FLEGENHEIM, Mrs Antoinette;Alive;Cherbourg;1;Woman;48;Adult;Female;31,68;7;1st Class Passenger;1
+FORD, Mrs Margaret Ann Watson;Dead;Southampton;3;Woman;48;Adult;Female;34,38;;3rd Class Passenger;3
+FRLICHER-STEHLI, Mrs Margaretha Emerentia;Alive;Cherbourg;1;Woman;48;Adult;Female;79,20;5;1st Class Passenger;1
+HARPER, Mr Henry Sleeper;Alive;Cherbourg;1;Man;48;Adult;Male;76,73;3;1st Class Passenger;1
+HART, Mrs Esther Ada;Alive;Southampton;2;Woman;48;Adult;Female;26,25;14;2nd Class Passenger;2
+HERMAN, Mrs Jane;Alive;Southampton;2;Woman;48;Adult;Female;65,00;9;2nd Class Passenger;2
+HUMPHREYS, Mr Sidney James;Alive;Southampton;Crew;Man;48;Adult;Male;;11;Deck Crew;D
+JENSEN, Mr Niels Peder (Rasmus);Dead;Southampton;3;Man;48;Adult;Male;7,05;;;3
+MEO (MARTINO), Mr Alfonzo;Dead;Southampton;3;Man;48;Adult;Male;8,05;;3rd Class Passenger;3
+MILLING, Mr Jacob Christian;Dead;Southampton;2;Man;48;Adult;Male;13,00;;2nd Class Passenger;2
+RYERSON, Mrs Emily Maria;Alive;Cherbourg;1;Woman;48;Adult;Female;262,38;4;1st Class Passenger;1
+TAYLOR, Mr Elmer Zebley;Alive;Southampton;1;Man;48;Adult;Male;52,00;5;1st Class Passenger;1
+TOOMEY, Miss Ellen Mary;Alive;Southampton;2;Woman;48;Adult;Female;10,50;9;2nd Class Passenger;2
+WALKER, Mr William Anderson;Dead;Southampton;1;Man;48;Adult;Male;34,00;;1st Class Passenger;1
+WALPOLE, Mr James;Dead;Belfast;Crew;Man;48;Adult;Male;;;Victualling Crew;V
+CASE, Mr Howard Brown;Dead;Southampton;1;Man;49;Adult;Male;26,00;;1st Class Passenger;1
+COUCH, Mr Joseph Henry;Dead;Southampton;Crew;Man;49;Adult;Male;;;Engineering Crew;E
+CULLEN, Mr Charles James;Alive;Belfast;Crew;Man;49;Adult;Male;;11;Victualling Crew;V
+DINENAGE, Mr James Richard;Dead;Southampton;Crew;Man;49;Adult;Male;;;Victualling Crew;V
+DUFF GORDON, Sir Cosmo Edmund;Alive;Cherbourg;1;Man;49;Adult;Male;39,60;1;1st Class Passenger;1
+FRAUENTHAL, Dr Henry William;Alive;Southampton;1;Man;49;Adult;Male;133,65;5;1st Class Passenger;1
+HARPER, Mrs Myra Raymond;Alive;Cherbourg;1;Woman;49;Adult;Female;76,73;3;;1
+HART, Mr James;Dead;Southampton;Crew;Man;49;Adult;Male;;;Engineering Crew;E
+HERMAN, Mr Samuel;Dead;Southampton;2;Man;49;Adult;Male;65,00;;2nd Class Passenger;2
+ISMAY, Mr Joseph Bruce;Alive;Southampton;1;Man;49;Adult;Male;0,00;C;1st Class Passenger;1
+JOHNSON, Mr August;Dead;Southampton;3;Man;49;Adult;Male;0,00;;3rd Class Passenger;3
+LEADER, Dr Alice May;Alive;Southampton;1;Woman;49;Adult;Female;25,93;8;;1
+OWEN, Mr Lewis;Dead;Southampton;Crew;Man;49;Adult;Male;;;Victualling Crew;V
+PENROSE, Mr John Poole;Dead;Belfast;Crew;Man;49;Adult;Male;;;Victualling Crew;V
+RANSOM, Mr James Augustus;Dead;Belfast;Crew;Man;49;Adult;Male;;;Victualling Crew;V
+ROMMETVEDT, Mr Knud Paust;Dead;Southampton;3;Man;49;Adult;Male;7,78;;3rd Class Passenger;3
+ROUSSEAU, Mr Pierre;Dead;Southampton;Crew;Man;49;Adult;Male;;;Restaurant Staff;R
+TAYLOR, Mr John Henry;Dead;Southampton;Crew;Man;49;Adult;Male;;;Engineering Crew;E
+TAYLOR, Mrs Juliet Cummins;Alive;Southampton;1;Woman;49;Adult;Female;52,00;5;1st Class Passenger;1
+THAYER, Mr John Borland;Dead;Cherbourg;1;Man;49;Adult;Male;110,88;;1st Class Passenger;1
+BAXTER, Mrs Hlne;Alive;Cherbourg;1;Woman;50;Adult;Female;247,52;6;1st Class Passenger;1
+BELL, Mr Joseph;Dead;Belfast;Crew;Man;50;Adult;Male;;;Engineering Crew;E
+CHITTY, Mr George Henry;Dead;Southampton;Crew;Man;50;Adult;Male;;;Victualling Crew;V
+DOUGLAS, Mr Walter Donald;Dead;Cherbourg;1;Man;50;Adult;Male;106,43;;1st Class Passenger;1
+HODGES, Mr Henry Price;Dead;Southampton;2;Man;50;Adult;Male;13,00;;2nd Class Passenger;2
+ISHAM, Miss Ann Elizabeth;Dead;Cherbourg;1;Woman;50;Adult;Female;28,71;;1st Class Passenger;1
+JULIAN, Mr Henry Forbes;Dead;Southampton;1;Man;50;Adult;Male;26,00;;1st Class Passenger;1
+LINES, Mrs Elizabeth Lindsey;Alive;Cherbourg;1;Woman;50;Adult;Female;39,40;9;1st Class Passenger;1
+LOUCH, Mr Charles Alexander;Dead;Southampton;2;Man;50;Adult;Male;26,00;;2nd Class Passenger;2
+MARCH, Mr John Starr;Dead;Southampton;Crew;Man;50;Adult;Male;;;Victualling CrewPostal Clerk;V
+ROBINS, Mr Alexander A.;Dead;Southampton;3;Man;50;Adult;Male;14,50;;3rd Class Passenger;3
+WEBB, Mr Brooke Holding;Dead;Belfast;Crew;Man;50;Adult;Male;;;Victualling Crew;V
+WIDENER, Mr George Dunton;Dead;Southampton;1;Man;50;Adult;Male;211,50;;1st Class Passenger;1
+WIDENER, Mrs Eleanor;Alive;Southampton;1;Woman;50;Adult;Female;211,50;4;1st Class Passenger;1
+BATEMAN, Fr Robert James;Dead;Southampton;2;Man;51;Adult;Male;12,53;;2nd Class Passenger;2
+DALY, Mr Peter Dennis;Alive;Southampton;1;Man;51;Adult;Male;26,55;5;1st Class Passenger;1
+HOGEBOOM, Mrs Anna Louisa;Alive;Cherbourg;1;Woman;51;Adult;Female;77,96;10;1st Class Passenger;1
+LUNDAHL, Mr Johan Svensson;Dead;Southampton;3;Man;51;Adult;Male;7,05;;3rd Class Passenger;3
+MILLS, Mr Christopher;Alive;Southampton;Crew;Man;51;Adult;Male;;C;Victualling Crew;V
+SILVEY, Mr William Baird;Dead;Cherbourg;1;Man;51;Adult;Male;55,90;;1st Class Passenger;1
+STOREY, Mr Thomas;Dead;Southampton;3;Man;51;Adult;Male;0,00;;3rd Class Passenger;3
+WIDEGREN, Mr Carl / Charles Peter;Dead;Southampton;3;Man;51;Adult;Male;7,75;;3rd Class Passenger;3
+WILLIAMS, Mr Charles Duane;Dead;Cherbourg;1;Man;51;Adult;Male;61,38;;1st Class Passenger;1
+CANDEE, Mrs Helen Churchill;Alive;Cherbourg;1;Woman;52;Adult;Female;27,45;6;1st Class Passenger;1
+CHAPMAN, Mr Charles Henry;Dead;Southampton;2;Man;52;Adult;Male;13,50;;2nd Class Passenger;2
+DODGE, Dr Washington;Alive;Southampton;1;Man;52;Adult;Male;81,86;13;1st Class Passenger;1
+GREENBERG, Mr Samuel;Dead;Southampton;2;Man;52;Adult;Male;13,00;;2nd Class Passenger;2
+HAYS, Mrs Clara Jennings;Alive;Southampton;1;Woman;52;Adult;Female;93,50;3;1st Class Passenger;1
+KIRKLAND, Fr Charles Leonard;Dead;Queenstown;2;Man;52;Adult;Male;12,35;;2nd Class Passenger;2
+MAYTUM, Mr Alfred;Dead;Belfast;Crew;Man;52;Adult;Male;;;Victualling Crew;V
+PEUCHEN, Major Arthur Godfrey;Alive;Southampton;1;Man;52;Adult;Male;30,50;6;1st Class Passenger;1
+STEPHENSON, Mrs Martha;Alive;Cherbourg;1;Woman;52;Adult;Female;78,27;4;1st Class Passenger;1
+TAUSSIG, Mr Emil;Dead;Southampton;1;Man;52;Adult;Male;79,65;;1st Class Passenger;1
+WEIKMAN, Mr Augustus Henry;Alive;Southampton;Crew;Man;52;Adult;Male;;;Victualling Crew;V
+APPLETON, Mrs Charlotte;Alive;Southampton;1;Woman;53;Adult;Female;51,48;2;1st Class Passenger;1
+BAXTER, Mr Harry Ross;Dead;Southampton;Crew;Man;53;Adult;Male;;;Victualling Crew;V
+GRACIE, Colonel Archibald;Alive;Southampton;1;Man;53;Adult;Male;28,50;B;1st Class Passenger;1
+HANDS, Mr Bernard;Dead;Southampton;Crew;Man;53;Adult;Male;;;Engineering Crew;E
+MISHELLANY, Mr Abraham Mansoor;Dead;Belfast;Crew;Man;53;Adult;Male;;;Victualling Crew;V
+ROUSE, Mr Richard Henry;Dead;Southampton;3;Man;53;Adult;Male;8,05;;3rd Class Passenger;3
+WILTON, Mr William Edward;Dead;Southampton;Crew;Man;53;Adult;Male;;;Engineering Crew;E
+CARTER, Fr Ernest Courtenay;Dead;Southampton;2;Man;54;Adult;Male;26,00;;2nd Class Passenger;2
+EUSTIS, Miss Elizabeth Mussey;Alive;Cherbourg;1;Woman;54;Adult;Female;78,27;4;1st Class Passenger;1
+HOCKING, Mrs Elizabeth Eliza;Alive;Southampton;2;Woman;54;Adult;Female;23,00;4;;2
+MCCARTHY, Mr Timothy J.;Dead;Southampton;1;Man;54;Adult;Male;51,86;;1st Class Passenger;1
+MORAWECK, Dr Ernest;Dead;Southampton;2;Man;54;Adult;Male;14,00;;2nd Class Passenger;2
+REED, Mr Thomas Charles Prowse;Dead;Southampton;Crew;Man;54;Adult;Male;;;Victualling Crew;V
+ROTHSCHILD, Mrs Elizabeth Jane Anne;Alive;Cherbourg;1;Woman;54;Adult;Female;59,40;6;1st Class Passenger;1
+SCOVELL, Mr Robert;Dead;Southampton;Crew;Man;54;Adult;Male;;;Victualling Crew;V
+STENGEL, Mr Charles Emil Henry;Alive;Cherbourg;1;Man;54;Adult;Male;55,44;1;1st Class Passenger;1
+WHITE, Mr Percival Wayland;Dead;Southampton;1;Man;54;Adult;Male;77,29;;1st Class Passenger;1
+WISEMAN, Mr Philippe;Dead;Southampton;3;Man;54;Adult;Male;7,25;;3rd Class Passenger;3
+BAXTER, Mr Thomas Ferguson;Dead;Southampton;Crew;Man;55;Adult;Male;;;Victualling Crew;V
+CORNELL, Mrs Malvina Helen;Alive;Southampton;1;Woman;55;Adult;Female;25,74;2;1st Class Passenger;1
+DOUTON, Mr William Joseph;Dead;Southampton;2;Man;55;Adult;Male;26,00;;2nd Class Passenger;2
+HAYS, Mr Charles Melville;Dead;Southampton;1;Man;55;Adult;Male;93,50;;1st Class Passenger;1
+HIPKINS, Mr William Edward;Dead;Southampton;1;Man;55;Adult;Male;50,00;;1st Class Passenger;1
+JENNER, Mr Thomas Henry (Harry);Dead;Belfast;Crew;Man;55;Adult;Male;;;Victualling Crew;V
+LATIMER, Mr Andrew L;Dead;Belfast;Crew;Man;55;Adult;Male;;;Victualling Crew;V
+LINDSTRM, Mrs Sigrid;Alive;Cherbourg;1;Woman;55;Adult;Female;27,72;6;1st Class Passenger;1
+MOLSON, Mr Harry Markland;Dead;Southampton;1;Man;55;Adult;Male;30,50;;1st Class Passenger;1
+SHELLARD, Mr Frederick William Blainey;Dead;Southampton;3;Man;55;Adult;Male;15,10;;3rd Class Passenger;3
+WHITE, Mrs Ella;Alive;Cherbourg;1;Woman;55;Adult;Female;135,63;8;1st Class Passenger;1
+HEWLETT, Mrs Mary Dunbar;Alive;Southampton;2;Woman;56;Adult;Female;16,00;13;2nd Class Passenger;2
+POTTER, Mrs Lily Alexenia;Alive;Cherbourg;1;Woman;56;Adult;Female;83,16;7;1st Class Passenger;1
+SIMONIUS-BLUMER, Mr Colonel (Oberst) Alfons;Alive;Southampton;1;Man;56;Adult;Male;35,50;3;1st Class Passenger;1
+SMART, Mr John Montgomery;Dead;Southampton;1;Man;56;Adult;Male;26,55;;1st Class Passenger;1
+SMITH, Mr James Clinch;Dead;Cherbourg;1;Man;56;Adult;Male;30,70;;1st Class Passenger;1
+ASHBY, Mr John;Dead;Southampton;2;Man;57;Adult;Male;13,00;;2nd Class Passenger;2
+COLEMAN, Mr John;Dead;Belfast;Crew;Man;57;Adult;Male;;;Engineering Crew;E
+FARTHING, Mr John;Dead;Southampton;1;Man;57;Adult;Male;221,78;;1st Class PassengerServant;1
+JAGO, Mr Joseph;Dead;Southampton;Crew;Man;57;Adult;Male;;;Engineering Crew;E
+MACK, Mrs Mary;Dead;Southampton;2;Woman;57;Adult;Female;10,50;;2nd Class Passenger;2
+SPENCER, Mr William Augustus;Dead;Cherbourg;1;Man;57;Adult;Male;146,52;;1st Class Passenger;1
+WICK, Col. George Dennick;Dead;Southampton;1;Man;57;Adult;Male;164,87;;;1
+BUCKNELL, Mrs Emma Eliza;Alive;Cherbourg;1;Woman;58;Adult;Female;76,29;8;1st Class Passenger;1
+CARDEZA, Mrs Charlotte Wardle;Alive;Cherbourg;1;Woman;58;Adult;Female;512,33;3;1st Class Passenger;1
+KENT, Mr Edward Austin;Dead;Cherbourg;1;Man;58;Adult;Male;29,70;;1st Class Passenger;1
+NEWELL, Mr Arthur Webster;Dead;Cherbourg;1;Man;58;Adult;Male;113,28;;1st Class Passenger;1
+RIDSDALE, Miss Lucy;Alive;Southampton;2;Woman;58;Adult;Female;10,50;13;2nd Class Passenger;2
+RISIEN, Mrs Emma;Dead;Southampton;3;Woman;58;Adult;Female;14,50;;3rd Class Passenger;3
+RULE, Mr Samuel James;Alive;Belfast;Crew;Man;58;Adult;Male;;;Victualling Crew;V
+BOGIE, Mr Norman Leslie;Dead;Southampton;Crew;Man;59;Adult;Male;;;Victualling Crew;V
+BROWN, Mrs Caroline Lane;Alive;Southampton;1;Woman;59;Adult;Female;51,48;D;1st Class Passenger;1
+COXON, Mr Daniel;Dead;Southampton;3;Man;59;Adult;Male;7,25;;3rd Class Passenger;3
+CRAFTON, Mr John Bertram;Dead;Southampton;1;Man;59;Adult;Male;26,55;;1st Class Passenger;1
+GRAHAM, Mrs Edith;Alive;Southampton;1;Woman;59;Adult;Female;153,46;3;1st Class Passenger;1
+LURETTE, Miss Eugnie Elise;Alive;Cherbourg;1;Woman;59;Adult;Female;146,52;6;1st Class PassengerServant;1
+MAY, Mr Arthur William;Dead;Southampton;Crew;Man;59;Adult;Male;;;Engineering Crew;E
+NICHOLSON, Mr Arthur Ernest;Dead;Southampton;1;Man;59;Adult;Male;26,00;;1st Class Passenger;1
+PARRISH, Mrs Lutie Davis;Alive;Southampton;2;Woman;59;Adult;Female;26,00;12;2nd Class Passenger;2
+ROWE, Mr Alfred G.;Dead;Southampton;1;Man;59;Adult;Male;26,55;;1st Class Passenger;1
+SJoSTEDT, Mr Ernst Adolf;Dead;Southampton;2;Man;59;Adult;Male;13,50;;2nd Class Passenger;2
+WEIR, Colonel John;Dead;Southampton;1;Man;59;Adult;Male;26,55;;1st Class Passenger;1
+BAUMANN, Mr John D.;Dead;Cherbourg;1;Man;60;Adult;Male;25,93;;1st Class Passenger;1
+BROWN, Mr Thomas William Solomon;Dead;Southampton;2;Man;60;Adult;Male;39,00;;2nd Class Passenger;2
+FORTUNE, Mrs Mary;Alive;Southampton;1;Woman;60;Adult;Female;263,00;10;1st Class Passenger;1
+FRLICHER-STEHLI, Mr Maximilian Josef;Alive;Cherbourg;1;Man;60;Adult;Male;79,20;5;1st Class Passenger;1
+NYSVEEN, Mr Johan Hansen;Dead;Southampton;3;Man;60;Adult;Male;6,24;;3rd Class Passenger;3
+WARREN, Mrs Anna Sophia;Alive;Cherbourg;1;Woman;60;Adult;Female;75,25;5;1st Class Passenger;1
+BONNELL, Miss Elizabeth;Alive;Southampton;1;Woman;61;Adult;Female;26,55;8;1st Class Passenger;1
+HOWARD, Mrs Ellen Truelove;Dead;Southampton;2;Woman;61;Adult;Female;26,00;;2nd Class Passenger;2
+LINNANE, Mr John;Dead;Queenstown;2;Man;61;Adult;Male;12,35;;2nd Class Passenger;2
+RYERSON, Mr Arthur Larned;Dead;Cherbourg;1;Man;61;Adult;Male;262,38;;1st Class Passenger;1
+SUTTON, Mr Frederick;Dead;Southampton;1;Man;61;Adult;Male;32,32;;1st Class Passenger;1
+VAN DER HOEF, Mr Wyckoff;Dead;Belfast;1;Man;61;Adult;Male;33,50;;1st Class Passenger;1
+ANDREWS, Miss Kornelia Theodosia;Alive;Cherbourg;1;Woman;62;Adult;Female;77,96;10;1st Class Passenger;1
+HARRIS, Mr George;Alive;Southampton;2;Man;62;Adult;Male;10,50;15;2nd Class Passenger;2
+O'LOUGHLIN, Dr William Francis Norman;Dead;Belfast;Crew;Man;62;Adult;Male;;;Deck Crew;D
+SMITH, Captain Edward John;Dead;Southampton;Crew;Man;62;Adult;Male;;;Deck CrewTitanic Officers;D
+STEAD, Mr William Thomas;Dead;Southampton;1;Man;62;Adult;Male;26,55;;1st Class Passenger;1
+STONE, Mrs Martha Evelyn;Alive;Southampton;1;Woman;62;Adult;Female;80,00;6;1st Class Passenger;1
+WRIGHT, Mr George;Dead;Southampton;1;Man;62;Adult;Male;26,55;;1st Class Passenger;1
+HOWARD, Mr Benjamin;Dead;Southampton;2;Man;63;Adult;Male;26,00;;2nd Class Passenger;2
+MEANWELL, Mrs Marian;Dead;Southampton;3;Woman;63;Adult;Female;8,05;;3rd Class Passenger;3
+MYLES, Mr Thomas Francis;Dead;Queenstown;2;Man;63;Adult;Male;9,69;;2nd Class Passenger;2
+RASMUSSEN, Mrs Lena Jakobsen;Dead;Southampton;3;Woman;63;Adult;Female;8,11;;3rd Class Passenger;3
+STRAUS, Mrs Rosalie Ida;Dead;Southampton;1;Woman;63;Adult;Female;221,78;;1st Class Passenger;1
+TURKULA, Mrs Hedwig;Alive;Southampton;3;Woman;63;Adult;Female;9,59;15;3rd Class Passenger;3
+WARREN, Mr Frank Manley;Dead;Cherbourg;1;Man;63;Adult;Male;75,25;;1st Class Passenger;1
+COMPTON, Mrs Mary Eliza;Alive;Cherbourg;1;Woman;64;Adult;Female;83,16;14;1st Class Passenger;1
+CROSBY, Mrs Catherine Elizabeth;Alive;Southampton;1;Woman;64;Adult;Female;71,00;7;1st Class Passenger;1
+FORTUNE, Mr Mark;Dead;Southampton;1;Man;64;Adult;Male;263,00;;1st Class Passenger;1
+OSTBY, Mr Engelhart Cornelius;Dead;Southampton;1;Man;64;Adult;Male;61,98;;1st Class Passenger;1
+STEWART, Mr Albert Ankeny;Dead;Cherbourg;1;Man;64;Adult;Male;27,72;;1st Class Passenger;1
+DWAN, Mr Frank;Dead;Queenstown;3;Man;65;Adult;Male;7,75;;3rd Class Passenger;3
+MILLET, Mr Francis Davis;Dead;Cherbourg;1;Man;65;Adult;Male;26,55;;1st Class Passenger;1
+WHEADON, Mr Edward Henry;Dead;Southampton;2;Man;65;Adult;Male;10,50;;;2
+CONNORS, Mr Patrick;Dead;Queenstown;3;Man;66;Adult;Male;7,75;;3rd Class Passenger;3
+WEBBER, Mr James;Dead;Southampton;3;Man;66;Adult;Male;8,05;;3rd Class Passenger;3
+STRAUS, Mr Isidor;Dead;Southampton;1;Man;67;Adult;Male;221,78;;1st Class Passenger;1
+RISIEN, Mr Samuel Beard;Dead;Southampton;3;Man;69;Adult;Male;14,50;;3rd Class Passenger;3
+CROSBY, Captain Edward Gifford;Dead;Southampton;1;Man;70;Adult;Male;71,00;;1st Class Passenger;1
+ARTAGAVEYTIA, Mr Ramon;Dead;Cherbourg;1;Man;71;Adult;Male;49,50;;1st Class Passenger;1
+GOLDSCHMIDT, Mr George B.;Dead;Cherbourg;1;Man;71;Adult;Male;34,65;;1st Class Passenger;1
+MITCHELL, Mr Henry Michael;Dead;Southampton;2;Man;71;Adult;Male;10,50;;2nd Class Passenger;2
+SVENSSON, Mr Johan;Dead;Southampton;3;Man;74;Adult;Male;7,78;;3rd Class Passenger;3
+GHEORGHEFF, Mr Stanio;Dead;Cherbourg;3;Man;;Adult;Male;7,90;;3rd Class Passenger;3
+KRAEFF, Mr Theodor;Dead;Cherbourg;3;Man;;Adult;Male;7,90;;3rd Class Passenger;3
+SMITH, Mr Richard William;Dead;Southampton;1;Man;;Adult;Male;26,00;;1st Class Passenger;1
