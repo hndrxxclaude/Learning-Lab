@@ -1,0 +1,4 @@
+cesare ('a', 4) = 'e'
+cesare ('b', 4) = 'f'
+cesare ('c', 4) = 'g'
+cesare ('d', 4) = 'h'

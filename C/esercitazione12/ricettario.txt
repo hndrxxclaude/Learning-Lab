@@ -1,0 +1,16 @@
+pasta col pomodoro
+3
+pasta 80 grammi
+salsa 40 grammi
+parmigiano 20 grammi
+10 minuti
+primo piatto
+
+cannolo
+3
+cialda 30 grammi
+ricotta 50 grammi
+cioccolato 10 grammi
+0 minuti
+dolce
+

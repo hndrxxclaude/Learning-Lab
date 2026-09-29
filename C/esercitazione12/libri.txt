@@ -1,0 +1,5 @@
+4
+I Promessi Sposi,Alessandro,Manzoni,571,38
+La fine dell'eternità,Isaac,Asimov,236,18
+Come un romanzo,Daniel,Pennac,139,67
+Il Processo,Franz,Kafka,250,10
