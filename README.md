@@ -20,7 +20,10 @@ memory access, stack usage and condition flags using VisUAL2
 
 <p align="center">
 <img src="./images/Screenshot%202026-08-26%20at%2016.06.31.png" width="600">
-</p>
+</p> 
+
+### C
+Exercises from my first year's Programming Foundations course
 
 ### Java
 Exercises from this semester's Java course: OOP, collections, streams, debugging exercises
