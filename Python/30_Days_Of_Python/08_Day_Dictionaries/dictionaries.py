@@ -24,8 +24,8 @@ student = {
     "Country": "Italy",
     "City": "Palermo",
     "Address": {
-        "Street": "Via Cozzo Brogna 35",
-        "Postal Code": 90014
+        "Street": "Example Street",
+        "Postal Code": 00000
     }
 }
 
