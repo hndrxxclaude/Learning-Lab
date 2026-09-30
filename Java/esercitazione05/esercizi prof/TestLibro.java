@@ -6,9 +6,9 @@ public class TestLibro {
 
         buddha.setGenere("romanzo");
 
-        Libro gay = new Libro("It", "King", 400);
+        Libro it = new Libro("It", "King", 400);
 
-        gay.setGenere("horror");
+        it.setGenere("horror");
 
         System.out.println(buddha.toString());
     }
