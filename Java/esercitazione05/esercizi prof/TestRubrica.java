@@ -1,9 +1,9 @@
 public class TestRubrica {
     public static void main(String[] args){
 
-        Contatto io = new Contatto(1, "Claudio", "Gentile", "claudiomariogentile@gmail.com", "3515603030");
-        Contatto pa = new Contatto(53, "Papà", "Gentile", "antartesas@libero.it", "3203483238");
-        Contatto ma = new Contatto(48, "Giada", "Zangara", "", "3393531137");
+        Contatto io = new Contatto(1, "Claudio", "Gentile", "esempio@gmail.com", "0000000000");
+        Contatto pa = new Contatto(53, "Papà", "Gentile", "esempio@libero.it", "1111111111");
+        Contatto ma = new Contatto(48, "Mamma", "Zangara", "", "2222222222");
 
         Rubrica myrubrica = new Rubrica();
 
