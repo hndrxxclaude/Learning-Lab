@@ -35,6 +35,7 @@ Locking in Python fundamentals before pushing further into machine learning and 
 | 20 | Python Package Manager | ✅ |
 | 21 | Classes and Objects | ✅ |
 | 22 | Web Scraping | ✅ |
+| 23 | Virtual Environments | ✅ | 
 | ... | ... | ⬜ |
 | 30 | Putting It All Together | ⬜ |
 
