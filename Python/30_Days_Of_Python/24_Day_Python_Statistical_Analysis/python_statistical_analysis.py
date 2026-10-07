@@ -139,8 +139,6 @@ print(normal_array)
 # NumPy and Statistics
 import matplotlib.pyplot as plt
 import seaborn as sns
-sns.set()
-print(plt.hist(normal_array, color = "grey", bins = 10))
 
 # Matrix in NumPy
 matrix = np.matrix(np.ones((3, 3), dtype=float))
@@ -156,5 +154,77 @@ print(numbers)
 even_numbers = np.arange(2, 21, 2)
 print(even_numbers)
 
-# numpy.linspace() and numpy.logspace()
+# numpy.linspace()
+print(np.linspace(1.0, 10.0, num = 50))
 
+print(np.linspace(1.0, 10.0, num = 20, endpoint = False))
+
+# Complex NumPy arrays
+x = np.array([1, 2, 3], dtype = complex)
+print(x)
+
+print(x.itemsize) # 16 bytes, 64 bit or 8 bytes for real part and 8 bytes for imaginary part
+
+# Numpy statistical functions
+print('Min:', two_dim_np_arr.min())
+print('Max:', two_dim_np_arr.max())
+print('Mean:', two_dim_np_arr.mean())
+print('Standard Deviation:', two_dim_np_arr.std())
+
+print(two_dim_np_arr)
+print("Row with min:", np.amin(two_dim_np_arr, axis = 0))
+print("Row with max:", np.amax(two_dim_np_arr, axis = 0))
+print("Column with min:", np.amin(two_dim_np_arr, axis = 1))
+print("Column with max:", np.amax(two_dim_np_arr, axis = 1))
+
+# Create repeating sequences
+a = [1, 2, 3]
+print("Repeat whole list:", np.tile(a, 3)) 
+print("Repeat every item in the list:", np.repeat(a, 3))
+
+# Random choice between items
+print(np.random.choice(['a', 'e', 'i', 'o', 'u'], size = 7))
+
+np_normal_dist = np.random.normal(5, 0.5, 1000)
+print('Min:', np.min(np_normal_dist))
+print('Max:', np.max(np_normal_dist))
+print('Mean:', np.mean(np_normal_dist))
+print('Median:', np.median(np_normal_dist))
+print('Standard Deviation:', np.std(np_normal_dist))
+
+plt.hist(np_normal_dist, color = 'grey', bins = 21)
+plt.show()
+
+# Linear Algebra - Dot Product
+f = [1, 2, 3]
+g = [4, 5, 6]
+print(np.dot(f, g))
+
+# Matrix Multiplication
+h = [[1, 2], [3, 4]]
+i = [[5, 6], [7, 8]]
+print(np.matmul(h, i))
+
+# Determinant
+print(round(np.linalg.det(i), 2))
+
+# Linear relationship
+temp = np.array([1, 2, 3, 4, 5])
+pressure = temp * 2 + 5
+
+plt.plot(temp, pressure)
+plt.xlabel('Temperature')
+plt.ylabel('Pressure')
+plt.xticks(np.arange(0, 6, step = 0.5))
+plt.title('Temperature vs Pressure')
+plt.show
+
+# Normal Distribution
+mu = 28
+sigma = 15
+samples = 100000
+
+x = np.random.normal(mu, sigma, samples)
+ax = sns.displot(x)
+ax.set(xlabel='x', ylabel='y')
+plt.show()
