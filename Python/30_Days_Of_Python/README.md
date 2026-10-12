@@ -37,6 +37,7 @@ Locking in Python fundamentals before pushing further into machine learning and 
 | 22 | Web Scraping | ✅ |
 | 23 | Virtual Environments | ✅ |
 | 24 | Statistics | ✅ |
+| 25 | Pandas | ✅ |
 | ... | ... | ⬜ |
 | 30 | Putting It All Together | ⬜ |
 
